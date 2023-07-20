@@ -1,0 +1,3342 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2017-12-08T13:19:34.019+01:00</Created>
+        <LastChange>2023-07-19T15:56:33.180+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="1148848" pageId="47122026" pageNr="114" tsid="130099469" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=DVXSDSXHJIKVXJNMRXWHYAAR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RIQOTGVNORHEBRMXLZDXPGJZ" imageId="38489881"/>
+    </Metadata>
+    <Page imageFilename="nzz_18930529_0_0_a1_p1_1.tif" imageWidth="3905" imageHeight="5551">
+        <PrintSpace>
+            <Coords points="0,0 3904,0 3904,5551 0,5551"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1689864176823" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="3" regionRef="r4"/>
+                <RegionRefIndexed index="4" regionRef="r5"/>
+                <RegionRefIndexed index="5" regionRef="r6"/>
+                <RegionRefIndexed index="6" regionRef="r7"/>
+                <RegionRefIndexed index="7" regionRef="r8"/>
+                <RegionRefIndexed index="8" regionRef="r9"/>
+                <RegionRefIndexed index="9" regionRef="r10"/>
+                <RegionRefIndexed index="10" regionRef="r11"/>
+                <RegionRefIndexed index="11" regionRef="r12"/>
+                <RegionRefIndexed index="12" regionRef="r13"/>
+                <RegionRefIndexed index="13" regionRef="r14"/>
+                <RegionRefIndexed index="14" regionRef="r15"/>
+                <RegionRefIndexed index="15" regionRef="r16"/>
+                <RegionRefIndexed index="16" regionRef="r17"/>
+                <RegionRefIndexed index="17" regionRef="r18"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="header" id="r1" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="176,115 1050,111 1050,209 176,213"/>
+            <TextLine id="r1l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="190,125 189,204 1038,197 1038,123"/>
+                <Baseline points="192,186 1036,186"/>
+                <TextEquiv>
+                    <Unicode>No. 149 Zweites Blatt S</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="1686,109 1686,200 2322,199 2322,108"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1708,187 2301,192 2301,122 1708,119"/>
+                <Baseline points="1708,172 2301,177"/>
+                <TextEquiv>
+                    <Unicode>Dreiundſiebenzigſter Jahrgang.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r3" custom="readingOrder {index:2;} structure {type:header;}">
+            <Coords points="2762,109 3624,108 3625,218 2763,219"/>
+            <TextLine id="r3l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="3597,121 2783,122 2782,203 3596,203"/>
+                <Baseline points="2786,189 3592,189"/>
+                <TextEquiv>
+                    <Unicode>Montag, 29. Mai 1893.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r4" custom="readingOrder {index:3;} structure {type:header;}">
+            <Coords points="93,220 3689,220 3682,781 86,719"/>
+            <TextLine id="r4l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1811,734 3636,780 3636,236 148,236 146,657"/>
+                <Baseline points="147,646 3636,646"/>
+                <TextEquiv>
+                    <Unicode>Neue Zürcher⸗Zeitung</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="85.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r5" custom="readingOrder {index:4;} structure {type:header;}">
+            <Coords points="1187,809 2581,813 2580,1018 1186,1014"/>
+            <TextLine id="r5l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="2550,994 2550,826 1218,826 1218,994"/>
+                <Baseline points="1218,960 2550,960"/>
+                <TextEquiv>
+                    <Unicode>und ſchweizeriſches Handelsblatt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="22.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r6" custom="readingOrder {index:5;} structure {type:header;}">
+            <Coords points="1027,778 1026,1040 104,1032 107,772"/>
+            <TextLine id="r6l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="279,786 279,817 1007,831 1006,801"/>
+                <Baseline points="280,814 1006,828"/>
+                <TextEquiv>
+                    <Unicode>Abonnementspreise. 3 Monate. 6 Monate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="855,935 856,910 128,901 127,928"/>
+                <Baseline points="126,923 856,933"/>
+                <TextEquiv>
+                    <Unicode>Deutſchland (Beſtellung beim Poſtamt) Mk. 6.25</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="857,963 857,936 127,929 127,955"/>
+                <Baseline points="126,951 854,960"/>
+                <TextEquiv>
+                    <Unicode>Oesterreich-Ungarn (Best. b. Poſtamt) fl. d. W. 4.82</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="126,954 127,983 1003,993 1003,962"/>
+                <Baseline points="127,977 1002,989"/>
+                <TextEquiv>
+                    <Unicode>Uebrige Staaten des Weltpoſtvereins Fr. 11.50 Fr. 22.—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="179,875 178,900 1005,913 1006,884"/>
+                <Baseline points="179,896 1003,907"/>
+                <TextEquiv>
+                    <Unicode>do. (mit Bezug unter Privatadreſſe) „ 7.50 „ 14.—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="128,848 129,875 1007,884 1008,857"/>
+                <Baseline points="128,871 1005,879"/>
+                <TextEquiv>
+                    <Unicode>Schweiz (Bestellung beim Poſtbureau) „ 6.— „ 11.—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="128,821 128,849 1006,859 1006,830"/>
+                <Baseline points="130,843 1005,853"/>
+                <TextEquiv>
+                    <Unicode>Zürich (wenn die Zeitung abgeholt wird) Fr. 4.50 Fr. 3.50</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="4.5"/>
+            </TextLine>
+            <TextLine id="r6l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="269,994 269,1030 858,1037 858,998"/>
+                <Baseline points="271,1023 856,1030"/>
+                <TextEquiv>
+                    <Unicode>Redaktionsbureau: Brunngaſſe Nr. 2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r7" custom="readingOrder {index:6;} structure {type:header;}">
+            <Coords points="2733,836 3015,784 3403,784 3677,833 3673,1046 2736,1046"/>
+            <TextLine id="r7l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="3459,863 3459,836 2955,834 2954,860"/>
+                <Baseline points="2955,855 3458,859"/>
+                <TextEquiv>
+                    <Unicode>Per einſpaltige Petitzeile oder deren Raum</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="4.5"/>
+            </TextLine>
+            <TextLine id="r7l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="3515,893 3516,863 2897,859 2896,888"/>
+                <Baseline points="2897,883 3515,889"/>
+                <TextEquiv>
+                    <Unicode>für die Schweiz 25 Cts., für das Ausland 40 Cts.,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="3198,886 2764,884 2765,914 3201,916 3648,925 3647,893"/>
+                <Baseline points="2765,911 3648,920"/>
+                <TextEquiv>
+                    <Unicode>Local⸗Inſerate 20 Cts. (excl. finanz. Anzeigen), Reclamen Fr. 1.— per Zeile.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="2996,913 2995,942 3413,944 3414,916"/>
+                <Baseline points="2994,936 3412,939"/>
+                <TextEquiv>
+                    <Unicode>Alleinige Inſeraten⸗Annahme bei</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="4.5"/>
+            </TextLine>
+            <TextLine id="r7l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="3358,975 3358,942 3056,939 3056,974"/>
+                <Baseline points="3056,970 3358,971"/>
+                <TextEquiv>
+                    <Unicode>Rudolf Mosse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="2765,974 2764,1005 3646,1011 3646,980"/>
+                <Baseline points="2764,1000 3646,1005"/>
+                <TextEquiv>
+                    <Unicode>Annoncen⸗Expedition für alle ſchweizeriſchen und ausländiſchen Zeitungen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="4.5"/>
+            </TextLine>
+            <TextLine id="r7l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="3369,1042 3370,1006 3030,1005 3029,1041"/>
+                <Baseline points="3028,1034 3369,1035"/>
+                <TextEquiv>
+                    <Unicode>Zürich, Schifflände 32.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r7l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="3013,798 3012,834 3399,836 3400,799"/>
+                <Baseline points="3014,827 3400,831"/>
+                <TextEquiv>
+                    <Unicode>Inſertionspreiſe:</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="heading" id="r8" custom="readingOrder {index:7;} structure {type:heading;}">
+            <Coords points="280,1102 826,1103 824,1204 679,1245 431,1245 278,1203"/>
+            <TextLine id="r8l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="802,1123 305,1119 304,1196 801,1201"/>
+                <Baseline points="306,1184 802,1186"/>
+                <TextEquiv>
+                    <Unicode>Tagesbericht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r8l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="678,1203 431,1202 430,1235 677,1237"/>
+                <Baseline points="430,1235 678,1235"/>
+                <TextEquiv>
+                    <Unicode>vom 29. Mai.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r9" custom="readingOrder {index:8;}">
+            <Coords points="101,1250 991,1250 995,2647 998,4692 997,5382 92,5384 94,4029 96,2956"/>
+            <TextLine id="r9l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="194,1260 194,1305 978,1314 979,1264"/>
+                <Baseline points="193,1298 977,1304"/>
+                <TextEquiv>
+                    <Unicode>Partei⸗Umbildungen in Deutſch⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5" bold="true"/>
+            </TextLine>
+            <TextLine id="r9l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="127,1307 127,1349 980,1356 980,1315"/>
+                <Baseline points="128,1344 980,1348"/>
+                <TextEquiv>
+                    <Unicode>land. ♂♂ Berlin, 26. Mai. Was dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="128,1351 127,1394 979,1402 979,1358"/>
+                <Baseline points="129,1388 979,1393"/>
+                <TextEquiv>
+                    <Unicode>alten Bismarck ſein Lebtag mit aller diplomatiſchen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="129,1396 129,1439 980,1444 980,1403"/>
+                <Baseline points="129,1433 979,1435"/>
+                <TextEquiv>
+                    <Unicode>Kunſt nicht gelang, ſinkt dem Grafen Caprivi von</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="129,1442 129,1485 979,1492 980,1447"/>
+                <Baseline points="129,1477 980,1481"/>
+                <TextEquiv>
+                    <Unicode>ſelbſt in den Schoß. Die Deutſchfreiſinnigen fallen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="129,1487 130,1529 980,1534 979,1493"/>
+                <Baseline points="128,1522 978,1525"/>
+                <TextEquiv>
+                    <Unicode>auseinander, und der große Thurm des Centrums</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="130,1531 129,1576 981,1580 981,1536"/>
+                <Baseline points="130,1566 980,1569"/>
+                <TextEquiv>
+                    <Unicode>ſpaltet ſich in den Grundveſten. Selbſt in der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="129,1577 129,1619 980,1624 980,1580"/>
+                <Baseline points="128,1611 978,1615"/>
+                <TextEquiv>
+                    <Unicode>Sozialdemokratie zeigt ſich ein feindlicher Bohr⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="128,1620 128,1664 979,1668 978,1626"/>
+                <Baseline points="128,1656 978,1660"/>
+                <TextEquiv>
+                    <Unicode>wurm in Geſtalt der anarchiſtiſch angehauchten</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="130,1665 130,1708 980,1711 979,1670"/>
+                <Baseline points="130,1699 979,1703"/>
+                <TextEquiv>
+                    <Unicode>Unabhängigen. Bismarcks innere Politik war leiden⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="132,1710 132,1753 981,1758 981,1713"/>
+                <Baseline points="133,1743 980,1748"/>
+                <TextEquiv>
+                    <Unicode>ſchaftlich, energiſch wie der ganze Mann. Sie</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="129,1755 129,1798 980,1803 980,1759"/>
+                <Baseline points="129,1789 979,1792"/>
+                <TextEquiv>
+                    <Unicode>hämmerte mit Gewalt nicht nur die Freunde, ſon⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="129,1800 129,1841 981,1848 980,1804"/>
+                <Baseline points="129,1834 980,1839"/>
+                <TextEquiv>
+                    <Unicode>dern auch die Feinde zu einem feſteren Ganzen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="130,1843 129,1889 982,1889 981,1849"/>
+                <Baseline points="130,1878 982,1880"/>
+                <TextEquiv>
+                    <Unicode>zuſammen. Das alte deutſche National⸗Laſter der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="131,1890 129,1932 982,1937 982,1892"/>
+                <Baseline points="131,1923 982,1925"/>
+                <TextEquiv>
+                    <Unicode>Zerſplitterung vermochte ſie, wenn auch nicht ganz</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="130,1934 131,1978 980,1981 980,1939"/>
+                <Baseline points="129,1970 979,1972"/>
+                <TextEquiv>
+                    <Unicode>zu überwinden, doch zu mildern. Wie oft mar⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="131,1980 132,2021 982,2024 982,1983"/>
+                <Baseline points="131,2013 982,2015"/>
+                <TextEquiv>
+                    <Unicode>ſchierten Nationalliberale, Gemäßigtkonſervative und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="131,2023 131,2068 983,2070 983,2026"/>
+                <Baseline points="132,2059 982,2059"/>
+                <TextEquiv>
+                    <Unicode>Hochkonſervative unwillig als Regierungsmehrheit</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="131,2068 131,2108 982,2115 982,2071"/>
+                <Baseline points="131,2103 982,2104"/>
+                <TextEquiv>
+                    <Unicode>nebeneinander, zuſammengehalten und gebändigt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="135,2111 135,2153 981,2159 981,2115"/>
+                <Baseline points="136,2145 982,2148"/>
+                <TextEquiv>
+                    <Unicode>allein durch den eiſernen Willen des alten Kanzlers.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="136,2156 135,2201 982,2202 982,2160"/>
+                <Baseline points="136,2192 982,2193"/>
+                <TextEquiv>
+                    <Unicode>Und wie lange ſind die auseinanderſtrebenden Ele⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="132,2203 132,2243 983,2248 983,2204"/>
+                <Baseline points="133,2236 982,2238"/>
+                <TextEquiv>
+                    <Unicode>mente in der Oppoſition, die Ariſtokraten und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="134,2245 133,2287 982,2293 982,2249"/>
+                <Baseline points="133,2280 982,2281"/>
+                <TextEquiv>
+                    <Unicode>Demokraten im Centrum, die Wadenſtrümpfe und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="133,2290 132,2333 982,2336 982,2292"/>
+                <Baseline points="133,2325 982,2326"/>
+                <TextEquiv>
+                    <Unicode>die Waſſerſtiefel auf der Linken, die Alten und die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="133,2335 133,2379 982,2381 982,2338"/>
+                <Baseline points="132,2371 982,2371"/>
+                <TextEquiv>
+                    <Unicode>Jungen bei den Sozialiſten einzig und allein aus</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="134,2381 133,2423 982,2426 982,2383"/>
+                <Baseline points="132,2416 982,2415"/>
+                <TextEquiv>
+                    <Unicode>Furcht vor Bismarck bei einander geblieben. Noch</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l27" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="130,2425 130,2467 982,2472 982,2426"/>
+                <Baseline points="130,2459 982,2460"/>
+                <TextEquiv>
+                    <Unicode>in dieſen Tagen wußte der „Vorwärts“ kein beſſeres</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l28" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="129,2469 130,2510 983,2515 982,2472"/>
+                <Baseline points="129,2505 982,2505"/>
+                <TextEquiv>
+                    <Unicode>Mittel für oppoſitionelle Wahlagitation als den</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l29" primaryLanguage="German" custom="readingOrder {index:28;}">
+                <Coords points="131,2513 130,2556 983,2559 982,2516"/>
+                <Baseline points="131,2548 982,2549"/>
+                <TextEquiv>
+                    <Unicode>Bismarckbrief des Prinzen Albrecht unter dem</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l30" primaryLanguage="German" custom="readingOrder {index:29;}">
+                <Coords points="131,2559 131,2600 982,2606 982,2560"/>
+                <Baseline points="130,2592 982,2594"/>
+                <TextEquiv>
+                    <Unicode>Schreck⸗ und Weckruf zu veröffentlichen: „Habt Acht,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l31" primaryLanguage="German" custom="readingOrder {index:30;}">
+                <Coords points="133,2641 559,2643 559,2603 134,2602"/>
+                <Baseline points="134,2638 558,2638"/>
+                <TextEquiv>
+                    <Unicode>Bismarck kommt wieder!“</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l32" primaryLanguage="German" custom="readingOrder {index:31;}">
+                <Coords points="200,2647 200,2690 984,2692 983,2651"/>
+                <Baseline points="199,2682 983,2683"/>
+                <TextEquiv>
+                    <Unicode>Daher war es denn auch — abgeſehen von</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l33" primaryLanguage="German" custom="readingOrder {index:32;}">
+                <Coords points="132,2692 131,2734 984,2736 984,2693"/>
+                <Baseline points="132,2727 983,2727"/>
+                <TextEquiv>
+                    <Unicode>allem anderen — ein großer politiſcher Fehler Ca⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l34" primaryLanguage="German" custom="readingOrder {index:33;}">
+                <Coords points="132,2736 131,2780 983,2782 982,2738"/>
+                <Baseline points="132,2772 983,2772"/>
+                <TextEquiv>
+                    <Unicode>privis, daß er jene amtliche Kundgebung zuließ,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l35" primaryLanguage="German" custom="readingOrder {index:34;}">
+                <Coords points="132,2781 131,2824 983,2826 983,2783"/>
+                <Baseline points="132,2816 983,2816"/>
+                <TextEquiv>
+                    <Unicode>Bismarck werde niemals wieder politiſchen Einfluß</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l36" primaryLanguage="German" custom="readingOrder {index:35;}">
+                <Coords points="132,2826 132,2871 985,2870 985,2827"/>
+                <Baseline points="132,2861 983,2861"/>
+                <TextEquiv>
+                    <Unicode>gewinnen. Er beraubte damit ſich und die Regie⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l37" primaryLanguage="German" custom="readingOrder {index:36;}">
+                <Coords points="133,2872 133,2914 986,2915 986,2871"/>
+                <Baseline points="133,2905 983,2906"/>
+                <TextEquiv>
+                    <Unicode>rung eines der wirkſamſten Schreckmittel gegen die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l38" primaryLanguage="German" custom="readingOrder {index:37;}">
+                <Coords points="325,2955 325,2916 132,2915 132,2955"/>
+                <Baseline points="132,2949 324,2949"/>
+                <TextEquiv>
+                    <Unicode>Oppoſition.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l39" primaryLanguage="German" custom="readingOrder {index:38;}">
+                <Coords points="196,2960 196,3002 983,3003 983,2960"/>
+                <Baseline points="196,2993 983,2994"/>
+                <TextEquiv>
+                    <Unicode>Nachdem die ſtarke Fauſt Bismarcks verſchwun⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l40" primaryLanguage="German" custom="readingOrder {index:39;}">
+                <Coords points="130,3004 131,3047 982,3048 983,3005"/>
+                <Baseline points="133,3038 983,3039"/>
+                <TextEquiv>
+                    <Unicode>den und die letzte Spur von Sorge ausgewiſcht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l41" primaryLanguage="German" custom="readingOrder {index:40;}">
+                <Coords points="134,3049 134,3090 983,3092 984,3048"/>
+                <Baseline points="133,3083 982,3083"/>
+                <TextEquiv>
+                    <Unicode>war, der Gefallene könne machtvoll zurückkehren,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l42" primaryLanguage="German" custom="readingOrder {index:41;}">
+                <Coords points="983,3094 133,3092 134,3137 983,3137"/>
+                <Baseline points="133,3128 982,3127"/>
+                <TextEquiv>
+                    <Unicode>begann jene Lockerung in den einzelnen Parteien,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l43" primaryLanguage="German" custom="readingOrder {index:42;}">
+                <Coords points="134,3139 134,3181 984,3182 985,3138"/>
+                <Baseline points="133,3172 984,3172"/>
+                <TextEquiv>
+                    <Unicode>deren Folgen wir zunächſt in den Spaltungen bei</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l44" primaryLanguage="German" custom="readingOrder {index:43;}">
+                <Coords points="134,3183 134,3227 984,3226 984,3182"/>
+                <Baseline points="134,3218 983,3216"/>
+                <TextEquiv>
+                    <Unicode>den Freiſinnigen und dem Centrum ſehen. Wäre</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l45" primaryLanguage="German" custom="readingOrder {index:44;}">
+                <Coords points="134,3228 134,3271 984,3268 983,3227"/>
+                <Baseline points="134,3262 983,3260"/>
+                <TextEquiv>
+                    <Unicode>dieſer Zerfall das Ergebnis einer klug darauf be⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l46" primaryLanguage="German" custom="readingOrder {index:45;}">
+                <Coords points="134,3273 134,3316 984,3314 984,3270"/>
+                <Baseline points="134,3306 984,3304"/>
+                <TextEquiv>
+                    <Unicode>rechneten Politik Caprivis und würde der jetzige</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l47" primaryLanguage="German" custom="readingOrder {index:46;}">
+                <Coords points="133,3318 133,3361 985,3357 985,3316"/>
+                <Baseline points="134,3351 983,3349"/>
+                <TextEquiv>
+                    <Unicode>Reichskanzler aus dem Zuſammenſtürzenden neue</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l48" primaryLanguage="German" custom="readingOrder {index:47;}">
+                <Coords points="133,3362 133,3405 984,3402 984,3360"/>
+                <Baseline points="132,3396 983,3395"/>
+                <TextEquiv>
+                    <Unicode>lebenskräftige Parteigebilde zum Nutzen der Regie⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l49" primaryLanguage="German" custom="readingOrder {index:48;}">
+                <Coords points="132,3407 132,3450 983,3445 984,3405"/>
+                <Baseline points="133,3440 983,3439"/>
+                <TextEquiv>
+                    <Unicode>rung zu ſchaffen im ſtande ſein, ſo hätte er ſeine</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l50" primaryLanguage="German" custom="readingOrder {index:49;}">
+                <Coords points="133,3451 134,3493 983,3489 982,3448"/>
+                <Baseline points="133,3486 983,3482"/>
+                <TextEquiv>
+                    <Unicode>politiſche Meiſterprüfung beſtanden. Aber die Par⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l51" primaryLanguage="German" custom="readingOrder {index:50;}">
+                <Coords points="136,3494 135,3539 983,3535 983,3492"/>
+                <Baseline points="136,3530 982,3526"/>
+                <TextEquiv>
+                    <Unicode>teien zerbröckeln nur infolge des innern Wider⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l52" primaryLanguage="German" custom="readingOrder {index:51;}">
+                <Coords points="135,3540 135,3584 984,3580 983,3537"/>
+                <Baseline points="135,3574 982,3571"/>
+                <TextEquiv>
+                    <Unicode>ſpruchs ihrer Elemente und weil ſie in Caprivi</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l53" primaryLanguage="German" custom="readingOrder {index:52;}">
+                <Coords points="133,3585 134,3629 983,3624 982,3582"/>
+                <Baseline points="133,3619 982,3616"/>
+                <TextEquiv>
+                    <Unicode>eine ſchwache Hand über ſich fühlen. Die ver⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l54" primaryLanguage="German" custom="readingOrder {index:53;}">
+                <Coords points="133,3630 134,3674 982,3671 982,3625"/>
+                <Baseline points="133,3664 981,3660"/>
+                <TextEquiv>
+                    <Unicode>änderten Verhältniſſe verlangen veränderte Par⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l55" primaryLanguage="German" custom="readingOrder {index:54;}">
+                <Coords points="134,3673 134,3716 983,3714 983,3670"/>
+                <Baseline points="133,3708 982,3704"/>
+                <TextEquiv>
+                    <Unicode>teien, und bei der Umbildung iſt Herr v. Caprivi</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l56" primaryLanguage="German" custom="readingOrder {index:55;}">
+                <Coords points="135,3717 135,3762 982,3759 982,3716"/>
+                <Baseline points="134,3753 982,3748"/>
+                <TextEquiv>
+                    <Unicode>nicht der Schiebende, ſondern der Geſchobene und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l57" primaryLanguage="German" custom="readingOrder {index:56;}">
+                <Coords points="132,3762 132,3805 984,3806 983,3760"/>
+                <Baseline points="133,3797 982,3793"/>
+                <TextEquiv>
+                    <Unicode>vielleicht bei Gelegenheit auch bald der Hinaus⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l58" primaryLanguage="German" custom="readingOrder {index:57;}">
+                <Coords points="130,3807 130,3851 983,3847 983,3804"/>
+                <Baseline points="131,3842 982,3839"/>
+                <TextEquiv>
+                    <Unicode>geſchobene, denn hinter ihm ſteht ein ausbündig</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l59" primaryLanguage="German" custom="readingOrder {index:58;}">
+                <Coords points="130,3852 130,3895 984,3892 984,3849"/>
+                <Baseline points="131,3886 983,3883"/>
+                <TextEquiv>
+                    <Unicode>kluger und ehrgeiziger Mann, der preußiſche Fi⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l60" primaryLanguage="German" custom="readingOrder {index:59;}">
+                <Coords points="130,3896 130,3940 983,3937 983,3894"/>
+                <Baseline points="132,3931 981,3926"/>
+                <TextEquiv>
+                    <Unicode>nanzminiſter Dr. Miquel, der nur das Unglück hat,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l61" primaryLanguage="German" custom="readingOrder {index:60;}">
+                <Coords points="131,3941 131,3986 983,3983 983,3939"/>
+                <Baseline points="131,3973 982,3971"/>
+                <TextEquiv>
+                    <Unicode>weder als Militär gedient zu haben, noch „von</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l62" primaryLanguage="German" custom="readingOrder {index:61;}">
+                <Coords points="428,4027 428,3986 131,3986 131,4027"/>
+                <Baseline points="131,4019 426,4020"/>
+                <TextEquiv>
+                    <Unicode>Familie“ zu ſein.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l63" primaryLanguage="German" custom="readingOrder {index:62;}">
+                <Coords points="200,4029 201,4075 984,4074 983,4027"/>
+                <Baseline points="200,4065 984,4061"/>
+                <TextEquiv>
+                    <Unicode>Die bedeutſamſte Erſcheinung in unſerem öffent⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l64" primaryLanguage="German" custom="readingOrder {index:63;}">
+                <Coords points="131,4075 131,4118 985,4113 985,4070"/>
+                <Baseline points="130,4109 982,4105"/>
+                <TextEquiv>
+                    <Unicode>lichen Leben ſeit dem Sturze Bismarcks iſt die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l65" primaryLanguage="German" custom="readingOrder {index:64;}">
+                <Coords points="131,4119 131,4163 984,4159 983,4116"/>
+                <Baseline points="130,4156 982,4148"/>
+                <TextEquiv>
+                    <Unicode>nunmehr offene Sezeſſion im Centrum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l66" primaryLanguage="German" custom="readingOrder {index:65;}">
+                <Coords points="130,4160 131,4208 984,4205 984,4159"/>
+                <Baseline points="131,4201 983,4193"/>
+                <TextEquiv>
+                    <Unicode>Wenn Windthorſt noch lebte, wäre der Bruch</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l67" primaryLanguage="German" custom="readingOrder {index:66;}">
+                <Coords points="985,4203 131,4209 131,4251 984,4247"/>
+                <Baseline points="131,4242 984,4238"/>
+                <TextEquiv>
+                    <Unicode>vielleicht noch eine Weile hinausgeſchoben worden.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l68" primaryLanguage="German" custom="readingOrder {index:67;}">
+                <Coords points="133,4252 133,4296 984,4291 984,4248"/>
+                <Baseline points="132,4289 983,4281"/>
+                <TextEquiv>
+                    <Unicode>Sein perſönlicher Einfluß und ſeine Klugheit hätten</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l69" primaryLanguage="German" custom="readingOrder {index:68;}">
+                <Coords points="132,4298 132,4344 984,4336 984,4293"/>
+                <Baseline points="132,4332 983,4326"/>
+                <TextEquiv>
+                    <Unicode>gewiß ſowohl am Hofe des Kaiſers wie in den</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l70" primaryLanguage="German" custom="readingOrder {index:69;}">
+                <Coords points="132,4343 132,4384 985,4380 984,4337"/>
+                <Baseline points="131,4377 983,4370"/>
+                <TextEquiv>
+                    <Unicode>demokratiſchen Zelten des Centrumslagers einen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l71" primaryLanguage="German" custom="readingOrder {index:70;}">
+                <Coords points="131,4386 131,4431 984,4424 983,4381"/>
+                <Baseline points="132,4422 983,4415"/>
+                <TextEquiv>
+                    <Unicode>gangbaren Mittelweg für die Militärvorlage ge⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l72" primaryLanguage="German" custom="readingOrder {index:71;}">
+                <Coords points="132,4432 132,4476 985,4468 984,4427"/>
+                <Baseline points="131,4467 984,4460"/>
+                <TextEquiv>
+                    <Unicode>funden. Den Nachfolgern Windthorſts fehlt ent⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l73" primaryLanguage="German" custom="readingOrder {index:72;}">
+                <Coords points="133,4477 133,4517 984,4512 984,4471"/>
+                <Baseline points="133,4510 984,4503"/>
+                <TextEquiv>
+                    <Unicode>weder nach oben oder nach unten jene Autorität,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l74" primaryLanguage="German" custom="readingOrder {index:73;}">
+                <Coords points="132,4520 132,4564 985,4558 985,4514"/>
+                <Baseline points="131,4556 984,4548"/>
+                <TextEquiv>
+                    <Unicode>welche die verſtorbene kleine Excellenz nach beiden</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l75" primaryLanguage="German" custom="readingOrder {index:74;}">
+                <Coords points="133,4565 133,4608 984,4601 984,4559"/>
+                <Baseline points="134,4600 983,4593"/>
+                <TextEquiv>
+                    <Unicode>Richtungen beſaß. Und ihnen fehlt mit dem that⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l76" primaryLanguage="German" custom="readingOrder {index:75;}">
+                <Coords points="134,4609 134,4651 983,4646 983,4602"/>
+                <Baseline points="133,4645 982,4638"/>
+                <TextEquiv>
+                    <Unicode>ſächlichen Erlöſchen des Kulturkampfes auch der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l77" primaryLanguage="German" custom="readingOrder {index:76;}">
+                <Coords points="538,4693 537,4651 134,4652 133,4695"/>
+                <Baseline points="133,4688 536,4685"/>
+                <TextEquiv>
+                    <Unicode>Boden, ſie zu erwerben.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l78" primaryLanguage="German" custom="readingOrder {index:77;}">
+                <Coords points="201,4698 201,4741 984,4736 985,4693"/>
+                <Baseline points="200,4733 984,4726"/>
+                <TextEquiv>
+                    <Unicode>In dem Centrum ſind die widerſprechendſten</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l79" primaryLanguage="German" custom="readingOrder {index:78;}">
+                <Coords points="132,4742 132,4781 984,4781 984,4737"/>
+                <Baseline points="133,4777 983,4770"/>
+                <TextEquiv>
+                    <Unicode>Elemente beieinander: rötliche Demokraten, kampf⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l80" primaryLanguage="German" custom="readingOrder {index:79;}">
+                <Coords points="135,4785 135,4831 984,4823 984,4780"/>
+                <Baseline points="135,4821 984,4815"/>
+                <TextEquiv>
+                    <Unicode>luſtige niedere Geiſtlichkeit, kleiner und großer Adel,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l81" primaryLanguage="German" custom="readingOrder {index:80;}">
+                <Coords points="135,4831 134,4873 984,4869 984,4824"/>
+                <Baseline points="134,4865 982,4859"/>
+                <TextEquiv>
+                    <Unicode>teils partikular⸗ſüddeutſch, teils ſtramm⸗preußiſch</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l82" primaryLanguage="German" custom="readingOrder {index:81;}">
+                <Coords points="134,4874 132,4921 984,4914 984,4869"/>
+                <Baseline points="135,4910 984,4905"/>
+                <TextEquiv>
+                    <Unicode>geſinnt. Dazu die ganze Gefolgſchaft der polni⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l83" primaryLanguage="German" custom="readingOrder {index:82;}">
+                <Coords points="133,4921 133,4963 984,4959 985,4914"/>
+                <Baseline points="134,4953 984,4949"/>
+                <TextEquiv>
+                    <Unicode>ſchen und welfiſch⸗hannoverſchen Ariſtokratie und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l84" primaryLanguage="German" custom="readingOrder {index:83;}">
+                <Coords points="136,4963 136,5007 984,5001 985,4957"/>
+                <Baseline points="135,5000 986,4991"/>
+                <TextEquiv>
+                    <Unicode>die höhere Geiſtlichkeit. Die Scheidung hat zuerſt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l85" primaryLanguage="German" custom="readingOrder {index:84;}">
+                <Coords points="135,5008 136,5051 985,5046 984,5002"/>
+                <Baseline points="136,5044 985,5036"/>
+                <TextEquiv>
+                    <Unicode>damit begonnen, daß die drei höchſten katholiſchen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l86" primaryLanguage="German" custom="readingOrder {index:85;}">
+                <Coords points="137,5052 136,5094 985,5091 985,5047"/>
+                <Baseline points="136,5088 985,5080"/>
+                <TextEquiv>
+                    <Unicode>Kirchenfürſten in Preußen, die Erzbiſchöfe von Köln,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l87" primaryLanguage="German" custom="readingOrder {index:86;}">
+                <Coords points="137,5096 136,5137 984,5137 985,5091"/>
+                <Baseline points="136,5131 984,5124"/>
+                <TextEquiv>
+                    <Unicode>Breslau und Poſen ſich der Militärvorlage günſtig</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l88" primaryLanguage="German" custom="readingOrder {index:87;}">
+                <Coords points="136,5139 134,5187 985,5179 983,5135"/>
+                <Baseline points="135,5175 984,5171"/>
+                <TextEquiv>
+                    <Unicode>zeigten, ebenſo der polniſche Adel, um dem Kaiſer</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l89" primaryLanguage="German" custom="readingOrder {index:88;}">
+                <Coords points="134,5186 135,5229 985,5223 984,5180"/>
+                <Baseline points="135,5220 983,5215"/>
+                <TextEquiv>
+                    <Unicode>gefällig zu ſein und ſich eine gute Note zu ſichern.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l90" primaryLanguage="German" custom="readingOrder {index:89;}">
+                <Coords points="135,5228 135,5273 984,5267 985,5222"/>
+                <Baseline points="136,5265 984,5259"/>
+                <TextEquiv>
+                    <Unicode>Dann folgte der katholiſche Adel in Schleſien und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l91" primaryLanguage="German" custom="readingOrder {index:90;}">
+                <Coords points="134,5274 134,5314 984,5312 984,5267"/>
+                <Baseline points="134,5307 984,5303"/>
+                <TextEquiv>
+                    <Unicode>nun der weſtfäliſche Freiherr von Schorlemer⸗Alſt,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r9l92" primaryLanguage="German" custom="readingOrder {index:91;}">
+                <Coords points="134,5317 134,5364 983,5355 983,5312"/>
+                <Baseline points="137,5353 983,5347"/>
+                <TextEquiv>
+                    <Unicode>zugleich als Führer der katholiſchen Landwirte</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r10" custom="readingOrder {index:9;}">
+            <Coords points="1006,1090 1883,1089 1886,2770 1886,4639 1886,5376 1014,5380"/>
+            <TextLine id="r10l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1020,1099 1021,1145 1871,1146 1872,1100"/>
+                <Baseline points="1021,1135 1871,1135"/>
+                <TextEquiv>
+                    <Unicode>ſeiner Heimatprovinz. Auch die übrigen rheiniſch⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="1019,1145 1020,1189 1871,1191 1871,1146"/>
+                <Baseline points="1021,1179 1871,1179"/>
+                <TextEquiv>
+                    <Unicode>weſtfäliſchen Edelleute würden wohl ſchon gern</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="1020,1189 1020,1234 1871,1235 1871,1190"/>
+                <Baseline points="1021,1224 1871,1224"/>
+                <TextEquiv>
+                    <Unicode>mit ihrem weſtfäliſchen Standesgenoſſen mit⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="1019,1234 1020,1278 1872,1279 1873,1235"/>
+                <Baseline points="1021,1268 1871,1268"/>
+                <TextEquiv>
+                    <Unicode>gehen, wenn ſie ihrer Bauern ebenſo ſicher</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="1019,1280 1018,1321 1872,1324 1873,1281"/>
+                <Baseline points="1021,1313 1871,1313"/>
+                <TextEquiv>
+                    <Unicode>wären, wie dieſer. Aehnlich ſteht es mit dem</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="1020,1323 1020,1367 1872,1368 1872,1325"/>
+                <Baseline points="1021,1357 1871,1357"/>
+                <TextEquiv>
+                    <Unicode>süddeutſchen Centrumsadel. Ueber kurz oder</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="1020,1367 1020,1410 1872,1412 1872,1370"/>
+                <Baseline points="1021,1402 1871,1402"/>
+                <TextEquiv>
+                    <Unicode>lang wird ſich die Trennung zwiſchen den</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="1020,1410 1020,1455 1872,1456 1871,1413"/>
+                <Baseline points="1021,1447 1871,1447"/>
+                <TextEquiv>
+                    <Unicode>Ariſtokraten und den Demokraten der Centrums⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="1021,1457 1021,1498 1873,1501 1873,1457"/>
+                <Baseline points="1021,1491 1871,1491"/>
+                <TextEquiv>
+                    <Unicode>partei weiter vollziehen, nachdem Frhr. von Schor⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="1021,1500 1021,1542 1872,1547 1873,1502"/>
+                <Baseline points="1021,1536 1871,1536"/>
+                <TextEquiv>
+                    <Unicode>lemer mit Entſchloſſenheit den erſten Schritt gemacht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="1021,1545 1021,1588 1873,1591 1873,1548"/>
+                <Baseline points="1021,1580 1871,1580"/>
+                <TextEquiv>
+                    <Unicode>hat. Er hatte immer etwas von einem ſtürmiſchen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="1021,1590 1022,1632 1873,1635 1874,1592"/>
+                <Baseline points="1021,1624 1872,1627"/>
+                <TextEquiv>
+                    <Unicode>Reiterführer an ſich und ſah auch auf den Bänken</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="1021,1634 1022,1677 1872,1678 1873,1636"/>
+                <Baseline points="1021,1669 1871,1669"/>
+                <TextEquiv>
+                    <Unicode>des Parlaments mit ſeinem energiſchen Antlitz, dem</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="1021,1679 1021,1723 1871,1723 1871,1680"/>
+                <Baseline points="1021,1713 1871,1713"/>
+                <TextEquiv>
+                    <Unicode>großen grauen Schnurrbart und der raſchen Rede⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="1021,1723 1021,1767 1871,1769 1872,1725"/>
+                <Baseline points="1021,1758 1871,1758"/>
+                <TextEquiv>
+                    <Unicode>und Geſtikulierkunſt ſtets mehr einem Huſarenoberſten</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="1021,1768 1021,1811 1871,1814 1871,1770"/>
+                <Baseline points="1021,1803 1871,1803"/>
+                <TextEquiv>
+                    <Unicode>als einem päpſtlichen Kammerherrn ähnlich, der er</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="1021,1852 1250,1851 1250,1814 1022,1813"/>
+                <Baseline points="1024,1847 1248,1847"/>
+                <TextEquiv>
+                    <Unicode>nebenbei war.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="1088,1865 1089,1907 1874,1911 1874,1866"/>
+                <Baseline points="1090,1900 1872,1900"/>
+                <TextEquiv>
+                    <Unicode>Denn das iſt kein Zweifel: die ſchwarzen De⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="1023,1911 1022,1952 1873,1955 1873,1912"/>
+                <Baseline points="1023,1945 1872,1945"/>
+                <TextEquiv>
+                    <Unicode>mokraten vom Schlage der Dr. Lieber, Sigl und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="1023,1955 1022,1998 1872,2001 1872,1956"/>
+                <Baseline points="1023,1989 1872,1989"/>
+                <TextEquiv>
+                    <Unicode>Fußangel, wie ſie Weſt⸗ und Süddeutſchland in den</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="1023,1999 1023,2043 1873,2045 1873,2000"/>
+                <Baseline points="1023,2034 1872,2034"/>
+                <TextEquiv>
+                    <Unicode>Reichstag ſchickt, haben in hundert Dingen viel</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="1023,2046 1023,2087 1873,2089 1873,2045"/>
+                <Baseline points="1023,2078 1872,2078"/>
+                <TextEquiv>
+                    <Unicode>mehr innere Wahlverwandtſchaft mit Eugen Richter</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="1022,2088 1022,2134 1872,2134 1872,2090"/>
+                <Baseline points="1023,2122 1872,2122"/>
+                <TextEquiv>
+                    <Unicode>und deſſen Freunden als mit ihren adeligen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="1023,2134 1024,2175 1872,2178 1872,2135"/>
+                <Baseline points="1025,2168 1872,2167"/>
+                <TextEquiv>
+                    <Unicode>Glaubensgenoſſen. Und ebenſo finden ſich letztere</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="1023,2178 1024,2221 1872,2223 1872,2179"/>
+                <Baseline points="1024,2212 1872,2211"/>
+                <TextEquiv>
+                    <Unicode>auf Grund gemeinſamer Standesintereſſen leichter</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="1023,2223 1023,2264 1872,2267 1873,2223"/>
+                <Baseline points="1023,2257 1872,2256"/>
+                <TextEquiv>
+                    <Unicode>mit dem proteſtantiſch⸗konſervativen Adel zuſammen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l27" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="1024,2266 1024,2309 1872,2311 1872,2268"/>
+                <Baseline points="1024,2301 1872,2301"/>
+                <TextEquiv>
+                    <Unicode>Der ſüddeutſche Centrumsadel iſt nur ſeiner Wähler⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l28" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="1025,2312 1025,2355 1870,2355 1871,2312"/>
+                <Baseline points="1026,2347 1872,2345"/>
+                <TextEquiv>
+                    <Unicode>ſchaft weniger ſicher und muß ihre partikulariſtiſchen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l29" primaryLanguage="German" custom="readingOrder {index:28;}">
+                <Coords points="1024,2357 1024,2398 1874,2401 1874,2357"/>
+                <Baseline points="1024,2389 1872,2389"/>
+                <TextEquiv>
+                    <Unicode>Neigungen ſtärker berückſichtigen, hat auch ſelbſt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l30" primaryLanguage="German" custom="readingOrder {index:29;}">
+                <Coords points="1023,2401 1023,2443 1873,2445 1873,2401"/>
+                <Baseline points="1023,2432 1872,2434"/>
+                <TextEquiv>
+                    <Unicode>noch manche und pflegt ſie wegen des Einfluſſes in</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l31" primaryLanguage="German" custom="readingOrder {index:30;}">
+                <Coords points="1024,2488 1480,2487 1481,2445 1024,2446"/>
+                <Baseline points="1024,2478 1484,2478"/>
+                <TextEquiv>
+                    <Unicode>ſeinem engern Heimatlande.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l32" primaryLanguage="German" custom="readingOrder {index:31;}">
+                <Coords points="1090,2497 1090,2539 1874,2542 1874,2497"/>
+                <Baseline points="1090,2532 1874,2531"/>
+                <TextEquiv>
+                    <Unicode>Was die beiden Hoſpitanten⸗Gruppen des</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l33" primaryLanguage="German" custom="readingOrder {index:32;}">
+                <Coords points="1025,2542 1025,2584 1873,2584 1873,2542"/>
+                <Baseline points="1025,2575 1874,2575"/>
+                <TextEquiv>
+                    <Unicode>Centrums betrifft, den hannoverſchen Welfenadel</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l34" primaryLanguage="German" custom="readingOrder {index:33;}">
+                <Coords points="1025,2586 1026,2628 1874,2631 1874,2587"/>
+                <Baseline points="1025,2620 1874,2620"/>
+                <TextEquiv>
+                    <Unicode>und die Elſäſſer Proteſtler, ſo ſind das einſame</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l35" primaryLanguage="German" custom="readingOrder {index:34;}">
+                <Coords points="1024,2630 1024,2672 1875,2674 1875,2630"/>
+                <Baseline points="1025,2665 1874,2665"/>
+                <TextEquiv>
+                    <Unicode>Säulenheilige, die bei einer Umbildung der Parteien</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l36" primaryLanguage="German" custom="readingOrder {index:35;}">
+                <Coords points="1024,2674 1024,2718 1875,2721 1874,2675"/>
+                <Baseline points="1025,2709 1874,2709"/>
+                <TextEquiv>
+                    <Unicode>keine Rolle ſpielen und genug mit ihrem Schmerze</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l37" primaryLanguage="German" custom="readingOrder {index:36;}">
+                <Coords points="1329,2763 1329,2720 1025,2720 1025,2764"/>
+                <Baseline points="1025,2753 1331,2754"/>
+                <TextEquiv>
+                    <Unicode>zu kämpfen haben.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l38" primaryLanguage="German" custom="readingOrder {index:37;}">
+                <Coords points="1089,2772 1089,2814 1878,2818 1877,2772"/>
+                <Baseline points="1091,2807 1876,2806"/>
+                <TextEquiv>
+                    <Unicode>Wenn man ausländiſche Zeitungen lieſt, ſo hat</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l39" primaryLanguage="German" custom="readingOrder {index:38;}">
+                <Coords points="1025,2816 1025,2860 1877,2861 1877,2817"/>
+                <Baseline points="1024,2853 1876,2850"/>
+                <TextEquiv>
+                    <Unicode>man öfter das Gefühl, als ob die augenblickliche</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l40" primaryLanguage="German" custom="readingOrder {index:39;}">
+                <Coords points="1027,2862 1027,2905 1877,2905 1877,2861"/>
+                <Baseline points="1028,2897 1876,2895"/>
+                <TextEquiv>
+                    <Unicode>Lage in Deutſchland nicht überall mit der nötigen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l41" primaryLanguage="German" custom="readingOrder {index:40;}">
+                <Coords points="1027,2906 1026,2948 1876,2949 1876,2906"/>
+                <Baseline points="1026,2941 1876,2939"/>
+                <TextEquiv>
+                    <Unicode>Kaltblütigkeit und Zweifelſucht beurteilt werde.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l42" primaryLanguage="German" custom="readingOrder {index:41;}">
+                <Coords points="1026,2950 1025,2992 1877,2993 1877,2950"/>
+                <Baseline points="1026,2986 1876,2984"/>
+                <TextEquiv>
+                    <Unicode>Vorerſt iſt in Deutſchland die Sorge, daß ein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l43" primaryLanguage="German" custom="readingOrder {index:42;}">
+                <Coords points="1027,2994 1025,3039 1875,3038 1875,2994"/>
+                <Baseline points="1025,3028 1876,3028"/>
+                <TextEquiv>
+                    <Unicode>langwieriger und ernſthafter Konflikt zwiſchen Krone</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l44" primaryLanguage="German" custom="readingOrder {index:43;}">
+                <Coords points="1026,3040 1025,3080 1877,3083 1876,3039"/>
+                <Baseline points="1026,3074 1876,3072"/>
+                <TextEquiv>
+                    <Unicode>und Volk wegen der Militärvorlage entſtehen könnte,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l45" primaryLanguage="German" custom="readingOrder {index:44;}">
+                <Coords points="1025,3084 1024,3127 1875,3128 1876,3081"/>
+                <Baseline points="1026,3118 1876,3117"/>
+                <TextEquiv>
+                    <Unicode>noch ſo gut wie gar nicht verbreitet. Im Gegen⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l46" primaryLanguage="German" custom="readingOrder {index:45;}">
+                <Coords points="1025,3128 1025,3169 1876,3172 1877,3128"/>
+                <Baseline points="1025,3161 1876,3161"/>
+                <TextEquiv>
+                    <Unicode>teil! Es überwiegt durchaus die Meinung, daß</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l47" primaryLanguage="German" custom="readingOrder {index:46;}">
+                <Coords points="1025,3172 1025,3211 1877,3216 1877,3172"/>
+                <Baseline points="1026,3207 1876,3205"/>
+                <TextEquiv>
+                    <Unicode>man bereits im nächſten Reichstag gegenſeitig zu</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l48" primaryLanguage="German" custom="readingOrder {index:47;}">
+                <Coords points="1025,3216 1024,3261 1876,3258 1876,3215"/>
+                <Baseline points="1026,3251 1876,3249"/>
+                <TextEquiv>
+                    <Unicode>irgendwelcher annehmbarer Verſtändigung kommen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l49" primaryLanguage="German" custom="readingOrder {index:48;}">
+                <Coords points="1026,3262 1024,3303 1876,3303 1876,3260"/>
+                <Baseline points="1025,3296 1876,3294"/>
+                <TextEquiv>
+                    <Unicode>werde. Vielleicht mag es ein Irrtum ſein — vor⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l50" primaryLanguage="German" custom="readingOrder {index:49;}">
+                <Coords points="1025,3305 1025,3349 1878,3349 1877,3304"/>
+                <Baseline points="1027,3340 1876,3338"/>
+                <TextEquiv>
+                    <Unicode>läufig überwiegt aber dieſe Anſchauung. Man darf</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l51" primaryLanguage="German" custom="readingOrder {index:50;}">
+                <Coords points="1025,3350 1026,3393 1878,3392 1878,3349"/>
+                <Baseline points="1025,3384 1876,3383"/>
+                <TextEquiv>
+                    <Unicode>nicht vergeſſen, daß der deutſche Kaiſer zu einem</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l52" primaryLanguage="German" custom="readingOrder {index:51;}">
+                <Coords points="1025,3395 1026,3437 1878,3438 1877,3393"/>
+                <Baseline points="1027,3429 1876,3427"/>
+                <TextEquiv>
+                    <Unicode>parlamentariſchen Konflikt auch der Zuſtimmung</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l53" primaryLanguage="German" custom="readingOrder {index:52;}">
+                <Coords points="1024,3438 1025,3480 1877,3481 1877,3438"/>
+                <Baseline points="1025,3473 1876,3471"/>
+                <TextEquiv>
+                    <Unicode>der Bundesfürſten bedarf. Wenn dieſe ſelbſt einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l54" primaryLanguage="German" custom="readingOrder {index:53;}">
+                <Coords points="1024,3482 1026,3527 1878,3525 1877,3481"/>
+                <Baseline points="1025,3518 1876,3516"/>
+                <TextEquiv>
+                    <Unicode>Reichstagsauflöſung zuſtimmen, ſo iſt es doch noch</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l55" primaryLanguage="German" custom="readingOrder {index:54;}">
+                <Coords points="1025,3528 1025,3568 1877,3570 1877,3526"/>
+                <Baseline points="1026,3561 1876,3560"/>
+                <TextEquiv>
+                    <Unicode>immer ein anderes Ding ſie für wiederholte Auf⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l56" primaryLanguage="German" custom="readingOrder {index:55;}">
+                <Coords points="1025,3571 1025,3615 1877,3615 1877,3571"/>
+                <Baseline points="1027,3606 1876,3604"/>
+                <TextEquiv>
+                    <Unicode>löſungen zu gewinnen. Man überſehe nicht, wie</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l57" primaryLanguage="German" custom="readingOrder {index:56;}">
+                <Coords points="1024,3617 1025,3659 1876,3658 1877,3614"/>
+                <Baseline points="1025,3651 1876,3649"/>
+                <TextEquiv>
+                    <Unicode>ſogar in den Reihen regierungsfreundlicher Parteien</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l58" primaryLanguage="German" custom="readingOrder {index:57;}">
+                <Coords points="1026,3660 1024,3704 1876,3703 1876,3659"/>
+                <Baseline points="1025,3694 1876,3693"/>
+                <TextEquiv>
+                    <Unicode>ein ſehr geringer Enthuſiasmus für die jetzige Vor⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l59" primaryLanguage="German" custom="readingOrder {index:58;}">
+                <Coords points="1025,3705 1026,3749 1878,3746 1878,3703"/>
+                <Baseline points="1025,3740 1876,3737"/>
+                <TextEquiv>
+                    <Unicode>lage herrſcht, und der Umſtand, daß Bismarck un⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l60" primaryLanguage="German" custom="readingOrder {index:59;}">
+                <Coords points="1026,3750 1025,3790 1879,3792 1879,3748"/>
+                <Baseline points="1025,3783 1876,3782"/>
+                <TextEquiv>
+                    <Unicode>verändert die Verwerfung empfiehlt, ſchwächt eben⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l61" primaryLanguage="German" custom="readingOrder {index:60;}">
+                <Coords points="1026,3793 1025,3837 1877,3836 1877,3792"/>
+                <Baseline points="1027,3829 1876,3826"/>
+                <TextEquiv>
+                    <Unicode>falls den Glauben, daß mit der Ablehnung dem</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l62" primaryLanguage="German" custom="readingOrder {index:61;}">
+                <Coords points="1025,3839 1025,3879 1878,3879 1878,3837"/>
+                <Baseline points="1025,3873 1876,3871"/>
+                <TextEquiv>
+                    <Unicode>Vaterlande ein dauernder Schaden zugefügt werde.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l63" primaryLanguage="German" custom="readingOrder {index:62;}">
+                <Coords points="1024,3881 1025,3925 1877,3923 1877,3879"/>
+                <Baseline points="1026,3917 1876,3915"/>
+                <TextEquiv>
+                    <Unicode>Thatſächlich ſpielt die Militärvorlage als Wahl⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l64" primaryLanguage="German" custom="readingOrder {index:63;}">
+                <Coords points="1025,3927 1026,3969 1877,3966 1877,3924"/>
+                <Baseline points="1027,3962 1876,3959"/>
+                <TextEquiv>
+                    <Unicode>parole nicht annähernd eine ſolche Rolle wie vor</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l65" primaryLanguage="German" custom="readingOrder {index:64;}">
+                <Coords points="1026,3972 1025,4013 1874,4011 1875,3969"/>
+                <Baseline points="1025,4006 1876,4003"/>
+                <TextEquiv>
+                    <Unicode>drei Jahren die Parole „Septennat oder nicht!“</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l66" primaryLanguage="German" custom="readingOrder {index:65;}">
+                <Coords points="1025,4014 1026,4059 1876,4058 1875,4013"/>
+                <Baseline points="1027,4050 1876,4047"/>
+                <TextEquiv>
+                    <Unicode>Agrariſche und antiſemitiſche Forderungen, der Ruf:</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l67" primaryLanguage="German" custom="readingOrder {index:66;}">
+                <Coords points="1025,4060 1025,4101 1875,4100 1876,4059"/>
+                <Baseline points="1026,4093 1876,4092"/>
+                <TextEquiv>
+                    <Unicode>mehr nach links, oder nach rechts, endlich das leb⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l68" primaryLanguage="German" custom="readingOrder {index:67;}">
+                <Coords points="1025,4104 1025,4147 1876,4146 1876,4101"/>
+                <Baseline points="1026,4137 1876,4136"/>
+                <TextEquiv>
+                    <Unicode>haft gefühlte, unausgeſprochene Verlangen nach er⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l69" primaryLanguage="German" custom="readingOrder {index:68;}">
+                <Coords points="1023,4149 1023,4192 1876,4190 1876,4147"/>
+                <Baseline points="1025,4184 1876,4180"/>
+                <TextEquiv>
+                    <Unicode>höhtem parlamentariſchem Einfluſſe — das ſind</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l70" primaryLanguage="German" custom="readingOrder {index:69;}">
+                <Coords points="1026,4193 1026,4233 1876,4234 1876,4191"/>
+                <Baseline points="1026,4227 1876,4225"/>
+                <TextEquiv>
+                    <Unicode>die wirklichen Triebfedern bei den bevorſtehenden</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l71" primaryLanguage="German" custom="readingOrder {index:70;}">
+                <Coords points="1025,4236 1025,4280 1876,4277 1876,4236"/>
+                <Baseline points="1026,4273 1876,4270"/>
+                <TextEquiv>
+                    <Unicode>Wahlen, deren Ausfall zur Stunde noch kein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l72" primaryLanguage="German" custom="readingOrder {index:71;}">
+                <Coords points="1024,4283 1024,4324 1877,4323 1877,4279"/>
+                <Baseline points="1025,4318 1876,4313"/>
+                <TextEquiv>
+                    <Unicode>Menſch in Deutſchland ernſthaft zu berechnen wagt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l73" primaryLanguage="German" custom="readingOrder {index:72;}">
+                <Coords points="1088,4331 1088,4373 1875,4376 1875,4332"/>
+                <Baseline points="1088,4367 1874,4366"/>
+                <TextEquiv>
+                    <Unicode>Die Militärvorlage iſt auch nicht der Spreng⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l74" primaryLanguage="German" custom="readingOrder {index:73;}">
+                <Coords points="1026,4378 1026,4424 1874,4419 1875,4376"/>
+                <Baseline points="1027,4413 1874,4411"/>
+                <TextEquiv>
+                    <Unicode>ſtoff, der mit urſprünglicher Gewalt bisher feſtge⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l75" primaryLanguage="German" custom="readingOrder {index:74;}">
+                <Coords points="1026,4424 1026,4467 1875,4459 1875,4420"/>
+                <Baseline points="1027,4458 1874,4454"/>
+                <TextEquiv>
+                    <Unicode>fügte Parteien auseinander reißt. O nein! Sie</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l76" primaryLanguage="German" custom="readingOrder {index:75;}">
+                <Coords points="1026,4467 1026,4512 1875,4507 1875,4462"/>
+                <Baseline points="1026,4503 1874,4499"/>
+                <TextEquiv>
+                    <Unicode>iſt nur eine verhältnismäßig beſcheidene Dynamit⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l77" primaryLanguage="German" custom="readingOrder {index:76;}">
+                <Coords points="1026,4513 1025,4554 1875,4552 1875,4506"/>
+                <Baseline points="1026,4547 1874,4543"/>
+                <TextEquiv>
+                    <Unicode>patrone, die mit ihrer Erſchütterung bereits ge⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l78" primaryLanguage="German" custom="readingOrder {index:77;}">
+                <Coords points="1026,4557 1025,4598 1875,4594 1875,4552"/>
+                <Baseline points="1026,4590 1874,4588"/>
+                <TextEquiv>
+                    <Unicode>lockertes und morſches Bauwerk zu weiterer Locke⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l79" primaryLanguage="German" custom="readingOrder {index:78;}">
+                <Coords points="1233,4641 1231,4600 1025,4603 1026,4643"/>
+                <Baseline points="1027,4635 1232,4633"/>
+                <TextEquiv>
+                    <Unicode>rung bringt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l80" primaryLanguage="German" custom="readingOrder {index:79;}">
+                <Coords points="1093,4646 1092,4684 1876,4688 1877,4642"/>
+                <Baseline points="1092,4679 1874,4676"/>
+                <TextEquiv>
+                    <Unicode>Aber ebenſo wie man wegen des Schickſals der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l81" primaryLanguage="German" custom="readingOrder {index:80;}">
+                <Coords points="1026,4686 1025,4730 1875,4729 1875,4687"/>
+                <Baseline points="1027,4723 1874,4721"/>
+                <TextEquiv>
+                    <Unicode>Militärvorlage die Zukunft des deutſchen Volkes</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l82" primaryLanguage="German" custom="readingOrder {index:81;}">
+                <Coords points="1024,4731 1024,4777 1875,4774 1875,4731"/>
+                <Baseline points="1027,4769 1874,4765"/>
+                <TextEquiv>
+                    <Unicode>nicht allzu ſchwarz betrachten darf, ebenſo wenig</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l83" primaryLanguage="German" custom="readingOrder {index:82;}">
+                <Coords points="1025,4778 1024,4820 1875,4817 1876,4775"/>
+                <Baseline points="1026,4813 1874,4810"/>
+                <TextEquiv>
+                    <Unicode>muß man ſich einreden, daß die Sezeſſion im Deutſch⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l84" primaryLanguage="German" custom="readingOrder {index:83;}">
+                <Coords points="1025,4822 1025,4867 1876,4862 1876,4820"/>
+                <Baseline points="1026,4859 1874,4854"/>
+                <TextEquiv>
+                    <Unicode>freiſinn und im Centrum bereits den raſchen und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l85" primaryLanguage="German" custom="readingOrder {index:84;}">
+                <Coords points="1024,4868 1024,4908 1874,4905 1875,4863"/>
+                <Baseline points="1026,4901 1874,4898"/>
+                <TextEquiv>
+                    <Unicode>vollkommenen Einſturz dieſer Parteigebäude bedeutet.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l86" primaryLanguage="German" custom="readingOrder {index:85;}">
+                <Coords points="1026,4910 1027,4953 1875,4951 1875,4908"/>
+                <Baseline points="1028,4947 1874,4943"/>
+                <TextEquiv>
+                    <Unicode>Die Sezeſſioniſten beider Parteien verfügen nicht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l87" primaryLanguage="German" custom="readingOrder {index:86;}">
+                <Coords points="1025,4955 1024,4997 1873,4995 1873,4953"/>
+                <Baseline points="1026,4991 1874,4987"/>
+                <TextEquiv>
+                    <Unicode>über die Wahlmaſchinerie ihrer alten Parteien.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l88" primaryLanguage="German" custom="readingOrder {index:87;}">
+                <Coords points="1024,4998 1024,5042 1874,5040 1874,4997"/>
+                <Baseline points="1025,5034 1874,5032"/>
+                <TextEquiv>
+                    <Unicode>Dieſe iſt in der Hand des alten Stammes geblieben</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l89" primaryLanguage="German" custom="readingOrder {index:88;}">
+                <Coords points="1024,5043 1023,5086 1874,5084 1875,5041"/>
+                <Baseline points="1024,5079 1874,5075"/>
+                <TextEquiv>
+                    <Unicode>und deshalb haben beiderlei Sezeſſioniſten, ſowohl</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l90" primaryLanguage="German" custom="readingOrder {index:89;}">
+                <Coords points="1024,5087 1023,5129 1876,5128 1876,5086"/>
+                <Baseline points="1025,5123 1874,5120"/>
+                <TextEquiv>
+                    <Unicode>die um Rickert links, wie die um Schorlemer rechts</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l91" primaryLanguage="German" custom="readingOrder {index:90;}">
+                <Coords points="1024,5131 1025,5176 1874,5171 1874,5131"/>
+                <Baseline points="1027,5168 1874,5165"/>
+                <TextEquiv>
+                    <Unicode>vorläufig nur beſcheidene Wahlerfolge zu erwarten.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l92" primaryLanguage="German" custom="readingOrder {index:91;}">
+                <Coords points="1023,5176 1023,5219 1874,5216 1874,5174"/>
+                <Baseline points="1025,5213 1874,5209"/>
+                <TextEquiv>
+                    <Unicode>Wir ſtehen erſt ganz am Anfange der Partei⸗Um⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l93" primaryLanguage="German" custom="readingOrder {index:92;}">
+                <Coords points="1023,5221 1023,5265 1875,5261 1875,5219"/>
+                <Baseline points="1026,5256 1874,5253"/>
+                <TextEquiv>
+                    <Unicode>bildungen. Es iſt möglich, daß ſie im Laufe der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l94" primaryLanguage="German" custom="readingOrder {index:93;}">
+                <Coords points="1025,5266 1024,5309 1875,5307 1875,5263"/>
+                <Baseline points="1026,5301 1874,5298"/>
+                <TextEquiv>
+                    <Unicode>nächſten Jahre raſch vorwärts gehen; es iſt ebenſo</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r10l95" primaryLanguage="German" custom="readingOrder {index:94;}">
+                <Coords points="1024,5309 1024,5354 1876,5351 1876,5308"/>
+                <Baseline points="1027,5345 1874,5342"/>
+                <TextEquiv>
+                    <Unicode>möglich, daß ſie bald wieder ganz ins Stocken ge⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r11" custom="readingOrder {index:10;}">
+            <Coords points="1900,1088 2774,1090 2780,2892 1903,2893 1899,1280"/>
+            <TextLine id="r11l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1911,1102 1911,1145 2761,1148 2761,1104"/>
+                <Baseline points="1912,1139 2761,1139"/>
+                <TextEquiv>
+                    <Unicode>raten. Bis jetzt fehlte im Parlament der Nach⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="1910,1146 1911,1190 2762,1194 2762,1149"/>
+                <Baseline points="1912,1181 2761,1184"/>
+                <TextEquiv>
+                    <Unicode>wuchs von jüngeren bedeutenden Kräften, ein Nach⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="1911,1191 1912,1236 2761,1239 2761,1195"/>
+                <Baseline points="1912,1227 2761,1228"/>
+                <TextEquiv>
+                    <Unicode>wuchs von Führern mit friſchem Blut und neuen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="2020,1277 2020,1237 1911,1236 1911,1278"/>
+                <Baseline points="1912,1270 2019,1270"/>
+                <TextEquiv>
+                    <Unicode>Ideen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="1974,1282 1975,1322 2761,1327 2761,1283"/>
+                <Baseline points="1975,1316 2762,1317"/>
+                <TextEquiv>
+                    <Unicode>Es iſt der Nachteil in unſerem ganzen parla⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="1910,1324 1910,1370 2762,1373 2761,1328"/>
+                <Baseline points="1912,1360 2762,1363"/>
+                <TextEquiv>
+                    <Unicode>mentariſchen Leben, daß ihm bisher der ſtärkſte</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="1910,1371 1910,1412 2761,1416 2761,1374"/>
+                <Baseline points="1912,1405 2762,1405"/>
+                <TextEquiv>
+                    <Unicode>Anreiz fehlte: die Ausſicht, als Führer einer gro⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="1910,1414 1911,1458 2761,1461 2762,1417"/>
+                <Baseline points="1912,1450 2762,1450"/>
+                <TextEquiv>
+                    <Unicode>ßen Partei ſchließlich auch leitender Miniſter zu</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="1911,1457 1910,1502 2761,1504 2761,1461"/>
+                <Baseline points="1912,1494 2762,1494"/>
+                <TextEquiv>
+                    <Unicode>werden. Beſonders für den Liberalismus iſt dieſer</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="1909,1502 1908,1546 2763,1546 2762,1505"/>
+                <Baseline points="1912,1539 2762,1539"/>
+                <TextEquiv>
+                    <Unicode>Nachteil verhängnisvoll geweſen. Er hat wieder⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="1911,1546 1910,1592 2762,1594 2761,1549"/>
+                <Baseline points="1912,1583 2762,1583"/>
+                <TextEquiv>
+                    <Unicode>holt zur Zerſplitterung und zu jener Politik grund⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="1909,1592 1910,1636 2763,1638 2763,1594"/>
+                <Baseline points="1912,1627 2762,1627"/>
+                <TextEquiv>
+                    <Unicode>ſätzlicher Verneinung geführt, die ſich in dem be⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="1910,1637 1911,1680 2764,1683 2765,1638"/>
+                <Baseline points="1912,1672 2762,1672"/>
+                <TextEquiv>
+                    <Unicode>gabteſten Mann, in Eugen Richter, allmählich ver⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="1911,1681 1910,1725 2764,1726 2764,1684"/>
+                <Baseline points="1912,1716 2762,1716"/>
+                <TextEquiv>
+                    <Unicode>körpert hat. Ein wahres Gotteswunder iſt, daß</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="1911,1724 1911,1768 2763,1771 2762,1726"/>
+                <Baseline points="1912,1761 2762,1761"/>
+                <TextEquiv>
+                    <Unicode>der vorgeſchrittene Liberalismus bei uns noch nicht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="1911,1769 1912,1813 2763,1815 2763,1771"/>
+                <Baseline points="1912,1805 2762,1805"/>
+                <TextEquiv>
+                    <Unicode>völlig anti⸗monarchiſch wurde. Wenn man ſtets in</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="1910,1814 1911,1858 2764,1861 2763,1816"/>
+                <Baseline points="1912,1850 2762,1850"/>
+                <TextEquiv>
+                    <Unicode>der Oppoſition iſt, ohne jemals in die Zwangslage</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="1911,1860 1911,1903 2764,1904 2763,1862"/>
+                <Baseline points="1912,1894 2762,1894"/>
+                <TextEquiv>
+                    <Unicode>zu kommen, Verſprochenes in der Stellung eines</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="1912,1903 1912,1945 2762,1949 2762,1904"/>
+                <Baseline points="1912,1939 2762,1939"/>
+                <TextEquiv>
+                    <Unicode>leitenden Miniſters durchzuführen — dann vermin⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="1912,1947 1911,1990 2762,1992 2762,1949"/>
+                <Baseline points="1912,1983 2762,1983"/>
+                <TextEquiv>
+                    <Unicode>dert ſich natürlicherweiſe das Verantwortlichkeits⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="1912,1991 1913,2035 2763,2036 2763,1993"/>
+                <Baseline points="1912,2027 2762,2027"/>
+                <TextEquiv>
+                    <Unicode>Gefühl, während die Phraſendreſcherei und der poli⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="1912,2036 1912,2078 2763,2081 2762,2037"/>
+                <Baseline points="1912,2072 2762,2072"/>
+                <TextEquiv>
+                    <Unicode>tiſche Doktrinarismus wächſt, den manche Leute</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="1911,2124 2571,2123 2570,2082 1912,2079"/>
+                <Baseline points="1912,2117 2571,2117"/>
+                <TextEquiv>
+                    <Unicode>gern mit Charakterfeſtigkeit verwechſeln.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="2766,2127 1978,2128 1978,2168 2766,2170"/>
+                <Baseline points="1978,2160 2766,2160"/>
+                <TextEquiv>
+                    <Unicode>Wie geſagt, wir ſtehen am Anfang von Par⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="1912,2169 1911,2214 2765,2212 2765,2170"/>
+                <Baseline points="1913,2205 2766,2205"/>
+                <TextEquiv>
+                    <Unicode>teiumbildungen, die unter Umſtänden wichtiger ſein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="1912,2214 1913,2260 2768,2259 2766,2214"/>
+                <Baseline points="1913,2250 2766,2250"/>
+                <TextEquiv>
+                    <Unicode>können, als das ganze Schickſal der Militär⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l27" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="1912,2259 1911,2304 2767,2303 2767,2260"/>
+                <Baseline points="1913,2294 2766,2294"/>
+                <TextEquiv>
+                    <Unicode>vorlage; denn um dieſe braucht man nicht beſorgt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l28" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="1911,2304 1912,2347 2767,2347 2767,2303"/>
+                <Baseline points="1913,2338 2766,2338"/>
+                <TextEquiv>
+                    <Unicode>zu ſein. In der einen oder andern Form bewil⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l29" primaryLanguage="German" custom="readingOrder {index:28;}">
+                <Coords points="1913,2348 1911,2391 2766,2393 2766,2349"/>
+                <Baseline points="1913,2383 2766,2383"/>
+                <TextEquiv>
+                    <Unicode>ligt der Reichstag doch ſchließlich alles Nötige, um</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l30" primaryLanguage="German" custom="readingOrder {index:29;}">
+                <Coords points="1913,2391 1912,2436 2767,2436 2768,2394"/>
+                <Baseline points="1913,2427 2766,2427"/>
+                <TextEquiv>
+                    <Unicode>ſchlagfertig zu bleiben; das iſt die Grundſtimmung</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l31" primaryLanguage="German" custom="readingOrder {index:30;}">
+                <Coords points="1912,2436 1913,2480 2766,2479 2766,2436"/>
+                <Baseline points="1913,2471 2766,2471"/>
+                <TextEquiv>
+                    <Unicode>im Volke. Aber wenn jetzt ein genialer Mann an</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l32" primaryLanguage="German" custom="readingOrder {index:31;}">
+                <Coords points="1915,2481 1915,2524 2768,2525 2767,2481"/>
+                <Baseline points="1914,2516 2766,2516"/>
+                <TextEquiv>
+                    <Unicode>der Spitze der Regierung ſtände, ſo wäre für ihn</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l33" primaryLanguage="German" custom="readingOrder {index:32;}">
+                <Coords points="1914,2525 1913,2570 2768,2568 2767,2526"/>
+                <Baseline points="1913,2560 2766,2560"/>
+                <TextEquiv>
+                    <Unicode>vielleicht die günſtigſte Zeit leitend, auf eine Er⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l34" primaryLanguage="German" custom="readingOrder {index:33;}">
+                <Coords points="1915,2571 1914,2614 2765,2612 2766,2570"/>
+                <Baseline points="1913,2604 2766,2604"/>
+                <TextEquiv>
+                    <Unicode>neuerung unſeres parlamentariſchen Lebens einzu⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l35" primaryLanguage="German" custom="readingOrder {index:34;}">
+                <Coords points="1913,2614 1913,2655 2765,2659 2766,2614"/>
+                <Baseline points="1913,2648 2766,2648"/>
+                <TextEquiv>
+                    <Unicode>wirken und einen ruhigen Uebergang zu einer wirk⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l36" primaryLanguage="German" custom="readingOrder {index:35;}">
+                <Coords points="1914,2657 1915,2701 2766,2702 2767,2659"/>
+                <Baseline points="1913,2693 2766,2693"/>
+                <TextEquiv>
+                    <Unicode>lichen Mitherrſchaft des Parlaments anzubahnen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l37" primaryLanguage="German" custom="readingOrder {index:36;}">
+                <Coords points="1913,2703 1912,2746 2766,2745 2766,2704"/>
+                <Baseline points="1913,2737 2766,2737"/>
+                <TextEquiv>
+                    <Unicode>Einer ſolchen gehen wir ja ſchließlich doch in un⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l38" primaryLanguage="German" custom="readingOrder {index:37;}">
+                <Coords points="1914,2747 1913,2792 2766,2791 2766,2749"/>
+                <Baseline points="1913,2781 2766,2781"/>
+                <TextEquiv>
+                    <Unicode>ſerer allgemeinen politiſchen Entwickelung entgegen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l39" primaryLanguage="German" custom="readingOrder {index:38;}">
+                <Coords points="1914,2793 1914,2835 2766,2836 2766,2793"/>
+                <Baseline points="1913,2826 2766,2826"/>
+                <TextEquiv>
+                    <Unicode>wenn ſich auch Einwürfe und Hinderniſſe dagegen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r11l40" primaryLanguage="German" custom="readingOrder {index:39;}">
+                <Coords points="2324,2881 2325,2838 1914,2836 1914,2879"/>
+                <Baseline points="1913,2870 2323,2872"/>
+                <TextEquiv>
+                    <Unicode>noch mächtig auftürmen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="heading" id="r12" custom="readingOrder {index:11;} structure {type:heading;}">
+            <Coords points="2158,2946 2530,2945 2530,3018 2433,3068 2252,3067 2158,3019"/>
+            <TextLine id="r12l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="2171,2953 2172,3015 2521,3012 2521,2952"/>
+                <Baseline points="2172,3002 2519,3002"/>
+                <TextEquiv>
+                    <Unicode>Kantone.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r12l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="2264,3021 2264,3066 2425,3066 2425,3021"/>
+                <Baseline points="2264,3058 2423,3058"/>
+                <TextEquiv>
+                    <Unicode>Zürich.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r13" custom="readingOrder {index:12;}">
+            <Coords points="1902,3066 2780,3068 2781,3913 2781,5267 2780,5370 1904,5369"/>
+            <TextLine id="r13l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1959,3068 1959,3109 2766,3111 2767,3070"/>
+                <Baseline points="1958,3102 2767,3102"/>
+                <TextEquiv>
+                    <Unicode>Das Initiativbegehren betreffend</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r13l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="1916,3111 1915,3153 2767,3154 2766,3112"/>
+                <Baseline points="1916,3145 2767,3145"/>
+                <TextEquiv>
+                    <Unicode>die Penſionen und Ruhegehalte lautet:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="1918,3155 1917,3200 2766,3199 2766,3154"/>
+                <Baseline points="1917,3190 2767,3190"/>
+                <TextEquiv>
+                    <Unicode>1) Staatliche Penſionen und Ruhegehalte ſind ab⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r13l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="1914,3201 1914,3245 2767,3242 2767,3199"/>
+                <Baseline points="1915,3234 2767,3234"/>
+                <TextEquiv>
+                    <Unicode>zuſchaffen und demnach § 256 des Geſetzes betr.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r13l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="1915,3246 1915,3289 2766,3287 2766,3244"/>
+                <Baseline points="1915,3278 2767,3278"/>
+                <TextEquiv>
+                    <Unicode>das Kirchenweſen vom 20. Auguſt 1861 und die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r13l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="1914,3289 1914,3332 2767,3330 2767,3288"/>
+                <Baseline points="1915,3322 2767,3322"/>
+                <TextEquiv>
+                    <Unicode>§§ 313 und 314 des Geſetzes des Unterrichts⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r13l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="1914,3333 1913,3376 2766,3375 2767,3331"/>
+                <Baseline points="1915,3367 2767,3367"/>
+                <TextEquiv>
+                    <Unicode>weſens vom 23. Dezember 1859, ſowie die regie⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r13l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="1915,3377 1915,3421 2766,3420 2766,3376"/>
+                <Baseline points="1915,3411 2767,3411"/>
+                <TextEquiv>
+                    <Unicode>rungsrätliche Verordnung betreffend Ruhegehalte</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r13l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="1915,3422 1915,3465 2766,3465 2765,3421"/>
+                <Baseline points="1915,3455 2766,3456"/>
+                <TextEquiv>
+                    <Unicode>vom 3. September 1891 außer Kraft zu ſetzen;</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r13l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="1916,3466 1915,3510 2767,3507 2767,3465"/>
+                <Baseline points="1916,3499 2768,3499"/>
+                <TextEquiv>
+                    <Unicode>2) wird der Kantonsrat eingeladen, die Mißbräuche,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r13l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="1915,3511 1915,3553 2767,3551 2767,3510"/>
+                <Baseline points="1916,3544 2768,3544"/>
+                <TextEquiv>
+                    <Unicode>welche bei gegenwärtigem Bezug von Penſionen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r13l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="1916,3554 1916,3598 2766,3598 2767,3553"/>
+                <Baseline points="1916,3588 2767,3587"/>
+                <TextEquiv>
+                    <Unicode>beſtehen, abzuſtellen. Die Initianten ſetzen folgen⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r13l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="1916,3599 1916,3642 2768,3642 2769,3599"/>
+                <Baseline points="1916,3632 2768,3632"/>
+                <TextEquiv>
+                    <Unicode>den Nachſatz zu ihrer Eingabe: Mit zeitgemäßer,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r13l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="1916,3643 1915,3687 2768,3686 2768,3644"/>
+                <Baseline points="1916,3677 2768,3677"/>
+                <TextEquiv>
+                    <Unicode>den Leiſtungen entſprechender Beſoldung unſerer</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r13l15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="1916,3687 1915,3730 2768,3730 2769,3688"/>
+                <Baseline points="1916,3721 2768,3721"/>
+                <TextEquiv>
+                    <Unicode>Staatsbeamten ſind wir einverſtanden, dagegen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r13l16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="1915,3731 1915,3776 2769,3774 2769,3732"/>
+                <Baseline points="1916,3765 2768,3765"/>
+                <TextEquiv>
+                    <Unicode>können wir als demokratiſche Republikaner uns</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r13l17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="1916,3775 1916,3819 2768,3818 2769,3775"/>
+                <Baseline points="1916,3810 2768,3810"/>
+                <TextEquiv>
+                    <Unicode>nicht dazu verſtehen, einzelnen Ständen Vorrechte</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r13l18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="1916,3821 1915,3864 2768,3864 2768,3820"/>
+                <Baseline points="1916,3854 2768,3854"/>
+                <TextEquiv>
+                    <Unicode>zu gewähren und zwar umſoweniger, als jetzt ſchon</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r13l19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="2643,3908 2643,3865 1914,3865 1914,3910"/>
+                <Baseline points="1916,3899 2643,3899"/>
+                <TextEquiv>
+                    <Unicode>die grellſten Mißbräuche vorgekommen ſind.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r13l20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="1965,3917 1965,3953 2771,3953 2771,3915"/>
+                <Baseline points="1964,3947 2771,3946"/>
+                <TextEquiv>
+                    <Unicode>— ch. Am Sonntag hielt der kantonale Hand⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="1915,3956 1915,3993 2771,3991 2772,3955"/>
+                <Baseline points="1914,3987 2771,3987"/>
+                <TextEquiv>
+                    <Unicode>werker⸗ und Gewerbeverein in Uſter eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="1914,3995 1915,4033 2772,4031 2771,3993"/>
+                <Baseline points="1914,4025 2771,4025"/>
+                <TextEquiv>
+                    <Unicode>Delegiertenverſammlung ab, an welcher durch etwa 35</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="1914,4035 1915,4073 2771,4071 2771,4033"/>
+                <Baseline points="1914,4065 2771,4065"/>
+                <TextEquiv>
+                    <Unicode>Abgeordnete folgende Sektionen vertreten waren: Ge⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="1914,4075 1915,4113 2772,4111 2772,4073"/>
+                <Baseline points="1914,4105 2771,4105"/>
+                <TextEquiv>
+                    <Unicode>werbeverein Zürich, Bäckermeiſterverein Zürich, Schloſſer⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="1914,4116 1914,4154 2771,4153 2771,4113"/>
+                <Baseline points="1914,4145 2771,4145"/>
+                <TextEquiv>
+                    <Unicode>meiſterverein Zürich, Hafnermeiſterverein Zürich, Schreiner⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="1914,4156 1914,4193 2772,4191 2772,4153"/>
+                <Baseline points="1914,4185 2771,4185"/>
+                <TextEquiv>
+                    <Unicode>meiſterverein Zürich, Gewerbeverein Riesbach, Gewerbe⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l27" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="1914,4196 1914,4232 2770,4231 2770,4193"/>
+                <Baseline points="1914,4225 2771,4225"/>
+                <TextEquiv>
+                    <Unicode>vereine Uſter, Wetzikon und Winterthur, Gewerbevereine</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l28" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="1914,4234 1913,4273 2769,4271 2769,4233"/>
+                <Baseline points="1914,4265 2768,4265"/>
+                <TextEquiv>
+                    <Unicode>der Bezirke Affoltern und Bülach. Dieſe Verſammlung</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l29" primaryLanguage="German" custom="readingOrder {index:28;}">
+                <Coords points="1914,4275 1914,4312 2768,4312 2768,4274"/>
+                <Baseline points="1915,4307 2768,4305"/>
+                <TextEquiv>
+                    <Unicode>iſt veranlaßt worden durch die Anregung auf Verſchiebung</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l30" primaryLanguage="German" custom="readingOrder {index:29;}">
+                <Coords points="1916,4315 1916,4353 2769,4351 2769,4314"/>
+                <Baseline points="1915,4347 2768,4345"/>
+                <TextEquiv>
+                    <Unicode>der kantonalen Gewerbeausſtellung. Der Präſident, Hr.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l31" primaryLanguage="German" custom="readingOrder {index:30;}">
+                <Coords points="1915,4354 1915,4392 2771,4392 2771,4352"/>
+                <Baseline points="1915,4386 2771,4385"/>
+                <TextEquiv>
+                    <Unicode>Berchtold, teilte mit, daß er ſchon von Anfang an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l32" primaryLanguage="German" custom="readingOrder {index:31;}">
+                <Coords points="1915,4394 1915,4432 2772,4430 2772,4391"/>
+                <Baseline points="1916,4426 2771,4424"/>
+                <TextEquiv>
+                    <Unicode>dieſer Anregung entgegengetreten ſei. Die Notlage der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l33" primaryLanguage="German" custom="readingOrder {index:32;}">
+                <Coords points="1914,4433 1914,4472 2770,4470 2771,4432"/>
+                <Baseline points="1915,4466 2771,4464"/>
+                <TextEquiv>
+                    <Unicode>Landwirte müſſe ja allerdings anerkannt werden, dieſelbe</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l34" primaryLanguage="German" custom="readingOrder {index:33;}">
+                <Coords points="1914,4473 1914,4511 2771,4510 2772,4472"/>
+                <Baseline points="1914,4504 2771,4504"/>
+                <TextEquiv>
+                    <Unicode>könne aber kein Grund ſein zur Verſchiebung der Aus⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l35" primaryLanguage="German" custom="readingOrder {index:34;}">
+                <Coords points="1915,4513 1915,4553 2769,4550 2768,4512"/>
+                <Baseline points="1915,4546 2769,4544"/>
+                <TextEquiv>
+                    <Unicode>ſtellung. Nur Intereſſenten werden dieſelbe beſuchen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l36" primaryLanguage="German" custom="readingOrder {index:35;}">
+                <Coords points="1914,4555 1914,4591 2769,4589 2769,4551"/>
+                <Baseline points="1914,4586 2767,4584"/>
+                <TextEquiv>
+                    <Unicode>und dieſe thun es trotz dem landwirtſchaftlichen Notſtand.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l37" primaryLanguage="German" custom="readingOrder {index:36;}">
+                <Coords points="1914,4592 1914,4632 2771,4629 2771,4591"/>
+                <Baseline points="1914,4624 2771,4624"/>
+                <TextEquiv>
+                    <Unicode>Würde die Ausſtellung um ein Jahr verſchoben, ſo würde</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l38" primaryLanguage="German" custom="readingOrder {index:37;}">
+                <Coords points="1914,4634 1914,4673 2770,4669 2770,4631"/>
+                <Baseline points="1914,4665 2771,4663"/>
+                <TextEquiv>
+                    <Unicode>ſie zu nahe an den Zeitpunkt der Landesausſtellung in</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l39" primaryLanguage="German" custom="readingOrder {index:38;}">
+                <Coords points="1914,4674 1914,4712 2770,4710 2771,4671"/>
+                <Baseline points="1914,4704 2771,4704"/>
+                <TextEquiv>
+                    <Unicode>Genf gerückt, welche ſchon im Jahre 1895 alle Inter⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l40" primaryLanguage="German" custom="readingOrder {index:39;}">
+                <Coords points="1914,4714 1915,4752 2770,4751 2771,4711"/>
+                <Baseline points="1914,4743 2771,4743"/>
+                <TextEquiv>
+                    <Unicode>eſſenten der ganzen Schweiz ſo lebhaft beſchäftigen wird,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l41" primaryLanguage="German" custom="readingOrder {index:40;}">
+                <Coords points="1914,4754 1915,4792 2771,4790 2771,4751"/>
+                <Baseline points="1914,4784 2771,4784"/>
+                <TextEquiv>
+                    <Unicode>daß für unſere kantonale Ausſtellung wenig Intereſſe</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l42" primaryLanguage="German" custom="readingOrder {index:41;}">
+                <Coords points="1913,4793 1913,4832 2770,4829 2771,4792"/>
+                <Baseline points="1914,4824 2771,4824"/>
+                <TextEquiv>
+                    <Unicode>übrig bleiben würde. Es giebt nur zwei Wege: entweder</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l43" primaryLanguage="German" custom="readingOrder {index:42;}">
+                <Coords points="1912,4833 1913,4871 2770,4869 2771,4830"/>
+                <Baseline points="1914,4863 2771,4863"/>
+                <TextEquiv>
+                    <Unicode>die Ausſtellung im nächſten Jahre abhalten, oder dann</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l44" primaryLanguage="German" custom="readingOrder {index:43;}">
+                <Coords points="1913,4872 1913,4910 2769,4910 2770,4870"/>
+                <Baseline points="1914,4903 2769,4903"/>
+                <TextEquiv>
+                    <Unicode>einfach darauf verzichten, wenigſtens in dieſem Jahr⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l45" primaryLanguage="German" custom="readingOrder {index:44;}">
+                <Coords points="1913,4912 1913,4949 2770,4949 2770,4909"/>
+                <Baseline points="1914,4943 2771,4943"/>
+                <TextEquiv>
+                    <Unicode>hundert. Der Vorſtand ſtellt daher den Antrag, auf die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l46" primaryLanguage="German" custom="readingOrder {index:45;}">
+                <Coords points="1912,4951 1912,4993 2770,4988 2770,4950"/>
+                <Baseline points="1912,4986 2771,4982"/>
+                <TextEquiv>
+                    <Unicode>Idee der Verſchiebung nicht einzutreten und den Gewerbe⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l47" primaryLanguage="German" custom="readingOrder {index:46;}">
+                <Coords points="1913,4993 1913,5032 2770,5029 2769,4991"/>
+                <Baseline points="1913,5025 2769,5022"/>
+                <TextEquiv>
+                    <Unicode>verein Zürich zu erſuchen, alles zu thun, daß die Aus⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l48" primaryLanguage="German" custom="readingOrder {index:47;}">
+                <Coords points="1912,5033 1912,5072 2770,5070 2770,5032"/>
+                <Baseline points="1912,5066 2771,5063"/>
+                <TextEquiv>
+                    <Unicode>ſtellung im nächſten Jahre ſtattfinden könne. Ferner</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l49" primaryLanguage="German" custom="readingOrder {index:48;}">
+                <Coords points="1912,5073 1913,5111 2770,5109 2770,5070"/>
+                <Baseline points="1912,5106 2771,5102"/>
+                <TextEquiv>
+                    <Unicode>wurde ein Antrag der Verſammlung der Gewerbevereine</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l50" primaryLanguage="German" custom="readingOrder {index:49;}">
+                <Coords points="1912,5112 1912,5152 2771,5149 2771,5110"/>
+                <Baseline points="1914,5145 2771,5142"/>
+                <TextEquiv>
+                    <Unicode>der Stadt Zürich vom Samstag Abend vorgelegt,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l51" primaryLanguage="German" custom="readingOrder {index:50;}">
+                <Coords points="1912,5151 1912,5191 2771,5187 2771,5149"/>
+                <Baseline points="1914,5185 2771,5182"/>
+                <TextEquiv>
+                    <Unicode>lautend: „Die heutige Verſammlung beſchließt die Ab⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l52" primaryLanguage="German" custom="readingOrder {index:51;}">
+                <Coords points="2770,5189 1912,5192 1913,5232 2770,5228"/>
+                <Baseline points="1914,5225 2770,5223"/>
+                <TextEquiv>
+                    <Unicode>haltung der Ausſtellung im Jahre 1894, da eine Ver⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l53" primaryLanguage="German" custom="readingOrder {index:52;}">
+                <Coords points="2643,5267 2644,5230 1912,5233 1912,5272"/>
+                <Baseline points="1913,5266 2641,5262"/>
+                <TextEquiv>
+                    <Unicode>ſchiebung derſelben einer Aufhebung gleichkäme.“</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r13l54" primaryLanguage="German" custom="readingOrder {index:53;}">
+                <Coords points="1965,5276 1965,5310 2768,5309 2768,5269"/>
+                <Baseline points="1965,5306 2768,5303"/>
+                <TextEquiv>
+                    <Unicode>Redacteur Coradi teilte im Auftrag dieſer Ver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l55" primaryLanguage="German" custom="readingOrder {index:54;}">
+                <Coords points="1914,5313 1914,5355 2768,5348 2769,5309"/>
+                <Baseline points="1915,5347 2768,5342"/>
+                <TextEquiv>
+                    <Unicode>ſammlung mit, die bereits geäußerten Gründe hätten zu</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r14" custom="readingOrder {index:13;}">
+            <Coords points="2792,1089 3710,1094 3711,1463 3708,3057 3707,3541 3706,3753 2795,3752"/>
+            <TextLine id="r14l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="2803,1102 2803,1141 3662,1142 3661,1105"/>
+                <Baseline points="2803,1134 3660,1137"/>
+                <TextEquiv>
+                    <Unicode>dieſem Antrag geführt; im Ferneren ſei die landwirt⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="2803,1143 2802,1183 3660,1184 3659,1145"/>
+                <Baseline points="2803,1175 3658,1178"/>
+                <TextEquiv>
+                    <Unicode>ſchaftliche Notlage in unſerem Kanton lange nicht ſo be⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="2802,1183 2803,1222 3662,1225 3662,1187"/>
+                <Baseline points="2804,1214 3661,1219"/>
+                <TextEquiv>
+                    <Unicode>deutend, wie in den Kantonen Aargau und Solothurn.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="2802,1222 2802,1262 3660,1265 3660,1226"/>
+                <Baseline points="2802,1256 3659,1258"/>
+                <TextEquiv>
+                    <Unicode>Sollten aber wegen der Notlage die Subventionen nicht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="2802,1264 2802,1302 3661,1305 3661,1266"/>
+                <Baseline points="2802,1296 3659,1299"/>
+                <TextEquiv>
+                    <Unicode>in dem erwarteten Maße fließen, ſo iſt es eben Sache</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="2802,1303 2803,1344 3662,1345 3662,1306"/>
+                <Baseline points="2802,1336 3659,1339"/>
+                <TextEquiv>
+                    <Unicode>des Handwerkerſtandes, ſich ſelber zu helfen. In der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="2802,1343 2803,1383 3662,1385 3662,1346"/>
+                <Baseline points="2802,1376 3661,1378"/>
+                <TextEquiv>
+                    <Unicode>Diskuſſion erhob ſich nicht die leiſeſte Oppoſition und mit</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="2801,1384 2802,1421 3658,1425 3658,1387"/>
+                <Baseline points="2802,1416 3658,1418"/>
+                <TextEquiv>
+                    <Unicode>Akklamation wurden einſtimmig die genannten Anträge</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="3004,1461 3004,1426 2802,1426 2802,1461"/>
+                <Baseline points="2802,1455 3005,1455"/>
+                <TextEquiv>
+                    <Unicode>angenommen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="2853,1465 2853,1502 3663,1504 3663,1465"/>
+                <Baseline points="2853,1495 3662,1497"/>
+                <TextEquiv>
+                    <Unicode>Hernach folgte ein Referat von Hrn. Ing. Lincke</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="3661,1544 3662,1506 2803,1503 2803,1542"/>
+                <Baseline points="2803,1535 3660,1536"/>
+                <TextEquiv>
+                    <Unicode>über den jetzigen Stand der Ausſtellungsvorbereitungen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="2802,1543 2803,1581 3662,1584 3662,1545"/>
+                <Baseline points="2803,1574 3661,1576"/>
+                <TextEquiv>
+                    <Unicode>beginnend mit der Erläuterung der Platzfrage. Im Bud⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="2802,1583 2802,1621 3663,1624 3663,1586"/>
+                <Baseline points="2803,1614 3662,1616"/>
+                <TextEquiv>
+                    <Unicode>get ſind 1500 Ausſteller in Ausſicht genommen, für welche</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="2804,1624 2804,1662 3664,1664 3665,1625"/>
+                <Baseline points="2803,1656 3664,1658"/>
+                <TextEquiv>
+                    <Unicode>etwa 12,500 Quadratmeter Ausſtellungsräumlichkeiten zu</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="2804,1663 2805,1702 3663,1705 3664,1666"/>
+                <Baseline points="2803,1695 3663,1696"/>
+                <TextEquiv>
+                    <Unicode>erſtellen ſind; die bezüglichen Koſten ſind auf 300,000 Fr.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="2804,1703 2804,1742 3664,1744 3665,1707"/>
+                <Baseline points="2803,1735 3662,1736"/>
+                <TextEquiv>
+                    <Unicode>veranſchlagt. Man glaubt an Subventionen erhalten zu</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="2804,1743 2804,1782 3662,1785 3662,1746"/>
+                <Baseline points="2803,1775 3661,1775"/>
+                <TextEquiv>
+                    <Unicode>können 75,000 Fr. vom Staat und im ganzen, d. h. die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="2803,1783 2802,1822 3661,1823 3661,1787"/>
+                <Baseline points="2803,1815 3660,1815"/>
+                <TextEquiv>
+                    <Unicode>unentgeltliche Platzüberlaſſung u. ſ. w. inbegriffen, etwa</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="2803,1823 2803,1863 3663,1864 3663,1826"/>
+                <Baseline points="2805,1854 3662,1854"/>
+                <TextEquiv>
+                    <Unicode>50.000 Fr. von der Stadt. Dann hofft man, von Pri⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="2803,1862 2803,1902 3663,1904 3664,1865"/>
+                <Baseline points="2805,1895 3662,1895"/>
+                <TextEquiv>
+                    <Unicode>vaten in der Stadt und im ganzen Kanton 60,000 Fr.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="2802,1901 2802,1942 3663,1943 3664,1905"/>
+                <Baseline points="2805,1935 3662,1935"/>
+                <TextEquiv>
+                    <Unicode>freiwillige Beiträge zuſammenbringen zu können. Die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="2802,1942 2803,1981 3665,1984 3665,1946"/>
+                <Baseline points="2805,1975 3662,1975"/>
+                <TextEquiv>
+                    <Unicode>von den Ausſtellern zu bezahlende Platzmiete wird auf</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="2803,1982 2803,2022 3665,2024 3665,1986"/>
+                <Baseline points="2805,2014 3665,2014"/>
+                <TextEquiv>
+                    <Unicode>30.000 Fr. berechnet und endlich ſind 165,000 Fr. Ein⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="2803,2023 2803,2061 3664,2063 3664,2025"/>
+                <Baseline points="2805,2055 3665,2055"/>
+                <TextEquiv>
+                    <Unicode>trittsgelder budgetiert. Die geſamten Ausgaben für die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="2804,2062 2804,2101 3662,2103 3662,2066"/>
+                <Baseline points="2805,2094 3661,2094"/>
+                <TextEquiv>
+                    <Unicode>Anlage ſind auf 500,000 Fr. veranſchlagt. Die Verſamm⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="2805,2102 2804,2141 3663,2143 3663,2105"/>
+                <Baseline points="2805,2134 3663,2135"/>
+                <TextEquiv>
+                    <Unicode>lung genehmigte einſtimmig die vom Ausſtellungskomitee</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l27" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="2805,2143 2804,2182 3664,2183 3664,2144"/>
+                <Baseline points="2805,2174 3665,2174"/>
+                <TextEquiv>
+                    <Unicode>getroffene Platzwahl, es iſt alſo definitiv das Areal zwi⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l28" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="2804,2183 2803,2221 3665,2223 3665,2185"/>
+                <Baseline points="2805,2215 3665,2215"/>
+                <TextEquiv>
+                    <Unicode>ſchen dem Hotel Bellevue und dem Theater als Ausſtel⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l29" primaryLanguage="German" custom="readingOrder {index:28;}">
+                <Coords points="2804,2222 2803,2261 3666,2263 3666,2225"/>
+                <Baseline points="2805,2254 3665,2254"/>
+                <TextEquiv>
+                    <Unicode>lungsgebiet beſtimmt. Dann erläuterte der Redner den</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l30" primaryLanguage="German" custom="readingOrder {index:29;}">
+                <Coords points="2803,2263 2803,2300 3665,2303 3665,2265"/>
+                <Baseline points="2805,2295 3665,2295"/>
+                <TextEquiv>
+                    <Unicode>vom Centralkomitee aufgeſtellten Anmeldungsſchein mit</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l31" primaryLanguage="German" custom="readingOrder {index:30;}">
+                <Coords points="2805,2301 2804,2341 3664,2342 3665,2305"/>
+                <Baseline points="2805,2334 3665,2334"/>
+                <TextEquiv>
+                    <Unicode>den allgemeinen Bedingungen. Aus der Verſammlung</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l32" primaryLanguage="German" custom="readingOrder {index:31;}">
+                <Coords points="3437,2377 3437,2344 2805,2342 2804,2378"/>
+                <Baseline points="2805,2373 3437,2374"/>
+                <TextEquiv>
+                    <Unicode>wurden keinerlei Wünſche geltend gemacht.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l33" primaryLanguage="German" custom="readingOrder {index:32;}">
+                <Coords points="2859,2381 2858,2421 3665,2422 3666,2383"/>
+                <Baseline points="2859,2415 3665,2414"/>
+                <TextEquiv>
+                    <Unicode>Schließlich legte Hr. Kaſſier Hablützel noch einen An⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l34" primaryLanguage="German" custom="readingOrder {index:33;}">
+                <Coords points="2805,2422 2805,2461 3665,2463 3665,2422"/>
+                <Baseline points="2806,2454 3665,2454"/>
+                <TextEquiv>
+                    <Unicode>trag vor. Der Kantonalverband iſt ſeit den Sechziger</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l35" primaryLanguage="German" custom="readingOrder {index:34;}">
+                <Coords points="2806,2462 2805,2502 3665,2502 3665,2464"/>
+                <Baseline points="2806,2494 3665,2494"/>
+                <TextEquiv>
+                    <Unicode>Jahren im Beſitze eines Fondes für Ausſtellungszwecke,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l36" primaryLanguage="German" custom="readingOrder {index:35;}">
+                <Coords points="2805,2503 2805,2540 3666,2541 3667,2502"/>
+                <Baseline points="2806,2533 3665,2533"/>
+                <TextEquiv>
+                    <Unicode>welcher gegenwärtig 3700 Fr. beträgt. Der Antrag lautete</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l37" primaryLanguage="German" custom="readingOrder {index:36;}">
+                <Coords points="2805,2542 2805,2582 3666,2583 3666,2542"/>
+                <Baseline points="2806,2573 3665,2573"/>
+                <TextEquiv>
+                    <Unicode>nun dahin, aus dieſem Fonds 1000 Fr. à fonds perdu</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l38" primaryLanguage="German" custom="readingOrder {index:37;}">
+                <Coords points="2805,2582 2805,2620 3667,2622 3667,2583"/>
+                <Baseline points="2806,2614 3665,2614"/>
+                <TextEquiv>
+                    <Unicode>und 1000 Fr. gegen Garantieſcheine für die kantonale</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l39" primaryLanguage="German" custom="readingOrder {index:38;}">
+                <Coords points="2806,2621 2805,2660 3666,2663 3667,2622"/>
+                <Baseline points="2806,2654 3665,2654"/>
+                <TextEquiv>
+                    <Unicode>Ausſtellung zu beſtimmen. Hr. Stadrat Koller wies auf</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l40" primaryLanguage="German" custom="readingOrder {index:39;}">
+                <Coords points="2805,2661 2805,2699 3668,2702 3667,2664"/>
+                <Baseline points="2806,2694 3665,2694"/>
+                <TextEquiv>
+                    <Unicode>die Notwendigkeit der Gründung eines Garantiefonds hin</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l41" primaryLanguage="German" custom="readingOrder {index:40;}">
+                <Coords points="2806,2701 2805,2740 3666,2741 3666,2704"/>
+                <Baseline points="2806,2733 3665,2733"/>
+                <TextEquiv>
+                    <Unicode>und beantragte Verwendung der 2000 Fr. zugunſten eines</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l42" primaryLanguage="German" custom="readingOrder {index:41;}">
+                <Coords points="2805,2742 2805,2781 3666,2781 3667,2743"/>
+                <Baseline points="2806,2774 3665,2774"/>
+                <TextEquiv>
+                    <Unicode>ſolchen, der Gewerbeverein Zürich leiſte denſelben Beitrag. In</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l43" primaryLanguage="German" custom="readingOrder {index:42;}">
+                <Coords points="2806,2782 2805,2820 3666,2822 3666,2783"/>
+                <Baseline points="2806,2814 3665,2814"/>
+                <TextEquiv>
+                    <Unicode>der weitern Diskuſſion wurde gewünſcht, es möchte der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l44" primaryLanguage="German" custom="readingOrder {index:43;}">
+                <Coords points="2806,2821 2806,2859 3666,2861 3666,2823"/>
+                <Baseline points="2806,2853 3665,2853"/>
+                <TextEquiv>
+                    <Unicode>Gewerbeverein Zürich ein Mehreres thun, er könnte auch</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l45" primaryLanguage="German" custom="readingOrder {index:44;}">
+                <Coords points="2807,2861 2807,2899 3665,2901 3665,2863"/>
+                <Baseline points="2806,2893 3665,2893"/>
+                <TextEquiv>
+                    <Unicode>die aus der Landesausſtellung geretteten 5000 Fr. opfern.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l46" primaryLanguage="German" custom="readingOrder {index:45;}">
+                <Coords points="2807,2901 2807,2940 3665,2940 3666,2903"/>
+                <Baseline points="2806,2933 3665,2933"/>
+                <TextEquiv>
+                    <Unicode>Einen beſtimmten Wunſch zu äußern hielt die Verſamm⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l47" primaryLanguage="German" custom="readingOrder {index:46;}">
+                <Coords points="2807,2940 2807,2979 3667,2982 3668,2942"/>
+                <Baseline points="2806,2972 3665,2972"/>
+                <TextEquiv>
+                    <Unicode>lung nicht für angezeigt, und es wurde einfach beſchloſſen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l48" primaryLanguage="German" custom="readingOrder {index:47;}">
+                <Coords points="2807,2981 2808,3020 3666,3022 3667,2982"/>
+                <Baseline points="2809,3013 3665,3012"/>
+                <TextEquiv>
+                    <Unicode>für die Ausſtellung 2000 Fr. gegen Garantieſcheine zu</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l49" primaryLanguage="German" custom="readingOrder {index:48;}">
+                <Coords points="2970,3056 2970,3022 2807,3022 2807,3056"/>
+                <Baseline points="2807,3052 2970,3052"/>
+                <TextEquiv>
+                    <Unicode>dekretieren.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l50" primaryLanguage="German" custom="readingOrder {index:49;}">
+                <Coords points="2861,3061 2861,3098 3664,3101 3664,3062"/>
+                <Baseline points="2862,3092 3665,3092"/>
+                <TextEquiv>
+                    <Unicode>— Am 28. Mai wurde in Oerlikon, begünſtigt vom</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l51" primaryLanguage="German" custom="readingOrder {index:50;}">
+                <Coords points="2807,3100 2807,3138 3666,3141 3666,3102"/>
+                <Baseline points="2807,3132 3665,3132"/>
+                <TextEquiv>
+                    <Unicode>herrlichſten Wetter, das V. Glattthal⸗Turnfeſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l52" primaryLanguage="German" custom="readingOrder {index:51;}">
+                <Coords points="2807,3140 2807,3179 3666,3179 3666,3142"/>
+                <Baseline points="2807,3172 3665,3172"/>
+                <TextEquiv>
+                    <Unicode>abgehalten. Dreizehn Sektionen nahmen daran teil.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l53" primaryLanguage="German" custom="readingOrder {index:52;}">
+                <Coords points="2806,3180 2807,3219 3664,3221 3664,3180"/>
+                <Baseline points="2807,3211 3665,3211"/>
+                <TextEquiv>
+                    <Unicode>Kränze erhielten: a. Verbandsſektionen: 1) Oerlikon,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l54" primaryLanguage="German" custom="readingOrder {index:53;}">
+                <Coords points="2807,3220 2806,3258 3664,3260 3664,3220"/>
+                <Baseline points="2807,3252 3665,3252"/>
+                <TextEquiv>
+                    <Unicode>2) Seebach, 3) Baſſerſtorf, 4) Höngg, 5) Walliſellen, 6)</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l55" primaryLanguage="German" custom="readingOrder {index:54;}">
+                <Coords points="2806,3259 2805,3299 3667,3299 3667,3259"/>
+                <Baseline points="2807,3291 3665,3291"/>
+                <TextEquiv>
+                    <Unicode>Schwamendingen, 7) Dielsdorf; b. Gaſtvereine: 1)Wip⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l56" primaryLanguage="German" custom="readingOrder {index:55;}">
+                <Coords points="2805,3299 2806,3338 3665,3338 3665,3299"/>
+                <Baseline points="2807,3331 3665,3331"/>
+                <TextEquiv>
+                    <Unicode>kingen, 2) Unterſtraß, 3) Oberſtraß, 4) Kilchberg. Die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l57" primaryLanguage="German" custom="readingOrder {index:56;}">
+                <Coords points="2806,3339 2807,3377 3664,3379 3663,3340"/>
+                <Baseline points="2807,3371 3665,3371"/>
+                <TextEquiv>
+                    <Unicode>drei erſten Kränze im Kunſtturnen erhielten Schneider,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l58" primaryLanguage="German" custom="readingOrder {index:57;}">
+                <Coords points="2806,3378 2806,3417 3665,3419 3665,3380"/>
+                <Baseline points="2807,3410 3665,3410"/>
+                <TextEquiv>
+                    <Unicode>Seebach; Blanc, Oberſtraß; Winkler, Seebach. Im</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l59" primaryLanguage="German" custom="readingOrder {index:58;}">
+                <Coords points="2805,3419 2806,3456 3666,3459 3666,3420"/>
+                <Baseline points="2807,3450 3665,3450"/>
+                <TextEquiv>
+                    <Unicode>Nationalturnen: Graf, Seebach; Fürſt, Seebach; Meier,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l60" primaryLanguage="German" custom="readingOrder {index:59;}">
+                <Coords points="2805,3458 2806,3497 3666,3500 3667,3460"/>
+                <Baseline points="2807,3491 3665,3491"/>
+                <TextEquiv>
+                    <Unicode>Walliſellen. Im ganzen gelangten ſechzehn Einzelkränze</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l61" primaryLanguage="German" custom="readingOrder {index:60;}">
+                <Coords points="3032,3538 3033,3499 2806,3498 2806,3539"/>
+                <Baseline points="2807,3530 3033,3531"/>
+                <TextEquiv>
+                    <Unicode>zur Verteilung.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l62" primaryLanguage="German" custom="readingOrder {index:61;}">
+                <Coords points="2860,3546 2860,3586 3663,3587 3664,3549"/>
+                <Baseline points="2861,3578 3664,3580"/>
+                <TextEquiv>
+                    <Unicode>— * Zu Ehren des aus dem akademiſchen Lehramte</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l63" primaryLanguage="German" custom="readingOrder {index:62;}">
+                <Coords points="2807,3587 2808,3626 3665,3627 3666,3588"/>
+                <Baseline points="2809,3619 3666,3619"/>
+                <TextEquiv>
+                    <Unicode>ſcheidenden Herrn Profeſſors Dr. Georg v. Wyß wird</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l64" primaryLanguage="German" custom="readingOrder {index:63;}">
+                <Coords points="2810,3626 2809,3665 3664,3666 3664,3628"/>
+                <Baseline points="2809,3658 3663,3658"/>
+                <TextEquiv>
+                    <Unicode>die philoſophiſche Fakultät 1. Sektion am 16. Juni eine</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r14l65" primaryLanguage="German" custom="readingOrder {index:64;}">
+                <Coords points="2809,3666 2809,3704 3668,3706 3668,3667"/>
+                <Baseline points="2809,3698 3666,3698"/>
+                <TextEquiv>
+                    <Unicode>beſcheidene Abſchiedsfeier in den ſchönen Räumlich⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l66" primaryLanguage="German" custom="readingOrder {index:65;}">
+                <Coords points="3356,3743 3357,3706 2809,3705 2809,3744"/>
+                <Baseline points="2809,3738 3356,3738"/>
+                <TextEquiv>
+                    <Unicode>keiten des „Schneggen“ veranſtalten.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="heading" id="r15" custom="readingOrder {index:14;} structure {type:heading;}">
+            <Coords points="3154,3755 3310,3755 3310,3805 3154,3805"/>
+            <TextLine id="r15l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="3167,3760 3167,3800 3293,3799 3293,3760"/>
+                <Baseline points="3168,3796 3294,3795"/>
+                <TextEquiv>
+                    <Unicode>Bern.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r16" custom="readingOrder {index:15;}">
+            <Coords points="2795,3807 3711,3809 3709,4233 2798,4230"/>
+            <TextLine id="r16l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="2877,3812 2876,3858 3663,3858 3664,3814"/>
+                <Baseline points="2875,3850 3663,3848"/>
+                <TextEquiv>
+                    <Unicode>(+ Korr.) In zahlreich beſuchter Verſamm⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r16l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="2809,3857 2810,3902 3663,3902 3663,3859"/>
+                <Baseline points="2810,3892 3663,3892"/>
+                <TextEquiv>
+                    <Unicode>lung beſchloß am Samstag abend die ſozialdemo⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r16l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="2809,3902 2809,3945 3668,3947 3668,3904"/>
+                <Baseline points="2810,3936 3669,3936"/>
+                <TextEquiv>
+                    <Unicode>kratiſche Partei nach Anhörung eines Referates von</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r16l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="2810,3947 2810,3990 3668,3990 3669,3946"/>
+                <Baseline points="2810,3981 3669,3981"/>
+                <TextEquiv>
+                    <Unicode>Großrat Siebenmann und nach längerer Diskuſſion</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r16l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="2810,3991 2810,4034 3670,4035 3670,3990"/>
+                <Baseline points="2810,4025 3669,4025"/>
+                <TextEquiv>
+                    <Unicode>die neue Staatsverfaſſung, über welche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="2810,4034 2811,4077 3670,4079 3670,4035"/>
+                <Baseline points="2810,4069 3669,4069"/>
+                <TextEquiv>
+                    <Unicode>das Berner Volk am 4. Juni abzuſtimmen hat, zu</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r16l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="2810,4080 2809,4122 3669,4123 3669,4079"/>
+                <Baseline points="2810,4113 3669,4113"/>
+                <TextEquiv>
+                    <Unicode>verwerfen, weil ſie ein Werk des Kompromiſſes ſei</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r16l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="2810,4123 2811,4165 3671,4167 3671,4124"/>
+                <Baseline points="2810,4158 3669,4158"/>
+                <TextEquiv>
+                    <Unicode>und die junge ſozialdemokratiſche Partei, ſtatt ſie in</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r16l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="2810,4167 2811,4211 3669,4212 3669,4167"/>
+                <Baseline points="2810,4202 3665,4202"/>
+                <TextEquiv>
+                    <Unicode>ihren Beſtrebungen zu fördern, eher noch unterdrücke.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="heading" id="r17" custom="readingOrder {index:16;} structure {type:heading;}">
+            <Coords points="3046,4274 3418,4275 3417,4355 3045,4354"/>
+            <TextLine id="r17l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="3061,4288 3061,4351 3401,4350 3401,4288"/>
+                <Baseline points="3061,4342 3400,4342"/>
+                <TextEquiv>
+                    <Unicode>Ausland.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r18" custom="readingOrder {index:17;}">
+            <Coords points="2797,4356 3704,4355 3706,4715 3707,5109 3707,5367 2796,5367 2796,5109 2796,5108 2796,5026"/>
+            <TextLine id="r18l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="2875,4358 2875,4404 3668,4406 3668,4361"/>
+                <Baseline points="2874,4396 3667,4397"/>
+                <TextEquiv>
+                    <Unicode>Deutſchland. Ueber Emin Paſcha ſind</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="2810,4405 2810,4449 3668,4451 3668,4405"/>
+                <Baseline points="2811,4440 3667,4440"/>
+                <TextEquiv>
+                    <Unicode>der Kreuzztg. zufolge jetzt in Berlin auch Briefe des</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r18l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="2810,4449 2810,4493 3667,4495 3666,4451"/>
+                <Baseline points="2811,4485 3667,4485"/>
+                <TextEquiv>
+                    <Unicode>kaiſerlichen Konſuls Anton in Sanſibar eingegangen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r18l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="2811,4493 2810,4536 3667,4538 3668,4495"/>
+                <Baseline points="2811,4529 3667,4529"/>
+                <TextEquiv>
+                    <Unicode>in denen er auf Grund verſchiedener ihm zuge⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r18l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="2810,4539 2810,4583 3668,4583 3667,4539"/>
+                <Baseline points="2811,4573 3667,4573"/>
+                <TextEquiv>
+                    <Unicode>gangener Meldungen ſeine Ueberzeugung ausſpricht,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r18l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="2809,4583 2810,4626 3668,4626 3668,4583"/>
+                <Baseline points="2811,4617 3667,4617"/>
+                <TextEquiv>
+                    <Unicode>daß Dr. Emin nicht mehr lebt. Nur könne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="2809,4627 2809,4671 3669,4673 3668,4627"/>
+                <Baseline points="2811,4662 3667,4662"/>
+                <TextEquiv>
+                    <Unicode>Ort und Zeit ſeines Todes noch nicht mit einiger</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r18l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="3340,4712 3340,4673 2808,4671 2808,4713"/>
+                <Baseline points="2811,4706 3340,4707"/>
+                <TextEquiv>
+                    <Unicode>Beſtimmtheit angegeben werden.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r18l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="2874,4718 2874,4758 3666,4759 3665,4716"/>
+                <Baseline points="2874,4750 3664,4751"/>
+                <TextEquiv>
+                    <Unicode>— In wiederholten Artikeln warnt die Voſ⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r18l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="2809,4759 2809,4804 3666,4803 3666,4759"/>
+                <Baseline points="2810,4795 3664,4795"/>
+                <TextEquiv>
+                    <Unicode>ſiſche Zeitung die getrennten Freiſinnigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="2809,4804 2810,4847 3666,4848 3667,4803"/>
+                <Baseline points="2810,4839 3664,4839"/>
+                <TextEquiv>
+                    <Unicode>eindringlich vor gegenſeitiger Befehdung, namentlich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r18l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="2808,4848 2808,4892 3664,4891 3664,4849"/>
+                <Baseline points="2810,4883 3664,4883"/>
+                <TextEquiv>
+                    <Unicode>während des bevorſtehenden Wahlkampfes und in</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r18l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="2808,4892 2809,4936 3664,4937 3663,4893"/>
+                <Baseline points="2810,4927 3664,4927"/>
+                <TextEquiv>
+                    <Unicode>Berlin, wo das Zuſammenhalten aller Liberalen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r18l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="2808,4936 2808,4981 3663,4981 3663,4937"/>
+                <Baseline points="2810,4972 3664,4972"/>
+                <TextEquiv>
+                    <Unicode>nötig iſt, wenn nicht die Reaktion und die Sozial⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r18l15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="3393,5025 3394,4982 2808,4981 2808,5024"/>
+                <Baseline points="2810,5016 3393,5017"/>
+                <TextEquiv>
+                    <Unicode>demokratie vollſtändig ſiegen ſollen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="r18l16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="3665,5030 2862,5028 2861,5069 3665,5067"/>
+                <Baseline points="2862,5060 3664,5060"/>
+                <TextEquiv>
+                    <Unicode>Frankreich. Der „Figaro“ macht über ſiame⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="2809,5106 3481,5107 3482,5070 2807,5068"/>
+                <Baseline points="2808,5101 3481,5101"/>
+                <TextEquiv>
+                    <Unicode>ſiſche Rüſtungen folgende Enthüllung:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="2863,5110 2862,5149 3669,5147 3670,5111"/>
+                <Baseline points="2863,5140 3670,5140"/>
+                <TextEquiv>
+                    <Unicode>„Seit acht Tagen wird die ſiameſiſche Geſandt⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="2808,5147 2808,5186 3671,5187 3671,5150"/>
+                <Baseline points="2808,5180 3670,5180"/>
+                <TextEquiv>
+                    <Unicode>ſchaft in Paris nicht müde zu beteuern, der Hof von</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r18l20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="2808,5187 2809,5227 3672,5227 3671,5188"/>
+                <Baseline points="2809,5220 3670,5220"/>
+                <TextEquiv>
+                    <Unicode>Bangkok ſtehe den ernſten Zwiſchenfällen von Mekong</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r18l21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="2808,5228 2809,5268 3670,5266 3671,5229"/>
+                <Baseline points="2809,5260 3670,5260"/>
+                <TextEquiv>
+                    <Unicode>fern. Durch die letzte Poſt haben wir aber genaue Aus⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r18l22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="2809,5268 2809,5307 3670,5306 3671,5268"/>
+                <Baseline points="2811,5300 3670,5300"/>
+                <TextEquiv>
+                    <Unicode>künfte erhalten, welche dieſe tendenziöſen Erklä⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="2810,5309 2810,5348 3671,5349 3671,5307"/>
+                <Baseline points="2811,5341 3670,5341"/>
+                <TextEquiv>
+                    <Unicode>rungen des Beſtimmteſten Lügen ſtrafen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:18;}">
+            <Coords points="124,1034 1127,1044 3645,1051 3645,1074 1106,1065 482,1063 124,1056"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:19;}">
+            <Coords points="2236,2906 2450,2906 2450,2910 2236,2910"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:20;}">
+            <Coords points="3128,4240 3346,4240 3346,4246 3128,4246"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:21;}">
+            <Coords points="1000,3455 994,1109 1004,1110 1011,3457 1010,5344 1000,5344"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:22;}">
+            <Coords points="1890,3842 1886,1110 1896,1110 1901,3844 1900,5340 1889,5340"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:23;}">
+            <Coords points="2785,3883 2783,3100 2776,1414 2778,1114 2789,1114 2788,1415 2793,3879 2793,5338 2784,5338"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:24;}">
+            <Coords points="622,1056 664,1056 664,1058 622,1058"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>
