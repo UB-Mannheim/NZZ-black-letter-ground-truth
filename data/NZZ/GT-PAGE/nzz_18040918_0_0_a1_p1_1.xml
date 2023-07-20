@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2017-12-08T13:16:49.098+01:00</Created>
+        <LastChange>2023-07-19T15:55:15.718+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="1148848" pageId="47121931" pageNr="25" tsid="130099324" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=MGMMVYPGQIMHWEXSOASPDBUR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YCNHQBQHDVQBBQBPWWQGEQXE" imageId="38489786"/>
+    </Metadata>
+    <Page imageFilename="nzz_18040918_0_0_a1_p1_1.tif" imageWidth="1884" imageHeight="2362">
+        <PrintSpace>
+            <Coords points="0,0 1884,0 1884,2362 0,2362"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1689864176248" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r1"/>
+                <RegionRefIndexed index="2" regionRef="r2"/>
+                <RegionRefIndexed index="3" regionRef="r3"/>
+                <RegionRefIndexed index="4" regionRef="r4"/>
+                <RegionRefIndexed index="5" regionRef="r5"/>
+                <RegionRefIndexed index="6" regionRef="r6"/>
+                <RegionRefIndexed index="8" regionRef="r7"/>
+                <RegionRefIndexed index="9" regionRef="r8"/>
+                <RegionRefIndexed index="10" regionRef="r9"/>
+                <RegionRefIndexed index="11" regionRef="r10"/>
+                <RegionRefIndexed index="12" regionRef="r11"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="532,48 1215,47 1213,609 532,608"/>
+        </GraphicRegion>
+        <TextRegion type="header" id="r1" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="95,115 95,275 490,274 490,114"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="108,126 478,125 478,263 108,264"/>
+                <Baseline points="116,229 475,226"/>
+                <TextEquiv>
+                    <Unicode>Nro. 75.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r2" custom="readingOrder {index:2;} structure {type:header;}">
+            <Coords points="1292,125 1290,278 1656,278 1658,125"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1305,139 1642,142 1648,265 1311,262"/>
+                <Baseline points="1327,235 1645,236"/>
+                <TextEquiv>
+                    <Unicode>1804.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r3" custom="readingOrder {index:3;} structure {type:header;}">
+            <Coords points="5,295 6,464 509,464 508,295"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="13,312 497,304 495,449 11,457"/>
+                <Baseline points="27,434 487,425"/>
+                <TextEquiv>
+                    <Unicode>Zuͤrcher</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r4" custom="readingOrder {index:4;} structure {type:header;}">
+            <Coords points="1226,299 1226,464 1723,464 1723,299"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="1226,309 1759,313 1760,466 1226,466"/>
+                <Baseline points="1226,442 1754,441"/>
+                <TextEquiv>
+                    <Unicode>Zeitung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r5" custom="readingOrder {index:5;} structure {type:header;}">
+            <Coords points="148,490 148,550 436,550 436,490"/>
+            <TextLine id="r5l1" custom="readingOrder {index:0;}">
+                <Coords points="155,491 425,493 425,545 155,543"/>
+                <Baseline points="155,536 425,538"/>
+                <TextEquiv>
+                    <Unicode>Dienſtag,</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r6" custom="readingOrder {index:6;} structure {type:header;}">
+            <Coords points="1269,490 1687,490 1688,555 1270,555"/>
+            <TextLine id="r6l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1271,497 1680,497 1680,549 1271,549"/>
+                <Baseline points="1278,544 1680,544"/>
+                <TextEquiv>
+                    <Unicode>den 18. September.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="20.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <GraphicRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="1680,171 1873,171 1867,596 1686,536"/>
+        </GraphicRegion>
+        <TextRegion type="header" id="r7" custom="readingOrder {index:8;} structure {type:header;}">
+            <Coords points="266,614 1501,614 1501,657 266,657"/>
+            <TextLine id="r7l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="267,618 1500,618 1500,656 267,656"/>
+                <Baseline points="268,649 591,644 767,647 1500,651"/>
+                <TextEquiv>
+                    <Unicode>Gedruckt und zu finden in der Buchhandlung von Orell, Fuͤßli und Compagnie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="heading" id="r8" custom="readingOrder {index:9;} structure {type:heading;}">
+            <Coords points="16,693 1752,693 1752,785 16,785"/>
+            <TextLine id="r8l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="16,694 1751,703 1749,743 1132,739 204,733 16,737"/>
+                <Baseline points="17,729 1748,737"/>
+                <TextEquiv>
+                    <Unicode>Frankreich (der Kaiſer in Aachen. Merkwuͤrdiger Artikel aus dem Argus. Teufliſche Bosheit). Bataviſche</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r8l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="19,735 1750,741 1750,786 18,777"/>
+                <Baseline points="21,766 1747,776"/>
+                <TextEquiv>
+                    <Unicode>Republik (verworfene Entſchaͤdigung des Erbſtatthalters). Großbrittanien (Allianz mit Rußland). Schweiz.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="heading" id="r9" custom="readingOrder {index:10;} structure {type:heading;}">
+            <Coords points="608,853 267,852 267,799 608,800"/>
+            <TextLine id="r9l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="603,848 272,849 272,807 603,806"/>
+                <Baseline points="274,841 599,842"/>
+                <TextEquiv>
+                    <Unicode>Frankreich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r10" custom="readingOrder {index:11;}">
+            <Coords points="9,845 881,850 884,1373 874,2225 2,2225 3,1899"/>
+            <TextLine id="r10l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="869,887 56,886 56,846 868,851"/>
+                <Baseline points="56,877 864,883"/>
+                <TextEquiv>
+                    <Unicode>In dem von uns letzthin angefuͤhrten Geſpraͤch ei⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r10l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="869,926 17,921 17,883 869,890"/>
+                <Baseline points="17,915 862,922"/>
+                <TextEquiv>
+                    <Unicode>nes Frankfurter⸗Kaufmanns mit einem franzoͤſiſchen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r10l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="869,965 17,959 16,920 868,927"/>
+                <Baseline points="16,955 310,954 870,962"/>
+                <TextEquiv>
+                    <Unicode>Unterpraͤfekten, ſind beyde bemuͤht, ſich wechſelſei⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r10l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="867,1003 16,997 16,958 869,964"/>
+                <Baseline points="16,990 863,998"/>
+                <TextEquiv>
+                    <Unicode>tig den Ball zuzuwerfen: Daß naͤmlich die in die⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r10l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="865,1041 14,1035 19,996 868,1002"/>
+                <Baseline points="18,1028 865,1034"/>
+                <TextEquiv>
+                    <Unicode>ſem Geſpraͤch angefuͤhrten antigallikaniſchen Schrif⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r10l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="864,1077 16,1073 15,1034 864,1038"/>
+                <Baseline points="16,1066 321,1067 871,1075"/>
+                <TextEquiv>
+                    <Unicode>ten (worunter ſich namentlich auch das beruͤhmte</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r10l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="865,1117 16,1111 15,1070 865,1080"/>
+                <Baseline points="16,1105 866,1111"/>
+                <TextEquiv>
+                    <Unicode>Buch: Napoleon Bonaparte und das fran⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="863,1158 16,1146 16,1106 863,1114"/>
+                <Baseline points="14,1140 865,1150"/>
+                <TextEquiv>
+                    <Unicode>zoͤſische Volk befindet) von geſcheuten Franzoſen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l9" custom="readingOrder {index:8;}">
+                <Coords points="15,1144 861,1158 862,1194 14,1180"/>
+                <Baseline points="17,1175 861,1189"/>
+                <TextEquiv>
+                    <Unicode>uͤbrigens gerade wie von aufgeklaͤrten Deutſchen nur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l10" custom="readingOrder {index:9;}">
+                <Coords points="16,1183 861,1192 862,1231 16,1221"/>
+                <Baseline points="19,1214 859,1225"/>
+                <TextEquiv>
+                    <Unicode>einer ſehr geringen Aufmerkſamkeit gewuͤrdiget wer⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l11" custom="readingOrder {index:10;}">
+                <Coords points="16,1221 863,1233 862,1270 15,1258"/>
+                <Baseline points="17,1253 862,1265"/>
+                <TextEquiv>
+                    <Unicode>den: und ſagt dann der Unterpraͤfekt, neben anderm,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l12" custom="readingOrder {index:11;}">
+                <Coords points="16,1257 860,1271 859,1309 15,1295"/>
+                <Baseline points="15,1290 859,1304"/>
+                <TextEquiv>
+                    <Unicode>ausdruͤcklich: „Napoleons Aug erniedrigt ſich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="863,1348 14,1335 16,1294 865,1309"/>
+                <Baseline points="17,1326 861,1340"/>
+                <TextEquiv>
+                    <Unicode>nicht ſo tief herab, wohlwiſſend daß Schmaͤhſchrif⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="681,1380 13,1372 14,1332 684,1345"/>
+                <Baseline points="17,1366 680,1376"/>
+                <TextEquiv>
+                    <Unicode>ten der Lohn des Ruhmes ſind“, u. ſ. f.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="862,1418 52,1410 54,1371 865,1380"/>
+                <Baseline points="52,1402 858,1414"/>
+                <TextEquiv>
+                    <Unicode>In einem neuerlich zu Paris, unterm Titel: Ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="865,1458 14,1450 15,1409 864,1418"/>
+                <Baseline points="18,1442 860,1453"/>
+                <TextEquiv>
+                    <Unicode>Wenig vom Vergangnen, ein Wenig vom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="866,1497 13,1485 11,1447 866,1456"/>
+                <Baseline points="17,1480 861,1490"/>
+                <TextEquiv>
+                    <Unicode>Gegenwaͤrtigen, erſchienenen Pamphlete, heißt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="864,1532 14,1522 13,1486 864,1494"/>
+                <Baseline points="16,1518 863,1526"/>
+                <TextEquiv>
+                    <Unicode>es neben anderm: „Umſonſt moͤchten unſre Nach⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="865,1571 14,1563 12,1522 864,1531"/>
+                <Baseline points="16,1557 862,1564"/>
+                <TextEquiv>
+                    <Unicode>barn durch allerley kuͤnſtlich aufgeworfene Zweifel</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r10l20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="865,1610 11,1598 13,1561 866,1571"/>
+                <Baseline points="15,1595 862,1604"/>
+                <TextEquiv>
+                    <Unicode>(uͤber die Rechtmaͤßigkeit der Titel zu dem neuen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r10l21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="863,1646 12,1640 12,1598 864,1609"/>
+                <Baseline points="11,1632 861,1641"/>
+                <TextEquiv>
+                    <Unicode>franzoͤſiſchen Kaiſerthum) Frankreich noch einmal in</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r10l22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="862,1684 15,1678 13,1637 864,1645"/>
+                <Baseline points="12,1672 861,1681"/>
+                <TextEquiv>
+                    <Unicode>Gaͤhrung ſetzen; ſie betriegen ſich. Zwoͤlf Mil⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="859,1724 11,1713 14,1675 862,1681"/>
+                <Baseline points="15,1708 859,1716"/>
+                <TextEquiv>
+                    <Unicode>lionen neuer Eigenthuͤmer finden in der ein⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="860,1760 12,1753 13,1711 861,1723"/>
+                <Baseline points="13,1746 859,1753"/>
+                <TextEquiv>
+                    <Unicode>gefuͤhrten erblichen Gewalt und in unſrer uͤbrigen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r10l25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="859,1795 13,1791 13,1752 861,1760"/>
+                <Baseline points="16,1783 859,1791"/>
+                <TextEquiv>
+                    <Unicode>Verfaſſung einen unveraͤnderlichen Ruhepunkt, und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r10l26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="862,1836 15,1826 14,1791 863,1797"/>
+                <Baseline points="13,1820 859,1828"/>
+                <TextEquiv>
+                    <Unicode>werden von nun an nicht aufhoͤren, eine Ordnung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l27" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="860,1873 14,1865 11,1829 864,1837"/>
+                <Baseline points="15,1856 859,1868"/>
+                <TextEquiv>
+                    <Unicode>der Dinge zu ſtuͤtzen, welche hinwieder dieſelben auf</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r10l28" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="243,1904 14,1904 15,1865 244,1865"/>
+                <Baseline points="15,1898 242,1898"/>
+                <TextEquiv>
+                    <Unicode>immer ſtuͤtzt“.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r10l29" primaryLanguage="German" custom="readingOrder {index:28;}">
+                <Coords points="861,1948 414,1947 51,1940 52,1902 862,1910"/>
+                <Baseline points="55,1936 858,1943"/>
+                <TextEquiv>
+                    <Unicode>In verſchiedenen franzoͤſ. Blaͤttern finden ſich ſehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l30" primaryLanguage="German" custom="readingOrder {index:29;}">
+                <Coords points="859,1989 16,1980 16,1940 860,1949"/>
+                <Baseline points="21,1973 855,1983"/>
+                <TextEquiv>
+                    <Unicode>anziehende Notizzen uͤber den vortreflichen oͤffentlichen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r10l31" primaryLanguage="German" custom="readingOrder {index:30;}">
+                <Coords points="860,2027 16,2018 14,1979 862,1988"/>
+                <Baseline points="16,2012 855,2021"/>
+                <TextEquiv>
+                    <Unicode>und Privatcharakter des juͤngſthin verſtorbenen Vize⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r10l32" primaryLanguage="German" custom="readingOrder {index:31;}">
+                <Coords points="860,2063 16,2055 15,2018 859,2027"/>
+                <Baseline points="20,2048 858,2059"/>
+                <TextEquiv>
+                    <Unicode>Admiral la Touche Treville. Nachdem ſeine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l33" primaryLanguage="German" custom="readingOrder {index:32;}">
+                <Coords points="858,2107 14,2092 13,2055 860,2069"/>
+                <Baseline points="16,2087 857,2098"/>
+                <TextEquiv>
+                    <Unicode>Leiche bereits auf dem gewoͤhnlichen Todtenacker zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l34" primaryLanguage="German" custom="readingOrder {index:33;}">
+                <Coords points="858,2142 13,2133 13,2093 859,2104"/>
+                <Baseline points="13,2125 855,2138"/>
+                <TextEquiv>
+                    <Unicode>Toulon begraben worden, und aber erſt des fol⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l35" primaryLanguage="German" custom="readingOrder {index:34;}">
+                <Coords points="861,2179 12,2171 10,2135 860,2144"/>
+                <Baseline points="16,2163 859,2174"/>
+                <TextEquiv>
+                    <Unicode>genden Tags allgemein kund wurde, wie der Ver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l36" primaryLanguage="German" custom="readingOrder {index:35;}">
+                <Coords points="859,2224 13,2212 10,2170 861,2181"/>
+                <Baseline points="11,2203 858,2217"/>
+                <TextEquiv>
+                    <Unicode>bliechene, ſich ſeinen Tod, im buchſtaͤblichen Sinn</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r11" custom="readingOrder {index:12;}">
+            <Coords points="897,801 1764,799 1769,1080 1770,1835 1764,2223 891,2223 885,1836"/>
+            <TextLine id="r11l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1754,854 901,854 902,812 1755,812"/>
+                <Baseline points="903,847 1752,848"/>
+                <TextEquiv>
+                    <Unicode>durch die unermuͤdete Erfuͤllung ſeiner Dienſtpflicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="1751,890 900,890 900,851 1751,855"/>
+                <Baseline points="904,885 1751,885"/>
+                <TextEquiv>
+                    <Unicode>auf der aͤuſſerſten Rhede des Kaps Chinee zugezo⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r11l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="1750,926 903,931 903,890 1751,890"/>
+                <Baseline points="901,924 1751,924"/>
+                <TextEquiv>
+                    <Unicode>gen hatte, verlangte die Schiffsarmee wie mit Einer</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r11l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="1750,966 902,966 902,928 1752,930"/>
+                <Baseline points="907,961 1749,960"/>
+                <TextEquiv>
+                    <Unicode>Stimme, daß der Leichnam wieder ausgegraben, und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r11l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="1751,1005 901,1005 902,966 1752,966"/>
+                <Baseline points="901,998 1751,998"/>
+                <TextEquiv>
+                    <Unicode>in einem bleyernen Sarg auf erwaͤhnter Stelle bey⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r11l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="1749,1045 902,1045 903,1005 1750,1005"/>
+                <Baseline points="904,1039 1749,1039"/>
+                <TextEquiv>
+                    <Unicode>geſetzt werden ſollte, was auch ſofort bewerkſtelli⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r11l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="1076,1084 901,1084 901,1044 1076,1044"/>
+                <Baseline points="903,1075 1073,1074"/>
+                <TextEquiv>
+                    <Unicode>get wurde.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r11l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="1751,1121 944,1120 942,1083 1749,1079"/>
+                <Baseline points="943,1113 1751,1115"/>
+                <TextEquiv>
+                    <Unicode>Unter den ausgezeichneten Perſonen, welche ſich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="1749,1156 902,1156 903,1119 1750,1121"/>
+                <Baseline points="905,1152 1749,1151"/>
+                <TextEquiv>
+                    <Unicode>ſeit der Ankunft des Kaiſers Napoleons in Aachen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l10" custom="readingOrder {index:9;}">
+                <Coords points="902,1156 1749,1156 1751,1197 902,1194"/>
+                <Baseline points="907,1187 1744,1188"/>
+                <TextEquiv>
+                    <Unicode>befinden, nennt man: Neben dem Miniſter Talley⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l11" custom="readingOrder {index:10;}">
+                <Coords points="905,1193 1752,1196 1752,1232 904,1231"/>
+                <Baseline points="907,1226 1747,1228"/>
+                <TextEquiv>
+                    <Unicode>rand und dem Staatsſekretaͤr Maret, den Bot⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l12" custom="readingOrder {index:11;}">
+                <Coords points="906,1229 1751,1233 1750,1271 906,1271"/>
+                <Baseline points="906,1266 1749,1263"/>
+                <TextEquiv>
+                    <Unicode>ſchafter bey der Bataviſchen Republik, Semon⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l13" custom="readingOrder {index:12;}">
+                <Coords points="904,1272 1750,1271 1750,1307 1543,1307 1309,1310 1285,1311 1218,1306 904,1308"/>
+                <Baseline points="904,1303 1745,1302"/>
+                <TextEquiv>
+                    <Unicode>ville; dann von franzoͤſiſchen Militaͤrperſonen den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="1746,1347 901,1347 901,1306 1746,1306"/>
+                <Baseline points="903,1341 1744,1341"/>
+                <TextEquiv>
+                    <Unicode>Marſchall Lannes und die Generale Duͤroc,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="1747,1383 901,1383 903,1346 1748,1349"/>
+                <Baseline points="904,1379 1747,1379"/>
+                <TextEquiv>
+                    <Unicode>Mortier, Caulincourt, Moncey, Eugen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="1747,1422 903,1422 904,1383 1748,1383"/>
+                <Baseline points="904,1416 1748,1415"/>
+                <TextEquiv>
+                    <Unicode>Beauharnois, Lauriſton, Rapp und Caf⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="1747,1459 903,1460 904,1422 1748,1421"/>
+                <Baseline points="893,1454 1747,1454"/>
+                <TextEquiv>
+                    <Unicode>farelli; von auswaͤrtigen Geſandten bey der fran⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="1745,1500 902,1500 904,1457 1748,1459"/>
+                <Baseline points="905,1490 1745,1493"/>
+                <TextEquiv>
+                    <Unicode>zoͤſiſchen Republik: Diejenigen der Hoͤfe von Wien,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="1749,1535 902,1535 903,1499 1747,1497"/>
+                <Baseline points="904,1529 1748,1530"/>
+                <TextEquiv>
+                    <Unicode>Neapel und Liſſabon, und endlich mehrere ruſ⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="1751,1576 901,1576 902,1532 1751,1537"/>
+                <Baseline points="903,1566 1750,1570"/>
+                <TextEquiv>
+                    <Unicode>ſiſche und polniſche, meiſt Militaͤrperſonen. Wie</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r11l21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="1748,1614 903,1611 903,1573 1749,1573"/>
+                <Baseline points="904,1607 1746,1606"/>
+                <TextEquiv>
+                    <Unicode>viel eitele Vermuthungen, was fuͤr Angelegenheiten</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r11l22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="1746,1651 900,1651 901,1611 1750,1611"/>
+                <Baseline points="903,1644 1746,1644"/>
+                <TextEquiv>
+                    <Unicode>von Wichtigkeit dort zur Sprache kommen duͤrften,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r11l23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="1745,1689 899,1689 900,1647 1746,1650"/>
+                <Baseline points="902,1682 1745,1681"/>
+                <TextEquiv>
+                    <Unicode>hierauf gebaut werden, kann man ſich denken. Von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="1747,1726 901,1722 899,1685 1749,1689"/>
+                <Baseline points="902,1718 1743,1720"/>
+                <TextEquiv>
+                    <Unicode>dem General Lauriſton, der ſich bekanntlich eini⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="1746,1763 1498,1767 898,1763 899,1722 1747,1726"/>
+                <Baseline points="901,1757 1747,1758"/>
+                <TextEquiv>
+                    <Unicode>ge Zeit zu Wien aufhaͤlt, sagen uͤbrigens andre fran⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r11l26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="1746,1803 898,1801 899,1762 1746,1762"/>
+                <Baseline points="899,1792 1745,1796"/>
+                <TextEquiv>
+                    <Unicode>zoͤſiſche Blaͤtter, daß derſelbe von dort nach Kon⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r11l27" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="1406,1839 899,1838 899,1799 1405,1804"/>
+                <Baseline points="900,1833 1406,1834"/>
+                <TextEquiv>
+                    <Unicode>ſtantinopel abgegangen ſey.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l28" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="1747,1875 1304,1879 940,1871 937,1835 1341,1840 1746,1838"/>
+                <Baseline points="942,1869 1747,1872"/>
+                <TextEquiv>
+                    <Unicode>Ein in aller Einfalt geſchriebener Brief aus Aa⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r11l29" primaryLanguage="German" custom="readingOrder {index:28;}">
+                <Coords points="1745,1915 897,1915 900,1875 1746,1879"/>
+                <Baseline points="901,1908 1743,1909"/>
+                <TextEquiv>
+                    <Unicode>chen vom 7. Sept. iſt deswegen vielleicht nur um ſo</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r11l30" primaryLanguage="German" custom="readingOrder {index:29;}">
+                <Coords points="1745,1953 897,1951 898,1911 1748,1918"/>
+                <Baseline points="900,1947 1745,1949"/>
+                <TextEquiv>
+                    <Unicode>viel charakteriſtiſcher. Es heißt darin, neben an⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l31" primaryLanguage="German" custom="readingOrder {index:30;}">
+                <Coords points="1746,1991 902,1991 899,1951 1746,1953"/>
+                <Baseline points="898,1982 1743,1986"/>
+                <TextEquiv>
+                    <Unicode>derm: „Der Kaiſer hat einen ſtrengen Blick, uͤberaus</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r11l32" primaryLanguage="German" custom="readingOrder {index:31;}">
+                <Coords points="1745,2027 899,2027 900,1990 1746,1990"/>
+                <Baseline points="901,2021 1744,2025"/>
+                <TextEquiv>
+                    <Unicode>viel Gravitaͤt, und erwartet Puͤnktlichkeit und Gerad⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="r11l33" primaryLanguage="German" custom="readingOrder {index:32;}">
+                <Coords points="1744,2068 899,2068 899,2029 1745,2033"/>
+                <Baseline points="891,2063 1743,2063"/>
+                <TextEquiv>
+                    <Unicode>heit in den Antworten. Seine Fragen ſind oft unvor⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l34" primaryLanguage="German" custom="readingOrder {index:33;}">
+                <Coords points="1744,2106 897,2111 898,2067 1743,2067"/>
+                <Baseline points="897,2101 1742,2102"/>
+                <TextEquiv>
+                    <Unicode>geſehen, und erſchuͤttern die Unvorbereiteten. Ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l35" primaryLanguage="German" custom="readingOrder {index:34;}">
+                <Coords points="1746,2148 897,2145 898,2108 1747,2106"/>
+                <Baseline points="902,2138 1744,2141"/>
+                <TextEquiv>
+                    <Unicode>Departementalrath, auf Befragen, welchen Beruf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l36" primaryLanguage="German" custom="readingOrder {index:35;}">
+                <Coords points="1741,2182 898,2182 902,2145 1745,2147"/>
+                <Baseline points="901,2178 1741,2179"/>
+                <TextEquiv>
+                    <Unicode>er treibe? antwortete, er waͤre ein Ackersmann. —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l37" primaryLanguage="German" custom="readingOrder {index:36;}">
+                <Coords points="1745,2228 898,2228 898,2181 1744,2189"/>
+                <Baseline points="901,2220 1741,2220"/>
+                <TextEquiv>
+                    <Unicode>Wie die Erndte ausgefallen waͤre? — Gut, und man</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:13;}">
+            <Coords points="20,675 1748,675 1748,690 20,690"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:14;}">
+            <Coords points="12,784 1747,784 1747,802 12,802"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

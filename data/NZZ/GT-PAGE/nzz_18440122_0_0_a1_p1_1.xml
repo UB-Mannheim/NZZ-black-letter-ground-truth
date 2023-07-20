@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2017-12-08T13:17:33.356+01:00</Created>
+        <LastChange>2023-07-19T15:55:27.113+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="1148848" pageId="47121971" pageNr="65" tsid="130099346" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=JOIFMJEJYELYQOKFPDTYRJFG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BREBLMCFPWSKCTJUFTIENLTF" imageId="38489826"/>
+    </Metadata>
+    <Page imageFilename="nzz_18440122_0_0_a1_p1_1.tif" imageWidth="2673" imageHeight="3484">
+        <PrintSpace>
+            <Coords points="51,0 2673,0 2673,3484 51,3484"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1689864176451" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r1"/>
+                <RegionRefIndexed index="2" regionRef="r2"/>
+                <RegionRefIndexed index="3" regionRef="r3"/>
+                <RegionRefIndexed index="4" regionRef="r4"/>
+                <RegionRefIndexed index="5" regionRef="r5"/>
+                <RegionRefIndexed index="6" regionRef="r6"/>
+                <RegionRefIndexed index="7" regionRef="r7"/>
+                <RegionRefIndexed index="8" regionRef="r8"/>
+                <RegionRefIndexed index="9" regionRef="r9"/>
+                <RegionRefIndexed index="10" regionRef="r10"/>
+                <RegionRefIndexed index="11" regionRef="r11"/>
+                <RegionRefIndexed index="12" regionRef="r12"/>
+                <RegionRefIndexed index="13" regionRef="r13"/>
+                <RegionRefIndexed index="14" regionRef="r14"/>
+                <RegionRefIndexed index="15" regionRef="r15"/>
+                <RegionRefIndexed index="16" regionRef="r16"/>
+                <RegionRefIndexed index="17" regionRef="r17"/>
+                <RegionRefIndexed index="18" regionRef="r18"/>
+                <RegionRefIndexed index="19" regionRef="r19"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <ImageRegion id="Image_1677160586879_1425" custom="readingOrder {index:0;}">
+            <Coords points="2371,173 2342,121 2333,107 2326,70 2324,0 2667,0 2667,262 2570,261 2498,262 2456,252 2426,236 2378,193"/>
+        </ImageRegion>
+        <TextRegion type="header" id="r1" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="1083,127 1490,126 1488,245 1081,246"/>
+            <TextLine id="r1l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1117,141 1454,143 1454,234 1117,232"/>
+                <Baseline points="1128,217 1440,217"/>
+                <TextEquiv>
+                    <Unicode>Nr. 22.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="24.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r2" custom="readingOrder {index:2;} structure {type:header;}">
+            <Coords points="427,320 426,529 2185,530 2186,321"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="446,331 2162,331 2162,520 446,520"/>
+                <Baseline points="454,485 2157,476"/>
+                <TextEquiv>
+                    <Unicode>Neue Zürcher⸗Zeitung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r3" custom="readingOrder {index:3;} structure {type:header;}">
+            <Coords points="180,123 521,123 520,172 179,172"/>
+            <TextLine id="r3l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="194,135 503,135 503,168 194,168"/>
+                <Baseline points="197,163 497,164"/>
+                <TextEquiv>
+                    <Unicode>Vorausbezahlung.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r4" custom="readingOrder {index:4;} structure {type:header;}">
+            <Coords points="94,194 577,194 577,313 94,313"/>
+            <TextLine id="r4l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="103,201 568,200 568,234 103,235"/>
+                <Baseline points="114,229 560,229"/>
+                <TextEquiv>
+                    <Unicode>Jährlich in Zürich Schwfrk. 8.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r4l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="112,234 566,234 566,269 112,269"/>
+                <Baseline points="115,264 562,265"/>
+                <TextEquiv>
+                    <Unicode>Im ganzen Poſtrayon Zürich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r4l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="166,268 506,268 506,305 166,305"/>
+                <Baseline points="179,295 489,298"/>
+                <TextEquiv>
+                    <Unicode>franko Frk. 9 Btz. 2</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r5" custom="readingOrder {index:5;} structure {type:header;}">
+            <Coords points="2075,118 2427,123 2429,169 2086,174"/>
+            <TextLine id="r5l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="2090,125 2422,130 2424,167 2089,169"/>
+                <Baseline points="2095,161 2421,159"/>
+                <TextEquiv>
+                    <Unicode>Einrückungsgebühr</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r6" custom="readingOrder {index:6;} structure {type:header;}">
+            <Coords points="2051,195 2446,195 2446,272 2051,272"/>
+            <TextLine id="r6l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="2086,199 2414,197 2414,233 2086,235"/>
+                <Baseline points="2089,227 2410,225"/>
+                <TextEquiv>
+                    <Unicode>Die Petitzeile 4 Krtz</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r6l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="2059,231 2445,230 2444,265 2058,266"/>
+                <Baseline points="2064,262 2441,257"/>
+                <TextEquiv>
+                    <Unicode>Briefe und Gelder franko.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r7" custom="readingOrder {index:7;} structure {type:header;}">
+            <Coords points="102,615 427,618 428,720 103,717"/>
+            <TextLine id="r7l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="111,625 410,625 410,705 111,705"/>
+                <Baseline points="120,689 397,684"/>
+                <TextEquiv>
+                    <Unicode>Montag</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="18.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r8" custom="readingOrder {index:8;} structure {type:header;}">
+            <Coords points="1856,608 2510,608 2504,703 1850,703"/>
+            <TextLine id="r8l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1884,624 2493,624 2493,687 1884,687"/>
+                <Baseline points="1894,677 2495,677"/>
+                <TextEquiv>
+                    <Unicode>den 22. Januar 1844.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r9" custom="readingOrder {index:9;} structure {type:header;}">
+            <Coords points="1318,661 1708,669 1713,720 1300,722 906,720 909,665"/>
+            <TextLine id="r9l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1316,670 1699,672 1703,714 1299,711 917,711 915,675"/>
+                <Baseline points="921,705 1300,702 1317,703 1698,702"/>
+                <TextEquiv>
+                    <Unicode>Druck und Verlag von Orell, Füßli &amp; Comp.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="heading" id="r10" custom="readingOrder {index:10;} structure {type:heading;}">
+            <Coords points="511,828 879,829 877,890 509,889"/>
+            <TextLine id="r10l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="866,882 524,882 524,834 866,834"/>
+                <Baseline points="531,877 858,872"/>
+                <TextEquiv>
+                    <Unicode>Schweiz.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r11" custom="readingOrder {index:11;}">
+            <Coords points="110,899 1299,901 1300,1377 103,1378"/>
+            <TextLine id="r11l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="171,905 1290,903 1290,949 177,953"/>
+                <Baseline points="179,945 1289,940"/>
+                <TextEquiv>
+                    <Unicode>Bern. Dem zum außerordentlichen Profeſſor des Staats⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r11l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="113,964 1289,956 1291,1005 112,1009"/>
+                <Baseline points="119,1000 1286,992"/>
+                <TextEquiv>
+                    <Unicode>rechtes ernannten Hrn. Großrath Friedrich Stettler iſt geſtattet,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r11l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="116,1016 1289,1006 1290,1058 116,1058"/>
+                <Baseline points="118,1054 1288,1044"/>
+                <TextEquiv>
+                    <Unicode>die Stelle eines Lehenskommiſſärs des Kantons beizubehalten,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r11l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="114,1068 1293,1061 1293,1109 115,1114"/>
+                <Baseline points="119,1105 1289,1097"/>
+                <TextEquiv>
+                    <Unicode>vom Regierungsrath aber das Maximum der Beſoldung ſeiner</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r11l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="117,1119 1290,1116 1294,1160 116,1166"/>
+                <Baseline points="120,1159 1289,1151"/>
+                <TextEquiv>
+                    <Unicode>Profeſſur von 1600 auf 1000 Frkn. heruntergeſetzt worden. —</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r11l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="110,1174 1294,1165 1295,1212 117,1220"/>
+                <Baseline points="119,1212 1289,1204"/>
+                <TextEquiv>
+                    <Unicode>In Erlach hat ſich eine unverheirathete Weibsperſon erhängt, die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r11l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="115,1226 1290,1221 1294,1264 117,1275"/>
+                <Baseline points="118,1264 1288,1256"/>
+                <TextEquiv>
+                    <Unicode>wegen Verdachtes, daß ſie mit ihrem Vater in einem verbreche⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r11l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="114,1277 1295,1271 1295,1326 112,1326"/>
+                <Baseline points="117,1319 1289,1311"/>
+                <TextEquiv>
+                    <Unicode>riſchen Verhältniß geſtanden ſei und das neugeborne Kind er⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r11l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="777,1376 109,1376 111,1330 779,1330"/>
+                <Baseline points="118,1371 770,1365"/>
+                <TextEquiv>
+                    <Unicode>mordet habe, in Haft gehalten war.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r12" custom="readingOrder {index:12;}">
+            <Coords points="109,1379 1296,1378 1296,1591 109,1592"/>
+            <TextLine id="r12l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="176,1379 1293,1379 1293,1428 176,1428"/>
+                <Baseline points="182,1422 1289,1414"/>
+                <TextEquiv>
+                    <Unicode>Solothurn. Der Frauenverein in Olten hat ſeit ſeinem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="111,1433 1289,1433 1293,1479 111,1486"/>
+                <Baseline points="117,1479 1288,1466"/>
+                <TextEquiv>
+                    <Unicode>siebenjährigen Beſtande gegen 1400 Frkn. für Hausarme einge⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r12l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="113,1490 1289,1482 1292,1535 115,1534"/>
+                <Baseline points="118,1531 668,1522 1287,1520"/>
+                <TextEquiv>
+                    <Unicode>nommen und faſt 900 Frkn. ausgeheben. Der Ueberſchuß iſt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r12l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="113,1542 835,1541 835,1590 113,1591"/>
+                <Baseline points="118,1585 829,1574"/>
+                <TextEquiv>
+                    <Unicode>als Reſervekapital zinstragend angelegt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r13" custom="readingOrder {index:13;}">
+            <Coords points="110,1591 1293,1589 1292,1796 109,1801"/>
+            <TextLine id="r13l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="173,1594 1289,1591 1290,1635 174,1640"/>
+                <Baseline points="181,1635 1287,1627"/>
+                <TextEquiv>
+                    <Unicode>Baſelſtadt. Die Rechnung der Spitalpflege von 1842</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="115,1650 1289,1641 1293,1688 118,1699"/>
+                <Baseline points="119,1690 553,1683 1288,1679"/>
+                <TextEquiv>
+                    <Unicode>erzeigt eine Einnahme von 86,228 Frkn. 4 Btz. und eine Ausgabe</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r13l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="113,1702 642,1697 1289,1691 1289,1745 640,1748 118,1751"/>
+                <Baseline points="116,1744 669,1735 1288,1731"/>
+                <TextEquiv>
+                    <Unicode>von 125,215 Frkn. 2 Btz. 8 Rp., ſo daß der Ausfall beinahe</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r13l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="515,1796 112,1796 112,1754 515,1754"/>
+                <Baseline points="116,1794 496,1788"/>
+                <TextEquiv>
+                    <Unicode>59,000 Frkn. beträgt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r14" custom="readingOrder {index:14;}">
+            <Coords points="109,1802 1296,1797 1296,1960 109,1965"/>
+            <TextLine id="r14l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="178,1806 1290,1800 1292,1847 180,1850"/>
+                <Baseline points="183,1845 1287,1834"/>
+                <TextEquiv>
+                    <Unicode>Baſellandſchaft. Die Gemeinde Binningen gedenkt jähr⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="114,1861 1293,1852 1289,1900 117,1909"/>
+                <Baseline points="119,1902 1287,1889"/>
+                <TextEquiv>
+                    <Unicode>lich 200 Frkn. für Anlage einer paſſenden Gemeindsbibliothek</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r14l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="317,1961 114,1962 114,1917 317,1916"/>
+                <Baseline points="117,1954 310,1951"/>
+                <TextEquiv>
+                    <Unicode>auszuſetzen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r15" custom="readingOrder {index:15;}">
+            <Coords points="107,1967 1297,1961 1291,2435 107,2437"/>
+            <TextLine id="r15l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="179,1968 1294,1959 1292,2006 179,2008"/>
+                <Baseline points="182,2004 1288,1994"/>
+                <TextEquiv>
+                    <Unicode>St. Gallen. Am 16. d. M. waren die Abgeordneten der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="114,2017 1289,2009 1293,2057 113,2068"/>
+                <Baseline points="117,2059 601,2051 1288,2046"/>
+                <TextEquiv>
+                    <Unicode>katholiſchen Geiſtlichkeit des Kantons zur erſten Berathung und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r15l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="110,2072 1290,2064 1294,2109 112,2121"/>
+                <Baseline points="116,2113 647,2104 1289,2099"/>
+                <TextEquiv>
+                    <Unicode>Vertheilung der Unterſtützung an hülfsbedürftige Prieſter unter</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r15l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="110,2128 1290,2113 1291,2160 113,2174"/>
+                <Baseline points="114,2166 1288,2152"/>
+                <TextEquiv>
+                    <Unicode>dem Vorſitze des Diözeſanvorſtandes verſammelt. Im Kapitel</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r15l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="111,2179 1288,2169 1291,2214 117,2229"/>
+                <Baseline points="119,2219 1288,2204"/>
+                <TextEquiv>
+                    <Unicode>Schwyz ſoll der von Frühmeſſer Schibig ſel. angeregte ähnliche</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r15l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="113,2232 1288,2222 1290,2266 113,2280"/>
+                <Baseline points="120,2273 1287,2257"/>
+                <TextEquiv>
+                    <Unicode>Hülfsverein nicht geſcheitert ſein, ſondern noch fortbeſtehen. Hr.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r15l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="111,2288 1289,2272 1291,2322 114,2334"/>
+                <Baseline points="112,2326 790,2314 1292,2311"/>
+                <TextEquiv>
+                    <Unicode>Pfar. Tſchümperli zu Jona erklärt die frühere dießfällige Angabe</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r15l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="109,2340 1288,2327 1290,2374 115,2386"/>
+                <Baseline points="115,2378 682,2367 1286,2365"/>
+                <TextEquiv>
+                    <Unicode>über ſeine Mitwirkung und die Auffaſſung des Vereinszweckes</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r15l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="113,2392 993,2379 996,2431 115,2434"/>
+                <Baseline points="116,2432 992,2416"/>
+                <TextEquiv>
+                    <Unicode>als ein Mißverſtändniß des † * Korreſpondenten.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r16" custom="readingOrder {index:16;}">
+            <Coords points="108,2440 1292,2434 1296,2796 115,2808"/>
+            <TextLine id="r16l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="179,2444 1289,2435 1289,2480 181,2484"/>
+                <Baseline points="186,2481 801,2471 1288,2469"/>
+                <TextEquiv>
+                    <Unicode>Graubünden. Der verſtorbene Biſchof Boſſt hat in ſeinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="116,2496 1290,2484 1291,2532 116,2548"/>
+                <Baseline points="117,2536 781,2523 1288,2521"/>
+                <TextEquiv>
+                    <Unicode>letztwilligen Verfügungen im Ganzen 16,000 Bündnergulden für</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r16l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="114,2553 602,2542 1287,2538 1292,2585 645,2589 118,2597"/>
+                <Baseline points="120,2591 862,2575 1288,2572"/>
+                <TextEquiv>
+                    <Unicode>wohlthätige Zwecke ausgeſetzt. Von dieſer Summe ſind 4000 fl.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r16l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="116,2603 783,2591 1291,2592 1291,2638 829,2639 117,2646"/>
+                <Baseline points="119,2640 731,2630 1288,2626"/>
+                <TextEquiv>
+                    <Unicode>dem Bisthum, ebenſoviel dem biſchöfl. Seminar zu St. Luzi,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r16l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="116,2649 752,2644 1291,2645 1292,2687 769,2693 118,2698"/>
+                <Baseline points="119,2691 682,2680 1287,2679"/>
+                <TextEquiv>
+                    <Unicode>1000 fl. der Schule ſeiner Heimatgemeinde Mons und die übri⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r16l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="118,2709 560,2697 1291,2698 1290,2743 583,2749 119,2755"/>
+                <Baseline points="122,2748 620,2734 1289,2733"/>
+                <TextEquiv>
+                    <Unicode>gen ſiebentauſend verſchiedenen Kirchen und Schulen im Ober⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r16l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="454,2807 118,2807 118,2758 454,2758"/>
+                <Baseline points="118,2796 444,2792"/>
+                <TextEquiv>
+                    <Unicode>halbſtein vermacht.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r17" custom="readingOrder {index:17;}">
+            <Coords points="110,2810 1296,2803 1301,3385 106,3385"/>
+            <TextLine id="r17l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="180,2816 767,2805 1290,2803 1289,2849 771,2851 179,2857"/>
+                <Baseline points="183,2850 849,2840 1288,2838"/>
+                <TextEquiv>
+                    <Unicode>Teſſin. Eine der vorzüglichſten Quellen des Nationalreich⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="115,2865 831,2856 1290,2856 1290,2904 819,2901 115,2912"/>
+                <Baseline points="122,2903 838,2892 1288,2893"/>
+                <TextEquiv>
+                    <Unicode>thums für Teſſin iſt der Seidenbau. Authentiſche Angaben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="115,2914 1290,2909 1291,2955 116,2963"/>
+                <Baseline points="118,2955 817,2945 1290,2950"/>
+                <TextEquiv>
+                    <Unicode>über denſelben hat ſich die teſſiniſche Regierung bei Gelegenheit</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r17l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="113,2966 1290,2963 1290,3009 114,3015"/>
+                <Baseline points="116,3008 583,3002 731,2998 1286,2997"/>
+                <TextEquiv>
+                    <Unicode>der 210 Fragen der eidgenöſſiſchen Handelsenquete geſammelt,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r17l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="112,3018 1291,3015 1291,3059 116,3068"/>
+                <Baseline points="117,3061 809,3050 1287,3051"/>
+                <TextEquiv>
+                    <Unicode>obſchon die bezüglichen Fragen (150 bis 163) nur die Seiden⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r17l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="114,3072 1290,3067 1289,3114 115,3121"/>
+                <Baseline points="117,3113 773,3104 1287,3103"/>
+                <TextEquiv>
+                    <Unicode>manufaktur der Kantone, nicht aber, ſonderbarer Weiſe, die Sei⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r17l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="112,3125 1290,3120 1288,3167 114,3171"/>
+                <Baseline points="115,3165 831,3155 1287,3156"/>
+                <TextEquiv>
+                    <Unicode>denkultur ſelbſt, welche für die Schweiz ſo wichtig zu werden</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r17l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="111,3180 1291,3172 1292,3216 110,3226"/>
+                <Baseline points="113,3215 1292,3209"/>
+                <TextEquiv>
+                    <Unicode>verſpricht, beſchlagen. Dem Berichte des teſſiniſchen Staatsra⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r17l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="114,3230 1292,3223 1293,3271 117,3278"/>
+                <Baseline points="118,3270 1290,3261"/>
+                <TextEquiv>
+                    <Unicode>thes entnehmen wir nun folgenden Auszug. — Vor ungefähr</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r17l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="112,3281 1292,3278 1292,3325 112,3331"/>
+                <Baseline points="114,3324 865,3314 1289,3314"/>
+                <TextEquiv>
+                    <Unicode>60 Jahren berechnete der Züricher Rud. Schinz die Seidenpro⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r17l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="112,3330 1291,3330 1291,3378 112,3380"/>
+                <Baseline points="117,3375 1290,3367"/>
+                <TextEquiv>
+                    <Unicode>duktion in den italieniſchen Vogteien auf etwa 50 Ballen. Frans⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r18" custom="readingOrder {index:18;}">
+            <Coords points="1324,785 2512,785 2512,2682 1327,2690"/>
+            <TextLine id="r18l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1332,796 2497,791 2499,844 1333,844"/>
+                <Baseline points="1335,833 2494,832"/>
+                <TextEquiv>
+                    <Unicode>cint in ſeiner „italieniſchen Schweiz“ vom Jahr 1834 ſchätzt sie</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="1334,848 2495,848 2495,897 1334,897"/>
+                <Baseline points="1337,886 2492,883"/>
+                <TextEquiv>
+                    <Unicode>auf 190 Ballen, an Gewicht 39,000 leichte Pfund enthaltend.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="1334,903 2498,899 2499,948 1332,949"/>
+                <Baseline points="1337,939 2498,938"/>
+                <TextEquiv>
+                    <Unicode>Er zählte 35 Spinnereien, 14 im Luganeſiſchen, 21 im Mendri⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="1332,955 2496,952 2499,1003 1330,1000"/>
+                <Baseline points="1335,993 2495,991"/>
+                <TextEquiv>
+                    <Unicode>ſtotto, mit 409 Oefen. Zur Zeit der letzten, offiziellen, Aufnahme</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="1331,1010 2502,1004 2503,1052 1333,1055"/>
+                <Baseline points="1335,1046 2497,1044"/>
+                <TextEquiv>
+                    <Unicode>(1842) fanden ſich 41 Spinnereien, mit 512 Oefen und 1144</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="1328,1061 2496,1058 2497,1107 1329,1107"/>
+                <Baseline points="1334,1097 2494,1097"/>
+                <TextEquiv>
+                    <Unicode>Perſonen (meiſt Weiber und Kinder) in Thätigkeit. Die Zahl</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="1331,1112 2503,1113 2501,1161 1330,1161"/>
+                <Baseline points="1333,1150 2497,1149"/>
+                <TextEquiv>
+                    <Unicode>der Arbeitstage betrug ungefähr 43,000; die produzirte Seide</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="1331,1163 2509,1162 2507,1214 1335,1212"/>
+                <Baseline points="1336,1202 2499,1204"/>
+                <TextEquiv>
+                    <Unicode>47,800 Schwz.⸗Pfd. = 71,700 leichte Mailänder⸗Pfd. zu 12</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="1329,1218 2505,1218 2504,1266 1331,1266"/>
+                <Baseline points="1336,1255 2497,1255"/>
+                <TextEquiv>
+                    <Unicode>Unzen. Dieſes Quantum repräſentirt annähernd ein Kapital</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="1330,1272 2505,1270 2500,1319 1329,1319"/>
+                <Baseline points="1333,1309 2496,1307"/>
+                <TextEquiv>
+                    <Unicode>von zirka 2 Mill. Lire = 1 Mill. Schweizerfranken. Die Spin⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="1331,1324 2498,1323 2500,1371 1331,1369"/>
+                <Baseline points="1337,1361 2497,1362"/>
+                <TextEquiv>
+                    <Unicode>nereien vertheilen ſich auf das Luganeſiſche (23), Mendriſiotto (15),</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="1335,1377 2503,1377 2502,1425 1334,1424"/>
+                <Baseline points="1340,1415 2499,1413"/>
+                <TextEquiv>
+                    <Unicode>Bellinzona (2) und Briſſago im Bezirk Locarno (1). — Aus⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="1333,1431 2500,1424 2506,1477 1332,1477"/>
+                <Baseline points="1337,1466 2498,1466"/>
+                <TextEquiv>
+                    <Unicode>geführt wurde im Jahr 1841 71,200 Pfd. Maulbeerblätter,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="1333,1483 2502,1480 2504,1528 1334,1527"/>
+                <Baseline points="1336,1519 2500,1519"/>
+                <TextEquiv>
+                    <Unicode>27,187 Pfd. Kokons, 36,179 Pfd. rohe Seide. Im Jahr 1842,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="1332,1537 2505,1536 2503,1583 1334,1580"/>
+                <Baseline points="1337,1571 2500,1571"/>
+                <TextEquiv>
+                    <Unicode>nachdem die Ausfuhr von roher und geſponnener Seide nach den</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="1333,1588 2509,1586 2507,1635 1331,1634"/>
+                <Baseline points="1334,1624 2502,1624"/>
+                <TextEquiv>
+                    <Unicode>übrigen Kantonen der Schweiz keinerlei Kontrole mehr unter⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="1333,1642 2497,1639 2499,1688 1333,1686"/>
+                <Baseline points="1338,1676 2495,1675"/>
+                <TextEquiv>
+                    <Unicode>worfen war, betrug die Ausfuhr in's Ausland noch 40,000 Pfd.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="1334,1691 2500,1690 2501,1741 1336,1739"/>
+                <Baseline points="1338,1731 2496,1730"/>
+                <TextEquiv>
+                    <Unicode>Maulbeerblätter, 15,945 Pfd. Kokons, 3,920 Pfd. geſponnene</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="1334,1746 2498,1743 2499,1793 1336,1789"/>
+                <Baseline points="1337,1781 2497,1781"/>
+                <TextEquiv>
+                    <Unicode>und 20,187 Pfd. rohe Seide. Eingeführt wurden dagegen in</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="1331,1797 2505,1799 2502,1846 1330,1841"/>
+                <Baseline points="1334,1834 2503,1834"/>
+                <TextEquiv>
+                    <Unicode>demſelben Jahre 21,500 Pfd. Maulbeerblätter, 1,030 Pfd. Ko⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="1329,1850 2502,1847 2505,1897 1332,1897"/>
+                <Baseline points="1334,1887 2503,1886"/>
+                <TextEquiv>
+                    <Unicode>kons, 600 Pfd. geſponnene Seide. Der Transit fällt in beſon⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="1332,1902 2500,1900 2504,1949 1333,1949"/>
+                <Baseline points="1337,1939 2498,1940"/>
+                <TextEquiv>
+                    <Unicode>dere Regiſter. — Während aber der Kanton Teſſin ein ſo bedeu⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="1336,1956 2502,1954 2503,2003 1337,1999"/>
+                <Baseline points="1336,1997 2500,1992"/>
+                <TextEquiv>
+                    <Unicode>tendes Quantum Seide produzirt, mangelt ihm die Seidenma⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="1336,2007 2502,2010 2504,2057 1336,2058"/>
+                <Baseline points="1340,2044 2499,2047"/>
+                <TextEquiv>
+                    <Unicode>nufaktur gänzlich. Aus den Regiſtern von 1842 ergiebt ſich, daß</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="1332,2063 2506,2063 2504,2109 1334,2106"/>
+                <Baseline points="1337,2097 2502,2098"/>
+                <TextEquiv>
+                    <Unicode>vom Auslande 33,767 Pfd. halbſeidene, 13,956 Pfd. ſeidene</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="1338,2113 2504,2115 2503,2160 1338,2162"/>
+                <Baseline points="1341,2151 2499,2152"/>
+                <TextEquiv>
+                    <Unicode>Stoffe, aus der Eidgenoſſenſchaft 4,980 Pfd. halbſeid., 2,521 Pfd.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l27" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="1333,2166 2503,2166 2503,2212 1333,2215"/>
+                <Baseline points="1339,2204 2500,2205"/>
+                <TextEquiv>
+                    <Unicode>ſeidene Stoffe, im Ganzen alſo ungefähr 552 Zentner Seiden⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l28" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="1337,2217 2503,2222 2506,2266 1337,2267"/>
+                <Baseline points="1339,2258 2500,2257"/>
+                <TextEquiv>
+                    <Unicode>ſtoffe eingeführt wurden. Indeſſen bemerkt der Bericht, daß weit</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l29" primaryLanguage="German" custom="readingOrder {index:28;}">
+                <Coords points="1333,2273 2506,2274 2504,2318 1334,2320"/>
+                <Baseline points="1338,2309 2500,2310"/>
+                <TextEquiv>
+                    <Unicode>aus der größere Theil davon zur Wiederausfuhr beſtimmt ſei,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l30" primaryLanguage="German" custom="readingOrder {index:29;}">
+                <Coords points="1332,2325 2504,2328 2501,2370 1333,2375"/>
+                <Baseline points="1337,2364 2501,2364"/>
+                <TextEquiv>
+                    <Unicode>und obgleich man die letztere wegen Befreiung von Taxen und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l31" primaryLanguage="German" custom="readingOrder {index:30;}">
+                <Coords points="1331,2378 2503,2379 2501,2424 1333,2425"/>
+                <Baseline points="1338,2415 2498,2414"/>
+                <TextEquiv>
+                    <Unicode>Formalitäten irgend welcher Art nicht genau angeben könne, so</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l32" primaryLanguage="German" custom="readingOrder {index:31;}">
+                <Coords points="1334,2430 2503,2430 2502,2477 1333,2477"/>
+                <Baseline points="1339,2467 2501,2468"/>
+                <TextEquiv>
+                    <Unicode>wird dieſelbe doch auf mehr als 500 Zentner geſchätzt. — Der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l33" primaryLanguage="German" custom="readingOrder {index:32;}">
+                <Coords points="1333,2485 2504,2484 2506,2531 1333,2529"/>
+                <Baseline points="1337,2519 2502,2523"/>
+                <TextEquiv>
+                    <Unicode>Bericht erwähnt anmerkungsweiſe eines Spinnſtuhles von ganz</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l34" primaryLanguage="German" custom="readingOrder {index:33;}">
+                <Coords points="1332,2536 2501,2535 2501,2583 1335,2583"/>
+                <Baseline points="1338,2574 2499,2572"/>
+                <TextEquiv>
+                    <Unicode>neuer Erfindung im Paradies bei Lugano und eines ähnlichen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l35" primaryLanguage="German" custom="readingOrder {index:34;}">
+                <Coords points="1332,2587 2508,2587 2508,2637 1332,2637"/>
+                <Baseline points="1338,2626 2500,2628"/>
+                <TextEquiv>
+                    <Unicode>in Mendriſio, die ſich durch bedeutende techniſche Vervollkomm⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r18l36" primaryLanguage="German" custom="readingOrder {index:35;}">
+                <Coords points="1338,2644 1658,2644 1658,2689 1338,2689"/>
+                <Baseline points="1341,2678 1655,2678"/>
+                <TextEquiv>
+                    <Unicode>nung auszeichnen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r19" custom="readingOrder {index:19;}">
+            <Coords points="1323,2690 2514,2687 2520,3384 1318,3384"/>
+            <TextLine id="r19l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1407,2695 2505,2694 2504,2740 1405,2736"/>
+                <Baseline points="1407,2731 2500,2732"/>
+                <TextEquiv>
+                    <Unicode>— Ein Dekret des Staatsrathes vom 30. Nov. v. J. iſt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r19l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="1334,2746 2502,2745 2504,2796 1336,2796"/>
+                <Baseline points="1337,2784 2501,2785"/>
+                <TextEquiv>
+                    <Unicode>geeignet, theils den teſſiniſchen Münzfuß genauer kennen zu leh⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r19l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="1335,2801 2506,2800 2505,2844 1336,2847"/>
+                <Baseline points="1339,2838 2501,2836"/>
+                <TextEquiv>
+                    <Unicode>ren, theils dem nach Teſſin verkehrenden Publikum beachtens⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r19l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="1334,2852 2505,2851 2504,2899 1335,2898"/>
+                <Baseline points="1337,2889 2501,2887"/>
+                <TextEquiv>
+                    <Unicode>werthe Aufſchlüſſe zu geben. Bekanntlich iſt die Münzeinheit in</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r19l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="1335,2904 2502,2903 2509,2952 1335,2953"/>
+                <Baseline points="1340,2941 2502,2941"/>
+                <TextEquiv>
+                    <Unicode>Teſſin die Lira; allein man unterſcheidet die mailändiſche Lira</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r19l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="1333,2959 2505,2960 2506,3005 1332,3002"/>
+                <Baseline points="1339,2996 2502,2994"/>
+                <TextEquiv>
+                    <Unicode>oder lira di cassa, welche den Staatsrechnungen zu Grunde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="1332,3013 2512,3011 2509,3057 1331,3058"/>
+                <Baseline points="1338,3048 2502,3046"/>
+                <TextEquiv>
+                    <Unicode>liegt, und die gemeine teſſiniſche Lira, welche kleiner und mehr</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r19l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="1331,3063 2511,3063 2505,3111 1331,3110"/>
+                <Baseline points="1339,3100 2501,3099"/>
+                <TextEquiv>
+                    <Unicode>im alltäglichen Verkehr gebräuchlich iſt. Zur Werthung beider</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r19l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="1335,3117 2507,3116 2505,3167 1338,3162"/>
+                <Baseline points="1338,3155 2500,3153"/>
+                <TextEquiv>
+                    <Unicode>Geldſorten hat nun der Staatsrath feſtgeſetzt, daß für öffentliche,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r19l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="1333,3166 2502,3167 2508,3216 1335,3215"/>
+                <Baseline points="1339,3207 2502,3205"/>
+                <TextEquiv>
+                    <Unicode>wie für Privatzahlungen der franz. Fünfftankenthaler 6 Mail.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r19l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="1335,3221 2506,3220 2507,3270 1333,3269"/>
+                <Baseline points="1338,3259 2500,3259"/>
+                <TextEquiv>
+                    <Unicode>Lire 18,9 Soldi (20 Soldi = 1 Lira) oder 8 teſſin. Lire 6,6</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r19l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="1337,3274 2500,3271 2508,3319 1338,3322"/>
+                <Baseline points="1341,3313 2500,3311"/>
+                <TextEquiv>
+                    <Unicode>Soldi, das Zwanzigfrankenſtück 27 M. L. 15 S. oder 33 T. L.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r19l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="1336,3330 2501,3325 2490,3376 1337,3376"/>
+                <Baseline points="1338,3368 2488,3363"/>
+                <TextEquiv>
+                    <Unicode>6 S. gelten ſoll; die Lira Auſtriaca wird zu 1 M. L. 3,6 S</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+        </TextRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:20;}">
+            <Coords points="282,178 404,178 404,183 282,183"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:21;}">
+            <Coords points="282,186 403,186 403,190 282,190"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:22;}">
+            <Coords points="1228,260 1357,260 1357,270 1228,270"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:23;}">
+            <Coords points="1256,561 1506,561 1506,581 1256,581"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:24;}">
+            <Coords points="269,742 1388,742 1388,753 269,753"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:25;}">
+            <Coords points="1405,744 2071,744 2071,750 1405,750"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:26;}">
+            <Coords points="194,748 1388,748 1388,768 194,768"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:27;}">
+            <Coords points="2100,743 2343,743 2343,749 2100,749"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:28;}">
+            <Coords points="2360,742 2487,742 2487,748 2360,748"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:29;}">
+            <Coords points="2100,744 2492,744 2492,764 2100,764"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:30;}">
+            <Coords points="1417,749 2071,749 2071,765 1417,765"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_38" custom="readingOrder {index:31;}">
+            <Coords points="1304,802 1316,802 1316,3365 1304,3365"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

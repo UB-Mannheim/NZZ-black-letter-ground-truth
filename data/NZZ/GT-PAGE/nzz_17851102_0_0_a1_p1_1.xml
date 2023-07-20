@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2017-12-08T13:16:33.135+01:00</Created>
+        <LastChange>2023-07-19T15:57:08.931+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="1148848" pageId="47121912" pageNr="6" tsid="130099527" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=ZJSFAQZQLIZZTLQPTZHGQGZJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WXGXVCIAWWZXVGWYIMLTCQQI" imageId="38489767"/>
+    </Metadata>
+    <Page imageFilename="nzz_17851102_0_0_a1_p1_1.tif" imageWidth="1932" imageHeight="2362">
+        <PrintSpace>
+            <Coords points="0,0 1932,0 1932,2362 0,2362"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1689864176138" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="3" regionRef="r4"/>
+                <RegionRefIndexed index="4" regionRef="r5"/>
+                <RegionRefIndexed index="5" regionRef="r6"/>
+                <RegionRefIndexed index="7" regionRef="r7"/>
+                <RegionRefIndexed index="8" regionRef="r8"/>
+                <RegionRefIndexed index="9" regionRef="r9"/>
+                <RegionRefIndexed index="10" regionRef="r10"/>
+                <RegionRefIndexed index="11" regionRef="r11"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="header" id="r1" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="136,284 440,274 442,401 139,405"/>
+            <TextLine id="r1l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="155,295 148,295 147,387 155,387 155,392 426,396 426,293"/>
+                <Baseline points="165,385 416,381"/>
+                <TextEquiv>
+                    <Unicode>No. 88</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="1341,283 1718,283 1718,391 1341,391"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1354,296 1354,380 1357,381 1705,378 1705,290"/>
+                <Baseline points="1360,370 1703,366"/>
+                <TextEquiv>
+                    <Unicode>1785.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r3" custom="readingOrder {index:2;} structure {type:header;}">
+            <Coords points="70,481 556,473 556,619 70,627"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="549,492 81,491 82,611 550,608 550,604"/>
+                <Baseline points="82,601 542,584"/>
+                <TextEquiv>
+                    <Unicode>Zuͤrcher</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r4" custom="readingOrder {index:3;} structure {type:header;}">
+            <Coords points="1293,448 1790,450 1789,592 1300,593"/>
+            <TextLine id="r4l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1309,588 1776,585 1776,468 1302,467"/>
+                <Baseline points="1315,570 1771,559"/>
+                <TextEquiv>
+                    <Unicode>Zeitung</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r5" custom="readingOrder {index:4;} structure {type:header;}">
+            <Coords points="141,672 471,672 471,760 141,760"/>
+            <TextLine id="r5l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="463,678 152,678 148,681 148,747 152,747 152,751 463,751"/>
+                <Baseline points="148,736 463,736"/>
+                <TextEquiv>
+                    <Unicode>Mitwoch,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r6" custom="readingOrder {index:5;} structure {type:header;}">
+            <Coords points="1326,654 1759,645 1758,729 1331,737"/>
+            <TextLine id="r6l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1335,665 1337,726 1342,730 1746,713 1745,653"/>
+                <Baseline points="1345,718 1742,702"/>
+                <TextEquiv>
+                    <Unicode>den 2. Winterm.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+        </TextRegion>
+        <GraphicRegion id="r_5" custom="readingOrder {index:6;}">
+            <Coords points="555,184 1320,176 1302,452 1307,593 1322,741 1323,804 553,811"/>
+        </GraphicRegion>
+        <TextRegion type="heading" id="r7" custom="readingOrder {index:7;} structure {type:heading;}">
+            <Coords points="308,888 686,884 686,936 308,939"/>
+            <TextLine id="r7l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="315,939 677,932 677,893 315,893"/>
+                <Baseline points="318,932 675,928"/>
+                <TextEquiv>
+                    <Unicode>Frankreich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r8" custom="readingOrder {index:8;}">
+            <Coords points="58,930 925,928 931,1477 58,1484"/>
+            <TextLine id="r8l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="914,927 707,930 503,934 330,938 112,934 112,979 914,969 914,932"/>
+                <Baseline points="116,974 909,964"/>
+                <TextEquiv>
+                    <Unicode>Paris, den 21. Oktob. Nach Briefen aus</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r8l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="913,969 72,977 73,1017 913,1010"/>
+                <Baseline points="76,1014 915,1001"/>
+                <TextEquiv>
+                    <Unicode>Newhafen in Nordamerika vom 15ten Auguſt ſol⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r8l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="915,1010 75,1016 74,1055 916,1048"/>
+                <Baseline points="74,1049 915,1041"/>
+                <TextEquiv>
+                    <Unicode>len vom 1. Septbr. an alle Seehafen der 13. ver⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r8l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="917,1047 395,1050 76,1054 77,1095 560,1087 791,1087 917,1085"/>
+                <Baseline points="75,1086 917,1082"/>
+                <TextEquiv>
+                    <Unicode>einigten Staaten fuͤr die engliſchen Schiffe ohne</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r8l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="916,1082 77,1094 76,1134 916,1122"/>
+                <Baseline points="76,1130 917,1118"/>
+                <TextEquiv>
+                    <Unicode>Unterſchied geſchloſſen ſeyn. Engliſche Blaͤtter</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r8l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="915,1122 76,1132 77,1166 915,1161"/>
+                <Baseline points="77,1166 912,1156"/>
+                <TextEquiv>
+                    <Unicode>melden noch nichts davon. + Von Franklins</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="916,1163 75,1164 76,1204 916,1199"/>
+                <Baseline points="79,1201 914,1193"/>
+                <TextEquiv>
+                    <Unicode>Ruͤckkunft nach Amerika hoft man viel erſprißli⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r8l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="919,1200 76,1204 76,1246 917,1236"/>
+                <Baseline points="79,1240 914,1231"/>
+                <TextEquiv>
+                    <Unicode>ches fuͤr dieſen jungen Freyſtaat, der noch immer</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r8l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="919,1237 79,1244 78,1282 919,1274 918,1242"/>
+                <Baseline points="80,1280 918,1270"/>
+                <TextEquiv>
+                    <Unicode>mit ſich ſelber uneinig iſt. Man hoft, Er werde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="78,1282 80,1319 918,1315 919,1276"/>
+                <Baseline points="82,1316 915,1309"/>
+                <TextEquiv>
+                    <Unicode>den Staaten begreiflich machen, daß ihnen Pflicht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r8l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="921,1316 82,1319 81,1358 921,1352"/>
+                <Baseline points="82,1355 917,1348"/>
+                <TextEquiv>
+                    <Unicode>und Ehre gebiete, ihre Schulden zu bezahlen (was</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r8l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="81,1397 920,1392 919,1355 80,1358"/>
+                <Baseline points="83,1394 916,1386"/>
+                <TextEquiv>
+                    <Unicode>ſie vorher nicht hoͤren wollten:) Washington und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r8l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="921,1390 80,1396 80,1438 919,1428"/>
+                <Baseline points="84,1430 917,1425"/>
+                <TextEquiv>
+                    <Unicode>Franklin ſind nun ausgeſoͤhnt. Man erwartet in</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r8l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="80,1477 794,1470 794,1429 79,1440"/>
+                <Baseline points="85,1471 793,1464"/>
+                <TextEquiv>
+                    <Unicode>Kurzen den General Maillebois in Paris.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="heading" id="r9" custom="readingOrder {index:9;} structure {type:heading;}">
+            <Coords points="368,1471 649,1471 649,1514 368,1514"/>
+            <TextLine id="r9l1" custom="readingOrder {index:0;}">
+                <Coords points="379,1472 379,1511 640,1508 640,1472"/>
+                <Baseline points="382,1510 638,1504"/>
+                <TextEquiv>
+                    <Unicode>Holland.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r10" custom="readingOrder {index:10;}">
+            <Coords points="65,1504 940,1504 938,2231 66,2226"/>
+            <TextLine id="r10l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="544,1509 124,1510 124,1553 558,1546 922,1545 921,1505"/>
+                <Baseline points="128,1548 920,1541"/>
+                <TextEquiv>
+                    <Unicode>Aus dem Haag, vom 18ten Octob. Geſtern</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r10l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="580,1545 85,1553 85,1593 453,1584 920,1585 921,1547"/>
+                <Baseline points="85,1587 371,1582 917,1579"/>
+                <TextEquiv>
+                    <Unicode>gieng die Ratifikation der Praͤliminar⸗Artikel nach</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r10l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="458,1586 84,1591 85,1629 920,1623 921,1585"/>
+                <Baseline points="90,1626 448,1619 921,1619"/>
+                <TextEquiv>
+                    <Unicode>Paris ab — und nun haben alle hollaͤndiſche Feh⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r10l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="84,1629 86,1666 922,1659 922,1625"/>
+                <Baseline points="89,1662 919,1655"/>
+                <TextEquiv>
+                    <Unicode>den ein Ende, die ausgenommen, die noch im⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r10l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="88,1667 86,1704 921,1701 922,1661"/>
+                <Baseline points="87,1701 919,1694"/>
+                <TextEquiv>
+                    <Unicode>mer im Innern der Republik fortdauern. Zur</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r10l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="87,1706 87,1745 920,1739 920,1701"/>
+                <Baseline points="88,1738 917,1734"/>
+                <TextEquiv>
+                    <Unicode>Friedens Ratifikation ſtimmten bey: Die Provin⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r10l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="921,1737 88,1746 88,1787 921,1779 922,1743"/>
+                <Baseline points="90,1782 920,1772"/>
+                <TextEquiv>
+                    <Unicode>zen Holland, Utrecht, Obereyffel und Groͤnin⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r10l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="305,1782 89,1789 88,1826 463,1819 920,1817 921,1779"/>
+                <Baseline points="93,1821 270,1814 392,1815 917,1811"/>
+                <TextEquiv>
+                    <Unicode>gen. Durch Mehrheit der Stimmen gieng alſo</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r10l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="922,1817 184,1822 88,1824 88,1862 921,1856"/>
+                <Baseline points="88,1858 917,1851"/>
+                <TextEquiv>
+                    <Unicode>die Sache durch. Da es nicht um Abſchlieſſung</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r10l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="923,1859 89,1861 89,1900 923,1895"/>
+                <Baseline points="91,1896 920,1891"/>
+                <TextEquiv>
+                    <Unicode>eines foͤrmlichen Friedens, ſondern nur um Bey⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r10l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="88,1900 89,1939 923,1934 925,1898"/>
+                <Baseline points="91,1934 922,1928"/>
+                <TextEquiv>
+                    <Unicode>legung ewiger Streitigkeiten zu thun war, ſo wur⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r10l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="927,1936 90,1937 90,1978 925,1975 925,1939"/>
+                <Baseline points="92,1972 921,1968"/>
+                <TextEquiv>
+                    <Unicode>de auch nur nach der hollaͤndiſchen Staatsverfas⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r10l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="90,2014 920,2014 920,1975 89,1976"/>
+                <Baseline points="94,2010 454,2010 918,2008"/>
+                <TextEquiv>
+                    <Unicode>ſung Mehrheit der Stimmen, nicht Einſtimmig⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r10l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="922,2016 91,2015 90,2054 921,2053"/>
+                <Baseline points="92,2049 921,2048"/>
+                <TextEquiv>
+                    <Unicode>keit erfordert. Der Preußiſche Geſandte Baron</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r10l15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="91,2094 922,2093 923,2052 91,2053"/>
+                <Baseline points="91,2088 921,2090"/>
+                <TextEquiv>
+                    <Unicode>von Thulemeyer beſucht den Gros Penſionnarius</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r10l16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="924,2096 341,2092 94,2095 91,2132 922,2132"/>
+                <Baseline points="93,2129 921,2128"/>
+                <TextEquiv>
+                    <Unicode>von Holland oͤfters, um die Beantwortung der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r10l17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="925,2132 91,2132 92,2175 925,2174"/>
+                <Baseline points="98,2170 924,2166"/>
+                <TextEquiv>
+                    <Unicode>Briefe ſeines Koͤnigs zu betreiben. Ihre hochmoͤ⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="93,2216 927,2216 926,2175 94,2173"/>
+                <Baseline points="96,2209 926,2209"/>
+                <TextEquiv>
+                    <Unicode>genden ſollen zwar hieruͤber noch keinen Schluß</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r11" custom="readingOrder {index:11;}">
+            <Coords points="935,871 1808,862 1818,2228 952,2228"/>
+            <TextLine id="r11l1" custom="readingOrder {index:0;}">
+                <Coords points="947,928 1786,912 1786,875 953,887 954,924"/>
+                <Baseline points="954,919 1336,918 1784,910"/>
+                <TextEquiv>
+                    <Unicode>gefaßt haben. Die Staaten von Holland hinge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l2" custom="readingOrder {index:1;}">
+                <Coords points="950,965 1785,955 1786,911 950,926"/>
+                <Baseline points="953,960 1358,956 1785,949"/>
+                <TextEquiv>
+                    <Unicode>gen ſind im Begriff, dem Koͤnig die Lage der Sa⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l3" custom="readingOrder {index:2;}">
+                <Coords points="950,1003 1788,992 1788,953 950,964"/>
+                <Baseline points="956,999 1356,995 1789,987"/>
+                <TextEquiv>
+                    <Unicode>che ſo auszulegen, daß Alle boͤſe Geruͤchte, die dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="952,1040 1790,1034 1791,992 952,1000"/>
+                <Baseline points="955,1038 1390,1034 1788,1026"/>
+                <TextEquiv>
+                    <Unicode>Koͤnig von Feinden der Republik beygebracht wor⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r11l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="953,1078 1493,1075 1491,1037 953,1039"/>
+                <Baseline points="956,1073 1493,1071"/>
+                <TextEquiv>
+                    <Unicode>den, wie Rebel vergeben ſollen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r11l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="1794,1071 993,1079 993,1118 1442,1117 1795,1106"/>
+                <Baseline points="997,1114 1452,1111 1791,1103"/>
+                <TextEquiv>
+                    <Unicode>Fuͤr den unpartheyiſchen Zuſchauer ist es ein an⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="958,1159 1792,1147 1792,1104 953,1118 955,1155"/>
+                <Baseline points="959,1152 1344,1150 1790,1140"/>
+                <TextEquiv>
+                    <Unicode>genehmes Schauſpiel, die hollaͤndiſchen Blaͤtter</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r11l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="955,1192 1348,1194 1795,1185 1793,1145 956,1161"/>
+                <Baseline points="953,1188 1800,1188"/>
+                <TextEquiv>
+                    <Unicode>von den einander entgegengeſetzten Partheyen ſich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r11l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="957,1231 1433,1231 1793,1224 1793,1187 1386,1193 954,1191"/>
+                <Baseline points="955,1229 1385,1227 1789,1220"/>
+                <TextEquiv>
+                    <Unicode>daruͤber noch immer ſtreiten zu ſehen, ob der Frie⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r11l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="958,1270 1335,1271 1795,1264 1794,1225 1348,1233 957,1232"/>
+                <Baseline points="961,1267 1366,1265 1792,1259"/>
+                <TextEquiv>
+                    <Unicode>de der Republik Schaden oder Vortheil gebracht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r11l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="958,1311 1792,1305 1792,1264 959,1271"/>
+                <Baseline points="959,1305 1241,1305 1392,1303 1642,1300 1788,1296"/>
+                <TextEquiv>
+                    <Unicode>habe. Indeß einige die ganze Welt bereden wollen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r11l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="957,1347 1310,1347 1793,1339 1794,1305 958,1309"/>
+                <Baseline points="958,1342 1360,1343 1795,1336"/>
+                <TextEquiv>
+                    <Unicode>daß die Aufopferungen der Republik ganz unbe⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r11l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="955,1384 1359,1386 1797,1381 1796,1338 1430,1347 955,1347"/>
+                <Baseline points="957,1381 1363,1381 1794,1377"/>
+                <TextEquiv>
+                    <Unicode>deutend und der Friede fuͤr ſie wahrer Gewinn waͤ⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r11l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="1393,1386 954,1386 954,1423 1795,1419 1793,1378"/>
+                <Baseline points="959,1419 1337,1420 1790,1416"/>
+                <TextEquiv>
+                    <Unicode>re, behaupten andere noch immer das Gegentheil.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r11l15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="1425,1463 1649,1462 1795,1458 1792,1420 1439,1426 958,1422 958,1463"/>
+                <Baseline points="962,1460 1401,1458 1793,1454"/>
+                <TextEquiv>
+                    <Unicode>Um die Welt von der letztem Behauptung zu uͤber⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r11l16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="955,1504 1793,1499 1795,1458 957,1466"/>
+                <Baseline points="957,1499 1374,1498 1795,1493"/>
+                <TextEquiv>
+                    <Unicode>zeugen, ſtellt der Verfaſſer des Kouriers vom Nie⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r11l17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="1795,1538 1796,1498 959,1503 958,1540"/>
+                <Baseline points="963,1537 1350,1536 1793,1533"/>
+                <TextEquiv>
+                    <Unicode>derrhein die erſten Forderungen des Kaiſers mit</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r11l18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="1796,1577 1796,1536 958,1542 958,1579"/>
+                <Baseline points="960,1575 1794,1572"/>
+                <TextEquiv>
+                    <Unicode>den Friedens⸗Praͤliminarien zuſammen, aus wel⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r11l19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="1793,1615 1794,1576 959,1580 959,1620"/>
+                <Baseline points="961,1613 1793,1610"/>
+                <TextEquiv>
+                    <Unicode>cher Zuſammenſtellung jeder leicht einſehen kann,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r11l20" custom="readingOrder {index:19;}">
+                <Coords points="1792,1656 1793,1615 956,1618 955,1655"/>
+                <Baseline points="958,1650 1791,1651"/>
+                <TextEquiv>
+                    <Unicode>welche Behauptung die Wahrheit fuͤr ſich habe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l21" custom="readingOrder {index:20;}">
+                <Coords points="1792,1655 952,1656 954,1695 1793,1693"/>
+                <Baseline points="959,1689 1354,1692 1793,1689"/>
+                <TextEquiv>
+                    <Unicode>1) Verlangte der Kaiſer, daß die Graͤnzen von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="1797,1731 1796,1691 1366,1697 954,1695 956,1734"/>
+                <Baseline points="961,1729 1795,1728"/>
+                <TextEquiv>
+                    <Unicode>Flandern bleiben ſollten, wie ſie 1664 beſtimmt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.0"/>
+            </TextLine>
+            <TextLine id="r11l23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="1796,1771 1796,1732 954,1735 955,1775"/>
+                <Baseline points="961,1769 1365,1770 1796,1767"/>
+                <TextEquiv>
+                    <Unicode>wurden; dieſes Verlangen erfuͤllt der 3te Präli⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="1361,1813 1793,1805 1793,1771 954,1774 952,1813"/>
+                <Baseline points="960,1808 1389,1809 1579,1808 1792,1800"/>
+                <TextEquiv>
+                    <Unicode>minar⸗Artikel. 2. 3. 4) Die Demolition der Fe⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r11l25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="1389,1852 1794,1845 1794,1806 1348,1814 958,1813 957,1853"/>
+                <Baseline points="960,1849 1352,1847 1565,1847 1791,1839"/>
+                <TextEquiv>
+                    <Unicode>ſtungswerke von Liefkenshoek, Kruiſchau, Fried⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r11l26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="1528,1891 1793,1884 1793,1847 957,1854 958,1892"/>
+                <Baseline points="960,1886 1182,1886 1353,1887 1605,1884 1791,1879"/>
+                <TextEquiv>
+                    <Unicode>rich⸗Heinrich, und Lillo, welche Schanzen der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r11l27" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="960,1895 960,1932 1793,1924 1793,1888"/>
+                <Baseline points="963,1926 1381,1927 1790,1920"/>
+                <TextEquiv>
+                    <Unicode>7te und 8te Artikel nur dem Kaiſer abtreten. 5)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l28" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="960,1930 963,1972 1793,1965 1793,1924"/>
+                <Baseline points="965,1968 1385,1966 1626,1965 1794,1957"/>
+                <TextEquiv>
+                    <Unicode>Verlangte der Kaiſer, der die Souverenitaͤt der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r11l29" primaryLanguage="German" custom="readingOrder {index:28;}">
+                <Coords points="1419,1969 960,1972 959,2013 1493,2010 1581,2011 1799,1998 1797,1961"/>
+                <Baseline points="965,2009 1400,2005 1630,2004 1795,1996"/>
+                <TextEquiv>
+                    <Unicode>Schelde von Antwerpen bis Saftingen zu haben</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r11l30" custom="readingOrder {index:29;}">
+                <Coords points="1635,2009 1395,2010 959,2010 960,2051 1436,2051 1690,2047 1795,2040 1796,2002"/>
+                <Baseline points="961,2047 1405,2044 1601,2043 1795,2037"/>
+                <TextEquiv>
+                    <Unicode>behauptete, die Entfernung des Wachtſchiffes von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l31" custom="readingOrder {index:30;}">
+                <Coords points="1624,2050 1448,2051 962,2052 963,2089 1461,2088 1638,2088 1799,2078 1799,2043"/>
+                <Baseline points="965,2086 1388,2084 1595,2081 1797,2076"/>
+                <TextEquiv>
+                    <Unicode>Lillo, und der 6te Artikel erkennt dieſe Souvereni⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l32" primaryLanguage="German" custom="readingOrder {index:31;}">
+                <Coords points="964,2132 1422,2130 1682,2125 1800,2123 1801,2080 1650,2087 1386,2088 964,2090"/>
+                <Baseline points="963,2127 1383,2125 1619,2122 1796,2115"/>
+                <TextEquiv>
+                    <Unicode>taͤt und thut auf alle Zoͤlle auf dieſem Theil der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l33" primaryLanguage="German" custom="readingOrder {index:32;}">
+                <Coords points="965,2172 1445,2172 1799,2161 1799,2121 1448,2132 964,2132"/>
+                <Baseline points="972,2169 1209,2163 1422,2165 1601,2165 1795,2155"/>
+                <TextEquiv>
+                    <Unicode>Schelde Verzicht. 6. und 8) Die Reſtkaution der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l34" primaryLanguage="German" custom="readingOrder {index:33;}">
+                <Coords points="1799,2159 1599,2169 1294,2170 963,2172 964,2215 1523,2212 1799,2205"/>
+                <Baseline points="969,2210 1283,2206 1414,2207 1659,2203 1746,2201 1799,2194"/>
+                <TextEquiv>
+                    <Unicode>Dorfſchaften Bladel und Reuſſel, und die Entſa⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <GraphicRegion id="r_17" custom="readingOrder {index:12;}">
+            <Coords points="1591,1883 1799,1883 1799,2009 1591,2009"/>
+        </GraphicRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:13;}">
+            <Coords points="1,0 301,0 301,8 1,8"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:14;}">
+            <Coords points="312,0 402,0 402,4 312,4"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:15;}">
+            <Coords points="402,0 1167,0 1167,9 402,9"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:16;}">
+            <Coords points="1172,0 1932,0 1932,10 1172,10"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:17;}">
+            <Coords points="93,815 1779,789 1773,840 87,866"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:18;}">
+            <Coords points="619,841 1254,841 1254,859 619,859"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:19;}">
+            <Coords points="254,850 439,850 439,862 254,862"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:20;}">
+            <Coords points="302,2361 362,2361 362,2362 302,2362"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:21;}">
+            <Coords points="468,2360 533,2360 533,2362 468,2362"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:22;}">
+            <Coords points="634,2360 698,2360 698,2362 634,2362"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:23;}">
+            <Coords points="949,2359 1199,2359 1199,2362 949,2362"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:24;}">
+            <Coords points="1297,2359 1527,2359 1527,2362 1297,2362"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:25;}">
+            <Coords points="1561,2358 1834,2358 1834,2362 1561,2362"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:26;}">
+            <Coords points="0,1681 9,1681 9,2362 0,2362"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_32" custom="readingOrder {index:27;}">
+            <Coords points="0,1 23,1 23,1681 0,1681"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_33" custom="readingOrder {index:28;}">
+            <Coords points="1919,1741 1925,1741 1925,1853 1919,1853"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_34" custom="readingOrder {index:29;}">
+            <Coords points="1913,51 1921,51 1921,229 1913,229"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_35" custom="readingOrder {index:30;}">
+            <Coords points="1925,1880 1932,1880 1932,2361 1925,2361"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_36" custom="readingOrder {index:31;}">
+            <Coords points="1920,507 1926,507 1926,676 1920,676"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_37" custom="readingOrder {index:32;}">
+            <Coords points="1926,1711 1932,1711 1932,1859 1926,1859"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_38" custom="readingOrder {index:33;}">
+            <Coords points="318,2360 354,2360 354,2362 318,2362"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>
