@@ -3,21 +3,21 @@
     <Metadata>
         <Creator></Creator>
         <Created>2017-12-08T13:17:00.218+01:00</Created>
-        <LastChange>2023-07-19T15:56:36.516+02:00</LastChange>
+        <LastChange>2023-07-21T13:10:39.790+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: German
                 Language: GermanStandard
                 Language: EnglishUnitedStates
                 Producer: ABBYY FineReader Engine 11</Comments>
-        <TranskribusMetadata docId="1148848" pageId="47121944" pageNr="38" tsid="130099476" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=XRWQEVCVPMYHGWPXJXCLMAGM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BWYKTLNQFQOYVMTSOYYOVOWO" imageId="38489799"/>
+        <TranskribusMetadata docId="1148848" pageId="47121944" pageNr="38" tsid="130347859" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=XRWQEVCVPMYHGWPXJXCLMAGM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MTONKWAOUXELPZJNUNSLMYEA" imageId="38489799"/>
     </Metadata>
     <Page imageFilename="nzz_18170923_0_0_a1_p1_1.tif" imageWidth="2050" imageHeight="2480">
         <PrintSpace>
             <Coords points="0,0 2050,0 2050,2480 0,2480"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1689864176311" caption="Regions reading order">
+            <OrderedGroup id="ro_1689939402535" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -606,10 +606,34 @@
                 <Coords points="1089,1791 1377,1788 1380,1750 1040,1753 1041,1788"/>
                 <Baseline points="1043,1786 1381,1787"/>
                 <TextEquiv>
-                    <Unicode>u. ſ. w. zu verfuͤgen.”</Unicode>
+                    <Unicode>u. ſ. w. zu verfuͤgen.“</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
+            <TextEquiv>
+                <Unicode>Katholiſche Heerde niemals zugelaſſen, daß die apoſtoliſche
+Guͤte beſchuldigt werden koͤnne, bey verhaͤngnißvollen Um⸗
+ſtaͤnden dem Beduͤrfniß der Staaten die Huͤlfsmittel ver⸗
+weigert zu haben, die das wirkliche Patrimonial⸗Eigenthum
+der Kirche dargeboten haben wuͤrde. Es werde demnach auf
+das Anſuchen, den Abgang der gewoͤhnlichen unzulaͤnglichen
+Mittel, durch eine jaͤhrliche Erhebung von 30. Mill. Rea⸗
+len auf die geiſtlichen Guͤter, waͤhrend ſechs Jahren zu
+ſetzen, binnen welcher Zeit die Anzahl der Penſsonirten ver⸗
+mindert, und dadurch das Staatseinkommen vermehrt wer⸗
+den koͤnnte, dem König Ferdinand ein Indult zugeſtanden,
+vermoͤge welchem derſelbe rechtlich, frey und ungehindert,
+waͤhrend ſechs Jahren, aber zum einzigen Behuf des Koͤ⸗
+niglichen Schatzes, auf alle der Geiſtlichkeit zuſtaͤndigen Ge⸗
+faͤlle, die außerordentlichen Subſidien von 30. Mill. Rea⸗
+len zu erheben ermaͤchtigt ſey u. ſ. f. — Drey andre Bul⸗
+len vom 15, 17 u. 18. April betreffen die Erlaubniß, die
+Einkuͤnfte der erledigten Bisthuͤmer und Erzbisthuͤmer, bis
+zu Erneuung der Nachfolger zu erheben; die Geiſtlichkeit
+der neuen Steuer von 70. Millionen zu unterwerfen, und
+uͤber die ſogenannten mindern Benefizien, ihre Anaten,
+u. ſ. w. zu verfuͤgen.“</Unicode>
+            </TextEquiv>
         </TextRegion>
         <TextRegion type="heading" id="r17" custom="readingOrder {index:16;} structure {type:heading;}">
             <Coords points="1249,1797 1729,1793 1731,1834 1253,1834"/>

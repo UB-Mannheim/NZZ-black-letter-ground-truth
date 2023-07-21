@@ -3,20 +3,20 @@
     <Metadata>
         <Creator></Creator>
         <Created>2017-12-08T13:16:46.374+01:00</Created>
-        <LastChange>2023-07-19T15:55:17.681+02:00</LastChange>
+        <LastChange>2023-07-21T13:13:39.304+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: German
                 Language: GermanStandard
                 Producer: ABBYY FineReader Engine 11</Comments>
-        <TranskribusMetadata docId="1148848" pageId="47121928" pageNr="22" tsid="130099328" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=KTLPAEUPVRWLJRMFUROIGMHI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DIJPMXONMROHCKTQDUGIODWM" imageId="38489783"/>
+        <TranskribusMetadata docId="1148848" pageId="47121928" pageNr="22" tsid="130348070" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=KTLPAEUPVRWLJRMFUROIGMHI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DQFDSUNCTVJDCPIQTSTXAVVZ" imageId="38489783"/>
     </Metadata>
     <Page imageFilename="nzz_18010922_0_0_a1_p1_1.tif" imageWidth="1960" imageHeight="2362">
         <PrintSpace>
             <Coords points="0,0 1960,0 1960,2362 0,2362"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1689864176232" caption="Regions reading order">
+            <OrderedGroup id="ro_1689939402456" caption="Regions reading order">
                 <RegionRefIndexed index="1" regionRef="r1"/>
                 <RegionRefIndexed index="2" regionRef="r2"/>
                 <RegionRefIndexed index="3" regionRef="r3"/>
@@ -751,7 +751,7 @@
                 <Coords points="1799,2001 967,2001 965,2037 1798,2037 1801,2017"/>
                 <Baseline points="969,2029 1792,2031"/>
                 <TextEquiv>
-                    <Unicode>ſuls der franz. Republik.” — Die Verhaͤltnisse</Unicode>
+                    <Unicode>ſuls der franz. Republik.“ — Die Verhaͤltnisse</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l15" primaryLanguage="German" custom="readingOrder {index:14;}">
@@ -784,6 +784,26 @@
                     <Unicode>durch beseitigt sind, daß unſer Koͤnig unter gewis⸗</Unicode>
                 </TextEquiv>
             </TextLine>
+            <TextEquiv>
+                <Unicode>Berlin, 7 Sept. Durch eine koͤnigliche Ver⸗
+ordnung iſt die bisherige Verpflichtung der juͤdiſchen
+Gemeinden, den durch Vergehungen einzelner Mit⸗
+glieder (durch Diebſtal oder Diebshelerei) zugefuͤg⸗
+ten Schaden zu erſezen, aufgehoben worden, und
+es beſteht in dieſer Hinſicht kein Unterſchied zwiſchen
+juͤdiſchen u. chriſtlichen Gemeinden mehr. Dage⸗
+gen sind allerwerts wo Juden wohnen, zur Polizei⸗
+Aufſicht uͤber ſie Cenſur⸗Commiſſionen errichtet,
+die aus chriſtlichen und juͤdiſchen Beifiziern beſtehn.
+— In der Petersburger Hofzeitung ſteht in dem
+Verzeichniſſe derer welche von dort abzureiſen Wil⸗
+lens ſind: „Duͤroc, erſter Adjutant des Ober⸗Con⸗
+ſuls der franz. Republik.“ — Die Verhaͤltnisse
+unſers Hofes mit den auswaͤrtigen Maͤchten ſind
+noch faſt alle sehr freundſchaftlich, beſonders ſeit
+dem die mit Frankreich entſtandenen Irrungen da⸗
+durch beseitigt sind, daß unſer Koͤnig unter gewis⸗</Unicode>
+            </TextEquiv>
         </TextRegion>
         <SeparatorRegion id="r_26" custom="readingOrder {index:12;}">
             <Coords points="111,515 1660,515 1660,526 111,526"/>

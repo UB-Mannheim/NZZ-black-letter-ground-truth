@@ -3,20 +3,20 @@
     <Metadata>
         <Creator></Creator>
         <Created>2017-12-08T13:17:03.8+01:00</Created>
-        <LastChange>2023-07-19T15:57:13.194+02:00</LastChange>
+        <LastChange>2023-07-21T13:08:30.916+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: German
                 Language: GermanStandard
                 Producer: ABBYY FineReader Engine 11</Comments>
-        <TranskribusMetadata docId="1148848" pageId="47121948" pageNr="42" tsid="130099533" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=QHZMIRMMZXHDSFNMJWPFHIZP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CGGVWLAVSMHUZEKNSKQJQAJT" imageId="38489803"/>
+        <TranskribusMetadata docId="1148848" pageId="47121948" pageNr="42" tsid="130347741" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=QHZMIRMMZXHDSFNMJWPFHIZP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KHEYBNPIESWSRWFDLGPVBSMH" imageId="38489803"/>
     </Metadata>
     <Page imageFilename="nzz_18210220_0_0_a1_p1_1.tif" imageWidth="2079" imageHeight="2480">
         <PrintSpace>
             <Coords points="0,0 2079,0 2079,2480 0,2480"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1689864176329" caption="Regions reading order">
+            <OrderedGroup id="ro_1689939402554" caption="Regions reading order">
                 <RegionRefIndexed index="2" regionRef="r1"/>
                 <RegionRefIndexed index="3" regionRef="r2"/>
                 <RegionRefIndexed index="4" regionRef="r3"/>
@@ -580,9 +580,17 @@
                 <Coords points="949,1558 1440,1557 1448,1520 952,1518 951,1554"/>
                 <Baseline points="954,1552 1422,1551"/>
                 <TextEquiv>
-                    <Unicode>und verdamme ſeine Miniſter!”</Unicode>
+                    <Unicode>und verdamme ſeine Miniſter!“</Unicode>
                 </TextEquiv>
             </TextLine>
+            <TextEquiv>
+                <Unicode>Als juͤngſthin der Koͤnig aus dem Theater nach Carlon⸗
+Hauſe zuruͤckfuhr, wurde er uͤberall mit dem Geſchrei:
+„Es lebe die Koͤnigin“! umzingelt, und die Gaſſenjungen
+riefen ihm zu: „Wo iſt Eure Frau, warum habt Ihr ſie
+nicht bey Euch“? Und Andre: „Gott erhalte den Koͤnig,
+und verdamme ſeine Miniſter!“</Unicode>
+            </TextEquiv>
         </TextRegion>
         <TextRegion type="heading" id="r17" custom="readingOrder {index:18;} structure {type:heading;}">
             <Coords points="1211,1562 1540,1560 1545,1602 1211,1602"/>

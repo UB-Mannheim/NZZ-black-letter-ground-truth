@@ -3,20 +3,20 @@
     <Metadata>
         <Creator></Creator>
         <Created>2017-12-08T13:19:37.708+01:00</Created>
-        <LastChange>2023-07-19T15:55:51.587+02:00</LastChange>
+        <LastChange>2023-07-21T13:19:39.038+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: German
                 Language: GermanStandard
                 Producer: ABBYY FineReader Engine 11</Comments>
-        <TranskribusMetadata docId="1148848" pageId="47122028" pageNr="115" tsid="130099387" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=FUQURMRFWHQYXVGZWULVBKMV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SYFHWNVTUYBJURIJBMCYQWEH" imageId="38489883"/>
+        <TranskribusMetadata docId="1148848" pageId="47122028" pageNr="115" tsid="130348244" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=FUQURMRFWHQYXVGZWULVBKMV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OZIMPAKFTKKYBKOVBMJCIDDJ" imageId="38489883"/>
     </Metadata>
     <Page imageFilename="nzz_18941229_0_0_a1_p1_1.tif" imageWidth="3891" imageHeight="5551">
         <PrintSpace>
             <Coords points="0,0 3891,0 3891,5551 0,5551"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1689864176831" caption="Regions reading order">
+            <OrderedGroup id="ro_1689939403028" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -159,7 +159,7 @@
                 <Coords points="1071,1003 203,1004 203,1033 275,1038 339,1031 954,1033 1071,1032"/>
                 <Baseline points="205,1029 450,1025 688,1024 772,1025 1068,1025"/>
                 <TextEquiv>
-                    <Unicode>Uebrige Staaten des Weltpoſtvereins „ 11.50. „ 22.–</Unicode>
+                    <Unicode>Uebrige Staaten des Weltpoſtvereins „ 11.50. „ 22.—</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="4.0" bold="true"/>
             </TextLine>
@@ -171,6 +171,17 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="4.0" bold="true"/>
             </TextLine>
+            <TextEquiv>
+                <Unicode>Abonnementspreiſe. 3 Monate. 6 Monate.
+Zürich (wenn die Zeitung abgeholt wird) Fr. 4.50 Fr. 8.50
+Schweiz (Beſtellung beim Poſtbureau) „ 6.— „ 11.—
+do. (mit Bezug unter Privatadreſſe) „ 7. 50 „ 14.—
+Deutſchland (Beſtellung beim Poſtamt) Mk. 6. 25
+Oeſterreich⸗Ungarn (Beſt. b. Poſtamt) fl. d. W. 4.82
+Italien (Beſtellung beim Poſtamt) Fr. 7.15 Fr. 13.10
+Uebrige Staaten des Weltpoſtvereins „ 11.50. „ 22.—
+Redaktionsbureau: Tonhalleſtraße Nr. 5.</Unicode>
+            </TextEquiv>
         </TextRegion>
         <TextRegion type="header" id="r7" custom="readingOrder {index:6;} structure {type:header;}">
             <Coords points="2788,859 3026,812 3425,812 3667,859 3667,952 3666,1068 2790,1063 2788,954"/>
