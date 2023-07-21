@@ -1,0 +1,108 @@
+schema: >-
+  https://github.com/tboenig/gt-metadata/tree/master/schema/2022-03-15/schema.json
+title: NZZ Black Letter Ground Truth
+url: https://github.com/UB-Mannheim/NZZ-black-letter-ground-truth
+authors:
+  - name: Kamlah
+    surname: Jan
+    roles:
+      - transcriber
+      - aligner
+      - project-manager
+      - quality-control
+      - support
+  - name: Schmidt
+    surname: Thomas
+    roles:
+      - transcriber
+      - aligner
+      - project-manager
+      - quality-control
+      - support
+  - name: Kazimoglu
+    surname: Dilem
+    roles:
+      - transcriber
+      - aligner
+  - name: Pister
+    surname: Selina
+    roles:
+      - transcriber
+      - aligner
+  - name: Milbich
+    surname: Marius
+    roles:
+      - transcriber
+      - aligner
+  - name: Pakieser
+    surname: Saskia
+    roles:
+      - transcriber
+      - aligner
+  - name: Beloussow
+    surname: Leo
+    roles:
+      - transcriber
+      - aligner
+  - name: Costa de Sousa
+    surname: André
+    roles:
+      - transcriber
+      - aligner
+  - name: Bartz
+    surname: Franziska
+    roles:
+      - transcriber
+      - aligner
+  - name: Öztürk
+    surname: Dilara
+    roles:
+      - transcriber
+      - aligner
+description: >-
+  The original NZZ Black Letter Ground Truth (https://github.com/impresso/NZZ-black-letter-ground-truth) 
+  was published in 2019 by Phillip Ströbel and Simon Clematide under CC BY-NC 4.0. The data set contains 
+  167 randomly chosen frontpages of the Neue Zürcher Zeitung (NZZ) that were published between 1780 and 1947. 
+  The ground truth was produced using Transkribus and it's internal ABBYY FineReader Server 11 with 
+  additional manual corrections.
+
+  A revision of the data set was carried out by Mannheim University Library (https://www.bib.uni-mannheim.de/en/)
+  from March 2023 to June 2023 using Transkribus. The revision includes: 
+  1. Layout correction of text regions, text lines and baselines.
+  2. Region labeling ("header", "headings", "paragraphs"). 
+  3. Correction and enhancement of transcriptions according to OCR-D Ground Truth Guidelines Level 2 (https://ocr-d.de/en/gt-guidelines/trans/level_2_2.html).
+language:
+  - fra
+  - deu
+script:
+  - Latn
+  - Latf
+script-type: print
+time:
+  notBefore: '1780'
+  notAfter: '1947'
+hands:
+  count: more-than-3
+  level: levelmix
+license:
+  - name: CC BY-NC 4.0
+    url: https://creativecommons.org/licenses/by-nc/4.0/deed.en
+gtTyp: data_structure_and_text
+format: Page-XML
+volume:
+  - metric: lines
+    count: 39046
+  - metric: pages
+    count: 167
+transcription-guidelines: >-
+  The transcription rules are based on the OCR-D transcription guidelines Level 2
+  with some exceptions (see below No. 2):
+  1) Special characters:
+    - Long s (ſ)
+    - R rotunda (ꝛ)
+    - Combining latin small letter e ( ͤ)
+    - Asterisk (*)
+    
+  2) Additional characters transcribed true to original (contrary to OCR-D Level 2):
+    - Double oblique hyphen (⸗)
+    - Em dash (—) instead of En dash (–)
