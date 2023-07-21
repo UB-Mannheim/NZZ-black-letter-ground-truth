@@ -3,20 +3,20 @@
     <Metadata>
         <Creator></Creator>
         <Created>2017-12-08T13:18:01.4+01:00</Created>
-        <LastChange>2023-07-19T15:57:22.066+02:00</LastChange>
+        <LastChange>2023-07-21T12:46:45.206+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: German
                 Language: GermanStandard
                 Producer: ABBYY FineReader Engine 11</Comments>
-        <TranskribusMetadata docId="1148848" pageId="47121991" pageNr="84" tsid="130099553" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=LFEITHOBCGHYOGXTLCIDDJDP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NVLFMPEEEIITXSMRCXQYHRLC" imageId="38489846"/>
+        <TranskribusMetadata docId="1148848" pageId="47121991" pageNr="84" tsid="130345650" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=LFEITHOBCGHYOGXTLCIDDJDP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KVCEJKRMGKDWYMUHEQENRJVP" imageId="38489846"/>
     </Metadata>
     <Page imageFilename="nzz_18630310_0_0_a1_p1_1.tif" imageWidth="3245" imageHeight="4606">
         <PrintSpace>
             <Coords points="26,12 3203,12 3203,4618 26,4618"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1689864176565" caption="Regions reading order">
+            <OrderedGroup id="ro_1689939402779" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -367,7 +367,7 @@
                 <Coords points="1092,989 222,984 216,1032 1091,1037"/>
                 <Baseline points="212,1027 1092,1027"/>
                 <TextEquiv>
-                    <Unicode>Zürich, 9. März. Nach dem üblichen Gebet eröff¬</Unicode>
+                    <Unicode>Zürich, 9. März. Nach dem üblichen Gebet eröff⸗</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="8.0"/>
             </TextLine>
@@ -395,6 +395,12 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="8.0"/>
             </TextLine>
+            <TextEquiv>
+                <Unicode>Zürich, 9. März. Nach dem üblichen Gebet eröff⸗
+nete der Praͤſident, Hr. Dr. Zehnder, die Verſammlung
+mit folgender Rede:
+Tit.</Unicode>
+            </TextEquiv>
         </TextRegion>
         <TextRegion type="paragraph" id="r14" custom="readingOrder {index:13;} structure {type:paragraph;}">
             <Coords points="98,1160 1105,1157 1098,1586 1075,2706 1057,3338 68,3340 86,2711 89,1872"/>

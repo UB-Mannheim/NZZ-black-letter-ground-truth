@@ -3,20 +3,20 @@
     <Metadata>
         <Creator></Creator>
         <Created>2017-12-08T13:16:57.566+01:00</Created>
-        <LastChange>2023-07-19T15:55:03.038+02:00</LastChange>
+        <LastChange>2023-07-21T13:17:01.190+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: German
                 Language: GermanStandard
                 Producer: ABBYY FineReader Engine 11</Comments>
-        <TranskribusMetadata docId="1148848" pageId="47121941" pageNr="35" tsid="130099307" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=PGBBHAHWNQRBXNPKZFPBAEEJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WXFHXUJFBJDACZVJEGSLXKKX" imageId="38489796"/>
+        <TranskribusMetadata docId="1148848" pageId="47121941" pageNr="35" tsid="130348176" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=PGBBHAHWNQRBXNPKZFPBAEEJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FAFXCHSCBKZLGIFYMJYPKMWJ" imageId="38489796"/>
     </Metadata>
     <Page imageFilename="nzz_18141004_0_0_a1_p1_1.tif" imageWidth="1964" imageHeight="2480">
         <PrintSpace>
             <Coords points="0,0 1964,0 1964,2480 0,2480"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1689864176298" caption="Regions reading order">
+            <OrderedGroup id="ro_1689939402521" caption="Regions reading order">
                 <RegionRefIndexed index="1" regionRef="r1"/>
                 <RegionRefIndexed index="2" regionRef="r2"/>
                 <RegionRefIndexed index="3" regionRef="r3"/>
@@ -710,9 +710,21 @@
                 <Coords points="975,2264 1622,2264 1622,2305 975,2305"/>
                 <Baseline points="975,2298 1622,2298"/>
                 <TextEquiv>
-                    <Unicode>Ordens noch keineswegs uͤberzeugt zu ſeyn.”</Unicode>
+                    <Unicode>Ordens noch keineswegs uͤberzeugt zu ſeyn.“</Unicode>
                 </TextEquiv>
             </TextLine>
+            <TextEquiv>
+                <Unicode>Eine Hamburger⸗Zeitung ſagt: „Zu Wien ſoll der
+Vorſchlag des Papſtes, den Jeſuitenorden in den Kaiſerl.
+Oeſtreichiſchen Staaten wieder herzuſtellen, keinen ſehr
+guͤnſtigen Eingang gefunden haben. Daruͤber darf man ſich
+um ſo weniger wundern, wenn man außer vielen andern
+Urſachen bedenkt, daß die Ruͤckgabe der bedeutenden Guͤter
+des Jeſuitenordens dem Aerario des Staats ſehr nachthei⸗
+lig ſeyn wuͤrde. Zugleich ſcheint die Oeſtreichiſche Regie⸗
+rung von der Nothwendigkeit der Wiederherſtellung dieſes
+Ordens noch keineswegs uͤberzeugt zu ſeyn.“</Unicode>
+            </TextEquiv>
         </TextRegion>
         <SeparatorRegion id="r_7" custom="readingOrder {index:20;}">
             <Coords points="10,0 174,0 174,5 10,5"/>

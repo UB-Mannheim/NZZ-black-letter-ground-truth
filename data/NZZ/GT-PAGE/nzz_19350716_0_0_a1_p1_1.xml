@@ -3,20 +3,20 @@
     <Metadata>
         <Creator></Creator>
         <Created>2017-12-08T13:22:26.568+01:00</Created>
-        <LastChange>2023-07-19T15:55:12.235+02:00</LastChange>
+        <LastChange>2023-07-21T13:16:18.629+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: German
                 Language: GermanStandard
                 Producer: ABBYY FineReader Engine 11</Comments>
-        <TranskribusMetadata docId="1148848" pageId="47122069" pageNr="156" tsid="130099320" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=KIVKAMNSJRSYRRUSNGNTTTCH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TQPQFWEWKSSCTAYEPQFQDLDY" imageId="38489924"/>
+        <TranskribusMetadata docId="1148848" pageId="47122069" pageNr="156" tsid="130348166" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=KIVKAMNSJRSYRRUSNGNTTTCH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VYVNODAHCIGJWNWSJVDGYQOV" imageId="38489924"/>
     </Metadata>
     <Page imageFilename="nzz_19350716_0_0_a1_p1_1.tif" imageWidth="3839" imageHeight="5551">
         <PrintSpace>
             <Coords points="0,0 3839,0 3839,5551 0,5551"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1689864177223" caption="Regions reading order">
+            <OrderedGroup id="ro_1689939403487" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -2603,7 +2603,7 @@
                 <Coords points="3387,1696 2686,1699 2686,1737 3390,1736 3390,1697"/>
                 <Baseline points="2687,1728 3389,1726"/>
                 <TextEquiv>
-                    <Unicode>Eine „Fremdenkontrolle″ für die</Unicode>
+                    <Unicode>Eine „Fremdenkontrolle“ für die</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
@@ -2615,6 +2615,10 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
+            <TextEquiv>
+                <Unicode>Eine „Fremdenkontrolle“ für die
+Confederati?</Unicode>
+            </TextEquiv>
         </TextRegion>
         <TextRegion type="paragraph" id="r25" custom="readingOrder {index:24;}">
             <Coords points="2630,2936 2628,2703 2629,2030 2628,1781 3475,1780 3475,3267 2631,3268"/>
@@ -2732,7 +2736,7 @@
                 <Coords points="2641,2319 2640,2357 3442,2349 3442,2312"/>
                 <Baseline points="2637,2349 3441,2341"/>
                 <TextEquiv>
-                    <Unicode>„Fremden” angeſchnarrt hat. Ich werde belehrt, daß</Unicode>
+                    <Unicode>„Fremden“ angeſchnarrt hat. Ich werde belehrt, daß</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
@@ -2926,6 +2930,47 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
+            <TextEquiv>
+                <Unicode>Ein ſeit ſieben Jahren im Teſſin anſäſſiger
+Deutſchſchweizer ſchreibt uns: Spricht da kürzlich
+beim Schreibenden am frühen Nachmittag ein kan⸗
+tonaler Wächter des Geſetzes vor und brüllt nach
+lapidarem Gruße zu ſeiner Einführung mit Stentor⸗
+ſtimme „Controllo Stranieri“. Natürlich fällt der
+gereiſte Zürcher, der ſei ſieben Jahren die ordent⸗
+liche Niederlaſſung in Lugano beſitzt, bei dieſem Ein⸗
+ſchüchterungsverſuch des „gentile fratello ticinese“
+nicht um, ſondern erkundigt ſich beſcheiden über das
+Warum dieſer ſeltſamen Kontrolle. Es ſtellt ſich lei⸗
+der heraus, daß der ehrenwerte Vertreter der öffent⸗
+lichen Gewalt ſich beileibe nicht geirrt oder verſehen
+hat und durchaus bewußt den Miteidgenoſſen als
+„Fremden“ angeſchnarrt hat. Ich werde belehrt, daß
+alles, was nicht Teſſiner ſei, als „fremd“ kontrolliert
+und neu katalogiſiert werden müſſe. Zum Beweiſe
+wies er einen ungeordneten Stoß vorgedruckter For⸗
+mulare vor, auf denen in freundlicher Annäherung
+Deutſch⸗ und Welſchſchweizer allen möglichen Aus⸗
+ländern mit Ausnahme ſolcher italieniſcher Zunge
+angereiht waren. Die Perſonalien waren bereits auf
+der Einwohnerkontrolle vervollſtändigt worden und
+wurden ſo „en passant avec nonchalance“ auf ihre
+Nichtigkeit geprüft. Eine Unterſchrift wurde nicht
+verlangt, dafür aber eine Gebühr von einem Franken,
+für die jedoch eine Quittung verweigert wurde mit
+dem tröſtlichen Hinweis darauf, daß die andern
+„stranieri“ eben auch hätten zahlen müſſen. Das
+Ganze ſieht wie eine Art behördlich organiſierter
+Hausbettel aus, lieber dieſe neueſten Kontrollmaß⸗
+nahmen und deren vermutlichen Zweck, welche die
+„Gleichheit des Schweizers vor dem Geſetz“ im Teſſin
+in ein recht ſeltſames Licht ſtellen, gehen alle mög⸗
+lichen, nicht ſehr vertrauenerweckenden Gerüchte in
+Deutſchſchweizerkreiſen um. Dies iſt weiter nicht ver⸗
+wunderlich, denn irgendwelche amtliche Bekannt⸗
+machung hat diesbezüglich in der Tagespreſſe nicht
+ſtattgefunden.</Unicode>
+            </TextEquiv>
         </TextRegion>
         <TextRegion type="heading" id="r26" custom="readingOrder {index:25;} structure {type:heading;}">
             <Coords points="2950,3273 3132,3272 3132,3319 2951,3317"/>
@@ -3290,7 +3335,7 @@
                 <Coords points="148,5095 148,5137 953,5126 951,5085"/>
                 <Baseline points="148,5127 950,5118"/>
                 <TextEquiv>
-                    <Unicode>„Ermitage″ und dem Grabmal der Dichterin auf dem</Unicode>
+                    <Unicode>„Ermitage“ und dem Grabmal der Dichterin auf dem</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
@@ -3302,6 +3347,37 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
+            <TextEquiv>
+                <Unicode>E. Br. Man pflegt heute die Form eines Schmuck⸗
+brunnens zu wählen, wenn man ein Denkmal nicht
+als prätentiöſen Altar für ſich allein hinſtellen will.
+Ein ſolcher Brunnen mit großer, kühler Waſſerfläche
+wurde am Sonntag in Beckenried am Ufer des
+Vierländerſees eingeweiht. Und es iſt nun doch ein
+Altar daraus geworden. Vor dem hohen Mauer⸗
+pfeiler, der das Bronzebildnis der Dichterin in voller
+plaſtiſcher Frontalität zeigt, hat ſich ein ganz junges
+Nidwaldnermädchen — eine lebensgroße Bronze⸗
+geſtalt — auf ein Knie niedergelaſſen und trägt auf
+der Hand eine Taube mit dem ſinnbildlichen Oelzweig.
+Die Dichterin habe hier den Frieden gefunden. Man
+darf dem Stanſer Bildhauer Hans von Matt Glück
+wünſchen, daß er mit der plaſtiſchen Andeutung der
+Nidwaldnertracht ſo geſchickt fertig wurde. Für die
+allzu redende Symbolik der „Friedensſucherin“ iſt er
+wohl nicht in erſter Linie haftbar. — Eine Neu⸗
+ſchöpfung iſt nicht nur der Denkmalbrunnen, ſondern
+auch der ganze weiträumige Platz, auf dem er ſteht.
+Einſtmals war hier ein Hafen für Sturmwetter;
+heute wandelt man auf einem friſchgrünen Kurplatz,
+deſſen Ausblick vom Bürgenſtock bis zum Frohnalp⸗
+ſtock reicht.
+Schöner noch als Fahnen leuchteten am Sonntag
+in dem Uferdorf Beckenried die Kletterroſen in den
+Gärten. Die Dorfſtraße, die zwiſchen Iſabelle Kaiſers
+„Ermitage“ und dem Grabmal der Dichterin auf dem
+Friedhof durch lauter Gärten führt, war dicht beſetzt</Unicode>
+            </TextEquiv>
         </TextRegion>
         <TextRegion type="paragraph" id="r30" custom="readingOrder {index:29;}">
             <Coords points="966,4360 965,4138 965,3953 1792,3948 1791,4660 1794,5118 974,5145 969,4684"/>

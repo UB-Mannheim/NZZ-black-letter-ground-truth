@@ -3,20 +3,20 @@
     <Metadata>
         <Creator></Creator>
         <Created>2017-12-08T13:16:48.228+01:00</Created>
-        <LastChange>2023-07-19T15:56:02.390+02:00</LastChange>
+        <LastChange>2023-07-21T12:47:13.813+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: German
                 Language: GermanStandard
                 Producer: ABBYY FineReader Engine 11</Comments>
-        <TranskribusMetadata docId="1148848" pageId="47121930" pageNr="24" tsid="130099403" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=BRAQZSCHYKYCKRGKGSKEJMWD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MHJCQSCKQLXEAHFKUFXNUVJN" imageId="38489785"/>
+        <TranskribusMetadata docId="1148848" pageId="47121930" pageNr="24" tsid="130345690" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=BRAQZSCHYKYCKRGKGSKEJMWD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LDDNPEWCUDDIGSSBZUYDBOWE" imageId="38489785"/>
     </Metadata>
     <Page imageFilename="nzz_18030322_0_0_a1_p1_1.tif" imageWidth="1952" imageHeight="2362">
         <PrintSpace>
             <Coords points="0,0 1819,0 1819,2316 0,2316"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1689864176243" caption="Regions reading order">
+            <OrderedGroup id="ro_1689939402466" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -123,7 +123,7 @@
                 <Coords points="94,658 1770,608 1770,648 94,698"/>
                 <Baseline points="106,687 1762,637"/>
                 <TextEquiv>
-                    <Unicode>Inlaͤndiſche Nachrichten. Arau. Conſtituirung von Glarus. Zuͤrich. (Wahlordnung.) Bern. (Pro¬</Unicode>
+                    <Unicode>Inlaͤndiſche Nachrichten. Arau. Conſtituirung von Glarus. Zuͤrich. (Wahlordnung.) Bern. (Pro⸗</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
@@ -135,6 +135,10 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
+            <TextEquiv>
+                <Unicode>Inlaͤndiſche Nachrichten. Arau. Conſtituirung von Glarus. Zuͤrich. (Wahlordnung.) Bern. (Pro⸗
+klamation der daſigen Regierungs⸗Commiſſion.)</Unicode>
+            </TextEquiv>
         </TextRegion>
         <TextRegion type="heading" id="r7" custom="readingOrder {index:6;} structure {type:heading;}">
             <Coords points="165,788 792,774 792,824 165,838"/>

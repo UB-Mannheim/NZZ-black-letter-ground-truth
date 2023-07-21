@@ -3,21 +3,21 @@
     <Metadata>
         <Creator></Creator>
         <Created>2017-12-08T13:16:54.915+01:00</Created>
-        <LastChange>2023-07-19T15:56:34.457+02:00</LastChange>
+        <LastChange>2023-07-21T13:11:13.672+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: German
                 Language: GermanStandard
                 Language: EnglishUnitedStates
                 Producer: ABBYY FineReader Engine 11</Comments>
-        <TranskribusMetadata docId="1148848" pageId="47121938" pageNr="32" tsid="130099471" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=HBQACWBWGYJEXELDDCAILHTK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CDNTRMQOXPFSBSEOSYPMITZM" imageId="38489793"/>
+        <TranskribusMetadata docId="1148848" pageId="47121938" pageNr="32" tsid="130347957" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=HBQACWBWGYJEXELDDCAILHTK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NQXDUFNCDEGDFAKAKFYIPTXT" imageId="38489793"/>
     </Metadata>
     <Page imageFilename="nzz_18110507_0_0_a1_p1_1.tif" imageWidth="2026" imageHeight="2480">
         <PrintSpace>
             <Coords points="0,0 2026,0 2026,2480 0,2480"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1689864176283" caption="Regions reading order">
+            <OrderedGroup id="ro_1689939402508" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -522,9 +522,25 @@
                 <Coords points="1192,1462 1193,1426 987,1426 987,1462"/>
                 <Baseline points="991,1458 1190,1454"/>
                 <TextEquiv>
-                    <Unicode>Gouverneur.”</Unicode>
+                    <Unicode>Gouverneur.“</Unicode>
                 </TextEquiv>
             </TextLine>
+            <TextEquiv>
+                <Unicode>welches ich Ew. Excellenz zu melden habe, iſt der Tod Ihres
+Adjutanten, des Kapitaͤn Pryoz, deſſen bewieſene Tapfer⸗
+keit ihm unſre Bewunderung erworben hat, und wegen deſ⸗
+ſen traurigen Abſterbens die ganze Beſatzung mich bittet,
+Ew. Excellenz ihre Theilnahme zu bezeugen. Aber es gefiel
+dem Allmaͤchtigen ihn zu ſich zu nehmen, und es kommt uns
+zu, wenn auch nicht ohne Kummer, doch mit Standhaftig⸗
+keit es zu ertragen. Im Uebrigen bitte ich Sie Ihren Sou⸗
+verain zu verſichern, daß den Verwundeten jede Aufmerk⸗
+ſamkeit und Obſorge bewieſen wird, und daß ſie mit einem
+Parlamentaͤr nach Jütland geſchickt werden ſollen, ſobald
+ſie im Stande ſind transportirt zu werden. Ich habe die
+Ehre mit hoͤchſter Achtung zu ſeyn, J. W. Maurice,
+Gouverneur.“</Unicode>
+            </TextEquiv>
         </TextRegion>
         <TextRegion type="heading" id="r16" custom="readingOrder {index:16;} structure {type:heading;}">
             <Coords points="1246,1465 1612,1465 1612,1512 1246,1512"/>
