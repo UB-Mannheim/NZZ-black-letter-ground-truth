@@ -28,7 +28,10 @@ The transcription rules are based on the [OCR-D Ground Truth Guidelines Level 2]
 2) **Additional characters** transcribed true to original (contrary to OCR-D Level 2):
     - Double oblique hyphen (⸗)
     - Em dash (—) instead of En dash (–)
-    
+
+### Funding
+This revision is part of the [OCR-D project](https://ocr-d.de/en/) and predominantly funded by the [German Research Foundation (DFG)](https://www.dfg.de/foerderung/info_wissenschaft/2020/info_wissenschaft_20_15/index.html).
+
 # Links
 - [[Original data set] Ground truth for Neue Zürcher Zeitung black letter period](https://github.com/impresso/NZZ-black-letter-ground-truth) 
 - [University Library Mannheim](https://www.bib.uni-mannheim.de/en/)
