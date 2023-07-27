@@ -5,20 +5,20 @@
 prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uro.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=?1.0.1
 </Creator>
         <Created>2017-12-08T13:20:25.297+01:00</Created>
-        <LastChange>2023-07-21T10:38:24.286+02:00</LastChange>
+        <LastChange>2023-07-27T14:52:19.685+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: German
                 Language: GermanStandard
                 Producer: ABBYY FineReader Engine 11</Comments>
-        <TranskribusMetadata docId="1148848" pageId="47122040" pageNr="127" tsid="130335803" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=TQGSHBBVZSREVUACYXJNSFQI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GVYUORGQQFEZULQLSLXMRYPV" imageId="38489895"/>
+        <TranskribusMetadata docId="1148848" pageId="47122040" pageNr="127" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=TQGSHBBVZSREVUACYXJNSFQI&amp;fileType=view" imageId="38489895"/>
     </Metadata>
     <Page imageFilename="nzz_19060918_0_0_a1_p1_1.tif" imageWidth="4306" imageHeight="5551">
         <PrintSpace>
-            <Coords points="5,2 4311,2 4311,5553 5,5553"/>
+            <Coords points="5,2 4303,6 4305,5549 5,5553"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1689939403141" caption="Regions reading order">
+            <OrderedGroup id="ro_1690462371046" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -1770,10 +1770,10 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
             </TextLine>
         </TextRegion>
         <TextRegion type="paragraph" id="r12" custom="readingOrder {index:11;}">
-            <Coords points="3315,1067 4311,1062 4311,2124 3326,2127"/>
+            <Coords points="3315,1067 4305,1062 4304,2123 3326,2127"/>
             <TextLine id="r12l1" primaryLanguage="German" custom="readingOrder {index:0;}">
-                <Coords points="4306,1071 3335,1074 3336,1117 4307,1117"/>
-                <Baseline points="3338,1111 4306,1107"/>
+                <Coords points="4303,1070 3335,1074 3336,1117 4302,1117"/>
+                <Baseline points="3338,1111 4299,1107"/>
                 <TextEquiv>
                     <Unicode>Staaten bereits ebenſo Mode geworden w</Unicode>
                 </TextEquiv>
@@ -1788,16 +1788,16 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r12l3" primaryLanguage="German" custom="readingOrder {index:2;}">
-                <Coords points="3408,1166 3408,1207 4307,1206 4307,1159"/>
-                <Baseline points="3413,1202 4307,1197"/>
+                <Coords points="3408,1166 3408,1207 4302,1205 4302,1160"/>
+                <Baseline points="3413,1202 4296,1195"/>
                 <TextEquiv>
                     <Unicode>Es lag auf der Hand, wie leicht die in</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r12l4" primaryLanguage="German" custom="readingOrder {index:3;}">
-                <Coords points="4307,1204 3333,1208 3333,1253 4307,1251"/>
-                <Baseline points="3338,1247 4305,1241"/>
+                <Coords points="4301,1204 3333,1208 3333,1253 4300,1252"/>
+                <Baseline points="3338,1247 4297,1240"/>
                 <TextEquiv>
                     <Unicode>Vorſtehenden dargeſtellte Entwicklung den Ver</Unicode>
                 </TextEquiv>
@@ -1812,40 +1812,40 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r12l6" primaryLanguage="German" custom="readingOrder {index:5;}">
-                <Coords points="3334,1300 3334,1346 4307,1341 4307,1296"/>
-                <Baseline points="3334,1337 4307,1333"/>
+                <Coords points="3334,1300 3334,1346 4304,1341 4303,1292"/>
+                <Baseline points="3334,1337 4302,1333"/>
                 <TextEquiv>
                     <Unicode>zur Einmiſchung in die innern Verhältniſſ</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r12l7" primaryLanguage="German" custom="readingOrder {index:6;}">
-                <Coords points="3334,1345 3334,1392 4307,1386 4307,1341"/>
-                <Baseline points="3343,1383 4307,1378"/>
+                <Coords points="3334,1345 3334,1392 4303,1386 4303,1341"/>
+                <Baseline points="3343,1383 4300,1378"/>
                 <TextEquiv>
                     <Unicode>Mexikos bieten könnte. Aber die nun einma</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r12l8" primaryLanguage="German" custom="readingOrder {index:7;}">
-                <Coords points="3334,1391 3334,1437 4307,1432 4307,1386"/>
-                <Baseline points="3341,1426 3730,1427 4308,1422"/>
+                <Coords points="3334,1391 3334,1437 4302,1432 4303,1385"/>
+                <Baseline points="3341,1426 3730,1427 4300,1421"/>
                 <TextEquiv>
                     <Unicode>von Porfirio Diaz befolgte Politik kann nich</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r12l9" primaryLanguage="German" custom="readingOrder {index:8;}">
-                <Coords points="3338,1482 4307,1475 4307,1432 3338,1436"/>
-                <Baseline points="3340,1472 3773,1472 4305,1466"/>
+                <Coords points="3338,1482 4304,1474 4304,1432 3338,1436"/>
+                <Baseline points="3340,1472 3773,1472 4299,1466"/>
                 <TextEquiv>
                     <Unicode>rückgängig gemacht werden, mögen auch di</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r12l10" primaryLanguage="German" custom="readingOrder {index:9;}">
-                <Coords points="3338,1527 4307,1520 4307,1475 3338,1481"/>
-                <Baseline points="3340,1517 3817,1516 4307,1512"/>
+                <Coords points="3338,1527 4304,1519 4302,1473 3338,1481"/>
+                <Baseline points="3340,1517 3817,1516 4299,1512"/>
                 <TextEquiv>
                     <Unicode>Sympathien der Mexikaner für die Beglücke</Unicode>
                 </TextEquiv>
@@ -1860,15 +1860,15 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r12l12" primaryLanguage="German" custom="readingOrder {index:11;}">
-                <Coords points="3337,1617 4307,1609 4307,1566 3337,1572"/>
-                <Baseline points="3342,1608 4307,1601"/>
+                <Coords points="3337,1617 4302,1608 4303,1566 3337,1572"/>
+                <Baseline points="3342,1608 4301,1601"/>
                 <TextEquiv>
                     <Unicode>gens iſt Mexiko durch dieſe Politik zu eine</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r12l13" primaryLanguage="German" custom="readingOrder {index:12;}">
-                <Coords points="3336,1662 4304,1655 4303,1609 3335,1616"/>
+                <Coords points="3336,1662 4302,1654 4303,1609 3335,1616"/>
                 <Baseline points="3343,1654 4301,1647"/>
                 <TextEquiv>
                     <Unicode>wirtſchaftlichen Blüte gelangt, die ſeine Wide</Unicode>
@@ -1876,8 +1876,8 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r12l14" primaryLanguage="German" custom="readingOrder {index:13;}">
-                <Coords points="3336,1707 4307,1702 4307,1656 3336,1662"/>
-                <Baseline points="3344,1698 4307,1692"/>
+                <Coords points="3336,1707 4304,1703 4305,1656 3336,1662"/>
+                <Baseline points="3344,1698 4301,1690"/>
                 <TextEquiv>
                     <Unicode>ſtandskraft weſentlich geſteigert hat. Mexiko i</Unicode>
                 </TextEquiv>
@@ -1892,24 +1892,24 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r12l16" primaryLanguage="German" custom="readingOrder {index:15;}">
-                <Coords points="3338,1797 4307,1793 4307,1748 3338,1752"/>
-                <Baseline points="3343,1789 4306,1784"/>
+                <Coords points="3338,1797 4303,1793 4303,1748 3338,1752"/>
+                <Baseline points="3343,1789 4301,1783"/>
                 <TextEquiv>
                     <Unicode>werfen den Vereinigten Staaten ſchwer genu</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r12l17" primaryLanguage="German" custom="readingOrder {index:16;}">
-                <Coords points="3338,1840 4064,1841 4307,1836 4307,1793 3337,1796"/>
-                <Baseline points="3345,1835 4307,1830"/>
+                <Coords points="3338,1840 4064,1841 4303,1837 4304,1792 3337,1796"/>
+                <Baseline points="3345,1835 4300,1829"/>
                 <TextEquiv>
                     <Unicode>fallen dürfte. Seine Selbſtändigkeit erſchein</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r12l18" primaryLanguage="German" custom="readingOrder {index:17;}">
-                <Coords points="4307,1836 3937,1840 3339,1841 3339,1888 4306,1884"/>
-                <Baseline points="3343,1879 3819,1879 4307,1874"/>
+                <Coords points="4303,1837 3937,1840 3339,1841 3339,1888 4303,1884"/>
+                <Baseline points="3343,1879 3819,1879 4300,1874"/>
                 <TextEquiv>
                     <Unicode>daher geſichert. Freilich, die Frage bleibt offen</Unicode>
                 </TextEquiv>
@@ -1924,24 +1924,24 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r12l20" primaryLanguage="German" custom="readingOrder {index:19;}">
-                <Coords points="4307,1932 3343,1930 3342,1974 4306,1976"/>
-                <Baseline points="3346,1969 4307,1968"/>
+                <Coords points="4303,1932 3343,1930 3342,1974 4303,1976"/>
+                <Baseline points="3346,1969 4298,1967"/>
                 <TextEquiv>
                     <Unicode>mit der zunehmenden Einwanderung vo</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r12l21" primaryLanguage="German" custom="readingOrder {index:20;}">
-                <Coords points="4307,1976 3342,1976 3341,2022 4307,2021"/>
-                <Baseline points="3348,2014 4307,2014"/>
+                <Coords points="4303,1977 3342,1976 3341,2022 4303,2021"/>
+                <Baseline points="3348,2014 4299,2014"/>
                 <TextEquiv>
                     <Unicode>Yankees früher oder ſpäter den Vereinigte</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r12l22" primaryLanguage="German" custom="readingOrder {index:21;}">
-                <Coords points="3344,2067 4307,2070 4306,2020 3343,2024"/>
-                <Baseline points="3348,2060 4307,2058"/>
+                <Coords points="3344,2067 4302,2069 4304,2021 3343,2024"/>
+                <Baseline points="3348,2060 4299,2057"/>
                 <TextEquiv>
                     <Unicode>Staaten auch ohne Krieg, ſozuſagen dur</Unicode>
                 </TextEquiv>
@@ -1968,26 +1968,26 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
             </TextLine>
         </TextRegion>
         <TextRegion type="paragraph" id="r14" custom="readingOrder {index:13;}">
-            <Coords points="3331,2206 3856,2203 4311,2202 4307,3023 4309,3941 3346,3939"/>
+            <Coords points="3331,2206 3856,2203 4305,2200 4307,3023 4303,3943 3346,3939"/>
             <TextLine id="r14l1" primaryLanguage="German" custom="readingOrder {index:0;}">
-                <Coords points="3853,2207 3854,2244 4304,2243 4305,2203"/>
-                <Baseline points="3857,2240 4305,2235"/>
+                <Coords points="3853,2207 3854,2244 4303,2243 4302,2204"/>
+                <Baseline points="3857,2240 4300,2236"/>
                 <TextEquiv>
                     <Unicode>St. Rom, im Auguſt.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r14l2" primaryLanguage="German" custom="readingOrder {index:1;}">
-                <Coords points="4307,2244 3407,2247 3407,2287 4306,2285"/>
-                <Baseline points="3413,2283 4307,2278"/>
+                <Coords points="4302,2243 3407,2247 3407,2287 4301,2285"/>
+                <Baseline points="3413,2283 4300,2278"/>
                 <TextEquiv>
                     <Unicode>Wer in warmer, goldener Frühlings⸗ oder Frü</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r14l3" primaryLanguage="German" custom="readingOrder {index:2;}">
-                <Coords points="4307,2285 3345,2289 3345,2330 4307,2325"/>
-                <Baseline points="3351,2324 4307,2318"/>
+                <Coords points="4303,2285 3345,2289 3345,2330 4302,2324"/>
+                <Baseline points="3351,2324 4298,2319"/>
                 <TextEquiv>
                     <Unicode>ſommer⸗Mittagsſtunde bei dem Patriarchen unter d</Unicode>
                 </TextEquiv>
@@ -2018,16 +2018,16 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r14l7" primaryLanguage="German" custom="readingOrder {index:6;}">
-                <Coords points="3345,2495 4307,2491 4307,2449 3345,2454"/>
-                <Baseline points="3349,2487 4305,2483"/>
+                <Coords points="3345,2495 4303,2492 4303,2450 3345,2454"/>
+                <Baseline points="3349,2487 4301,2483"/>
                 <TextEquiv>
                     <Unicode>ſtimmten Tiſche allmählich einige Gäſte ſammeln. D</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r14l8" primaryLanguage="German" custom="readingOrder {index:7;}">
-                <Coords points="3345,2493 3345,2535 4307,2531 4307,2491"/>
-                <Baseline points="3349,2528 4307,2524"/>
+                <Coords points="3345,2493 3345,2535 4303,2531 4302,2489"/>
+                <Baseline points="3349,2528 4300,2524"/>
                 <TextEquiv>
                     <Unicode>Tür des freundlichen Raums iſt durch ein ſchweb</Unicode>
                 </TextEquiv>
@@ -2050,8 +2050,8 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r14l11" primaryLanguage="German" custom="readingOrder {index:10;}">
-                <Coords points="3350,2655 4305,2655 4305,2614 3351,2618"/>
-                <Baseline points="3355,2649 4304,2647"/>
+                <Coords points="3350,2655 4303,2655 4303,2615 3351,2618"/>
+                <Baseline points="3355,2649 4301,2648"/>
                 <TextEquiv>
                     <Unicode>mit dem Saum der blendendweißen Tiſchdecke ſpi</Unicode>
                 </TextEquiv>
@@ -2082,8 +2082,8 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r14l15" primaryLanguage="German" custom="readingOrder {index:14;}">
-                <Coords points="4307,2775 3355,2779 3354,2817 4306,2816"/>
-                <Baseline points="3356,2811 4305,2810"/>
+                <Coords points="4304,2773 3355,2779 3354,2817 4304,2817"/>
+                <Baseline points="3356,2811 4301,2810"/>
                 <TextEquiv>
                     <Unicode>Sabineröl, Pfeffer und Salz, ſowie endlich die dur</Unicode>
                 </TextEquiv>
@@ -2098,24 +2098,24 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r14l17" primaryLanguage="German" custom="readingOrder {index:16;}">
-                <Coords points="3349,2897 4307,2898 4307,2857 3349,2856"/>
-                <Baseline points="3352,2890 3834,2892 4307,2890"/>
+                <Coords points="3349,2897 4304,2897 4303,2856 3349,2856"/>
+                <Baseline points="3352,2890 3834,2892 4300,2890"/>
                 <TextEquiv>
                     <Unicode>allerſäuberlichſte geputzten posate — Meſſer und Ga</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r14l18" primaryLanguage="German" custom="readingOrder {index:17;}">
-                <Coords points="3349,2897 3349,2939 4307,2939 4307,2897"/>
-                <Baseline points="3352,2932 4307,2932"/>
+                <Coords points="3349,2897 3349,2939 4303,2939 4305,2896"/>
+                <Baseline points="3352,2932 4303,2931"/>
                 <TextEquiv>
                     <Unicode>Natürlich fehlt es auch an Servietten nicht. Das folgen</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r14l19" primaryLanguage="German" custom="readingOrder {index:18;}">
-                <Coords points="4307,2938 3354,2940 3356,2979 4306,2985"/>
-                <Baseline points="3357,2973 4307,2973"/>
+                <Coords points="4304,2937 3354,2940 3356,2979 4304,2984"/>
+                <Baseline points="3357,2973 4301,2973"/>
                 <TextEquiv>
                     <Unicode>Schauſpiel entwickelt ſich beinahe mit der Regelmäß</Unicode>
                 </TextEquiv>
@@ -2138,16 +2138,16 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r14l22" primaryLanguage="German" custom="readingOrder {index:21;}">
-                <Coords points="4307,3064 3351,3063 3349,3103 4307,3104"/>
-                <Baseline points="3351,3097 4307,3097"/>
+                <Coords points="4304,3064 3351,3063 3349,3103 4304,3104"/>
+                <Baseline points="3351,3097 4302,3096"/>
                 <TextEquiv>
                     <Unicode>Antlitz durch den Gittervorhang geſteckt, es aber wie</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r14l23" primaryLanguage="German" custom="readingOrder {index:22;}">
-                <Coords points="3351,3105 3350,3144 4305,3145 4307,3106"/>
-                <Baseline points="3351,3136 4307,3138"/>
+                <Coords points="3351,3105 3350,3144 4304,3145 4304,3106"/>
+                <Baseline points="3351,3136 4302,3139"/>
                 <TextEquiv>
                     <Unicode>zurückgezogen, als er den Cavaliere ufficiale S. n</Unicode>
                 </TextEquiv>
@@ -2162,16 +2162,16 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r14l25" primaryLanguage="German" custom="readingOrder {index:24;}">
-                <Coords points="4307,3188 3352,3186 3351,3225 4307,3229"/>
-                <Baseline points="3353,3219 4308,3222"/>
+                <Coords points="4304,3186 3352,3186 3351,3225 4304,3228"/>
+                <Baseline points="3353,3219 4300,3220"/>
                 <TextEquiv>
                     <Unicode>Leute nach ihren Orden; nur die Ritter des Annunziat</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r14l26" primaryLanguage="German" custom="readingOrder {index:25;}">
-                <Coords points="3351,3225 3350,3268 4307,3268 4307,3228"/>
-                <Baseline points="3351,3259 4308,3263"/>
+                <Coords points="3351,3225 3350,3268 4303,3267 4303,3227"/>
+                <Baseline points="3351,3259 4301,3263"/>
                 <TextEquiv>
                     <Unicode>Ordens ſind Exzellenz.) Eine halbe Minute ſpä</Unicode>
                 </TextEquiv>
@@ -2194,8 +2194,8 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r14l29" primaryLanguage="German" custom="readingOrder {index:28;}">
-                <Coords points="4307,3352 3353,3349 3353,3390 4306,3394"/>
-                <Baseline points="3357,3382 4307,3385"/>
+                <Coords points="4300,3352 3353,3349 3353,3390 4302,3392"/>
+                <Baseline points="3357,3382 4300,3384"/>
                 <TextEquiv>
                     <Unicode>zur Sohle. Der Cavaliere ufficiale iſt ein höhe</Unicode>
                 </TextEquiv>
@@ -2210,8 +2210,8 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r14l31" primaryLanguage="German" custom="readingOrder {index:30;}">
-                <Coords points="4307,3434 3357,3431 3356,3470 4307,3475"/>
-                <Baseline points="3362,3465 4307,3467"/>
+                <Coords points="4303,3433 3357,3431 3356,3470 4303,3474"/>
+                <Baseline points="3362,3465 4301,3469"/>
                 <TextEquiv>
                     <Unicode>macht es ſich ſofort, nachdem er den weißbärtigen W</Unicode>
                 </TextEquiv>
@@ -2226,16 +2226,16 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r14l33" primaryLanguage="German" custom="readingOrder {index:32;}">
-                <Coords points="4310,3518 3364,3515 3364,3556 4310,3559"/>
-                <Baseline points="3364,3550 4308,3552"/>
+                <Coords points="4302,3518 3364,3515 3364,3556 4302,3558"/>
+                <Baseline points="3364,3550 4298,3552"/>
                 <TextEquiv>
                     <Unicode>hebt, während Zi Pascuale ebenfalls Platz genomm</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r14l34" primaryLanguage="German" custom="readingOrder {index:33;}">
-                <Coords points="4307,3559 3365,3556 3365,3595 4307,3599"/>
-                <Baseline points="3368,3589 4304,3593"/>
+                <Coords points="4305,3559 3365,3556 3365,3595 4304,3599"/>
+                <Baseline points="3368,3589 4302,3593"/>
                 <TextEquiv>
                     <Unicode>hat, mit neugieriger Vorſicht den über eine große, ru</Unicode>
                 </TextEquiv>
@@ -2274,8 +2274,8 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r14l39" primaryLanguage="German" custom="readingOrder {index:38;}">
-                <Coords points="4307,3764 3361,3760 3360,3802 4306,3804"/>
-                <Baseline points="3362,3794 4307,3797"/>
+                <Coords points="4302,3765 3361,3760 3360,3802 4302,3805"/>
+                <Baseline points="3362,3794 4299,3797"/>
                 <TextEquiv>
                     <Unicode>„Capitano Fracaſſa“, jetzige Abgeordnete und g</Unicode>
                 </TextEquiv>
@@ -2298,7 +2298,7 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r14l42" primaryLanguage="German" custom="readingOrder {index:41;}">
-                <Coords points="3362,3882 3363,3925 4307,3927 4307,3889"/>
+                <Coords points="3362,3882 3363,3925 4304,3928 4305,3889"/>
                 <Baseline points="3366,3916 4304,3921"/>
                 <TextEquiv>
                     <Unicode>Oſteria. In einem parlamentariſchen Wortgefecht h</Unicode>
@@ -3140,7 +3140,7 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
             </TextLine>
         </TextRegion>
         <TextRegion type="paragraph" id="r22" custom="readingOrder {index:21;}">
-            <Coords points="3346,3966 4311,3968 4309,5381 3348,5380"/>
+            <Coords points="3346,3966 4305,3968 4303,5381 3348,5380"/>
             <TextLine id="r22l1" primaryLanguage="German" custom="readingOrder {index:0;}">
                 <Coords points="4292,4018 4291,3977 3361,3975 3361,4016"/>
                 <Baseline points="3365,4010 4288,4011"/>
@@ -3150,24 +3150,24 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r22l2" primaryLanguage="German" custom="readingOrder {index:1;}">
-                <Coords points="4307,4019 3361,4017 3361,4056 4307,4060"/>
-                <Baseline points="3366,4051 4307,4052"/>
+                <Coords points="4302,4019 3361,4017 3361,4056 4302,4060"/>
+                <Baseline points="3366,4051 4299,4052"/>
                 <TextEquiv>
                     <Unicode>Da wird dann ein Band herumgelegt und zu ei</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r22l3" primaryLanguage="German" custom="readingOrder {index:2;}">
-                <Coords points="4307,4058 3362,4058 3362,4099 4307,4099"/>
-                <Baseline points="3365,4092 4306,4094"/>
+                <Coords points="4303,4059 3362,4058 3362,4099 4303,4100"/>
+                <Baseline points="3365,4092 4300,4093"/>
                 <TextEquiv>
                     <Unicode>kleinen Schleife geſchlungen, und die Bänder ſe</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r22l4" primaryLanguage="German" custom="readingOrder {index:3;}">
-                <Coords points="3362,4101 3362,4139 4307,4142 4307,4101"/>
-                <Baseline points="3366,4133 4307,4136"/>
+                <Coords points="3362,4101 3362,4139 4301,4142 4301,4101"/>
+                <Baseline points="3366,4133 4296,4135"/>
                 <TextEquiv>
                     <Unicode>ſcheinen aus den Zeiten der Kiepenhüte mit den brei</Unicode>
                 </TextEquiv>
@@ -3182,8 +3182,8 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r22l6" primaryLanguage="German" custom="readingOrder {index:5;}">
-                <Coords points="4307,4185 3362,4180 3362,4222 4307,4226"/>
-                <Baseline points="3365,4215 4305,4218"/>
+                <Coords points="4303,4186 3362,4180 3362,4222 4303,4225"/>
+                <Baseline points="3365,4215 4301,4218"/>
                 <TextEquiv>
                     <Unicode>ſtammen. Von dem einfarbigen Samt⸗ oder Atl</Unicode>
                 </TextEquiv>
@@ -3198,16 +3198,16 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r22l8" primaryLanguage="German" custom="readingOrder {index:7;}">
-                <Coords points="3364,4265 3364,4303 4307,4308 4307,4267"/>
-                <Baseline points="3369,4297 4306,4302"/>
+                <Coords points="3364,4265 3364,4303 4303,4307 4303,4268"/>
+                <Baseline points="3369,4297 4300,4302"/>
                 <TextEquiv>
                     <Unicode>Umriſſen und feinen Stichen wie eingeſtickt ausſeb</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r22l9" primaryLanguage="German" custom="readingOrder {index:8;}">
-                <Coords points="3365,4304 3365,4345 4307,4352 4307,4310"/>
-                <Baseline points="3368,4338 4306,4344"/>
+                <Coords points="3365,4304 3365,4345 4303,4352 4303,4310"/>
+                <Baseline points="3368,4338 4300,4344"/>
                 <TextEquiv>
                     <Unicode>ſehr verſchieden von den bisherigen zartfarbigen Blum</Unicode>
                 </TextEquiv>
@@ -3238,24 +3238,24 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r22l13" primaryLanguage="German" custom="readingOrder {index:12;}">
-                <Coords points="4307,4473 3366,4468 3366,4514 4307,4513"/>
-                <Baseline points="3371,4505 4307,4506"/>
+                <Coords points="4304,4473 3366,4468 3366,4514 4304,4513"/>
+                <Baseline points="3371,4505 4301,4506"/>
                 <TextEquiv>
                     <Unicode>ſowohl Straußenfedern als Flügel und ganze Bü</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r22l14" primaryLanguage="German" custom="readingOrder {index:13;}">
-                <Coords points="4307,4512 3367,4514 3368,4552 4306,4553"/>
-                <Baseline points="3369,4546 4308,4546"/>
+                <Coords points="4302,4512 3367,4514 3368,4552 4303,4553"/>
+                <Baseline points="3369,4546 4303,4546"/>
                 <TextEquiv>
                     <Unicode>von weichen ſchillernden Hahnenfedern, die bei jed</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r22l15" primaryLanguage="German" custom="readingOrder {index:14;}">
-                <Coords points="3367,4594 4307,4594 4307,4554 3367,4552"/>
-                <Baseline points="3368,4585 4305,4585"/>
+                <Coords points="3367,4594 4302,4594 4302,4554 3367,4552"/>
+                <Baseline points="3368,4585 4302,4586"/>
                 <TextEquiv>
                     <Unicode>Lufthauche auf und nieder wallen. Ebenſo üppig</Unicode>
                 </TextEquiv>
@@ -3270,8 +3270,8 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r22l17" primaryLanguage="German" custom="readingOrder {index:16;}">
-                <Coords points="4307,4635 3367,4636 3367,4672 4306,4674"/>
-                <Baseline points="3373,4667 4306,4668"/>
+                <Coords points="4304,4635 3367,4636 3367,4672 4303,4676"/>
+                <Baseline points="3373,4667 4301,4669"/>
                 <TextEquiv>
                     <Unicode>eine Art, z. B. Georginen, und alle in der Fa</Unicode>
                 </TextEquiv>
@@ -3286,16 +3286,16 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r22l19" primaryLanguage="German" custom="readingOrder {index:18;}">
-                <Coords points="4307,4716 3365,4714 3365,4753 4307,4758"/>
-                <Baseline points="3369,4747 4307,4749"/>
+                <Coords points="4302,4716 3365,4714 3365,4753 4302,4761"/>
+                <Baseline points="3369,4747 4300,4749"/>
                 <TextEquiv>
                     <Unicode>weicher ungarnierter Filzhut mit langem Seidenmuſſel</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r22l20" primaryLanguage="German" custom="readingOrder {index:19;}">
-                <Coords points="3364,4756 3363,4798 4309,4799 4309,4758"/>
-                <Baseline points="3368,4789 4307,4790"/>
+                <Coords points="3364,4756 3363,4798 4304,4800 4304,4759"/>
+                <Baseline points="3368,4789 4300,4792"/>
                 <TextEquiv>
                     <Unicode>ſchleier, der unter dem Kinn gebunden wird oder</Unicode>
                 </TextEquiv>
@@ -3318,8 +3318,8 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r22l23" primaryLanguage="German" custom="readingOrder {index:22;}">
-                <Coords points="4307,4883 3365,4875 3364,4917 4306,4921"/>
-                <Baseline points="3368,4911 4306,4917"/>
+                <Coords points="4303,4883 3365,4875 3364,4917 4302,4921"/>
+                <Baseline points="3368,4911 4299,4915"/>
                 <TextEquiv>
                     <Unicode>Samt die führende Rolle ſpielen, und ſchon zei</Unicode>
                 </TextEquiv>
@@ -3334,16 +3334,16 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r22l25" primaryLanguage="German" custom="readingOrder {index:24;}">
-                <Coords points="4307,4965 3361,4961 3361,4998 4307,5005"/>
-                <Baseline points="3363,4991 4307,4997"/>
+                <Coords points="4302,4965 3361,4961 3361,4998 4302,5005"/>
+                <Baseline points="3363,4991 4299,4997"/>
                 <TextEquiv>
                     <Unicode>graue, pflaumenblaue, grüne breit gerippte San</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r22l26" primaryLanguage="German" custom="readingOrder {index:25;}">
-                <Coords points="3361,4998 3360,5036 4307,5048 4307,5005"/>
-                <Baseline points="3361,5031 4304,5040"/>
+                <Coords points="3361,4998 3360,5036 4302,5048 4302,5005"/>
+                <Baseline points="3361,5031 4299,5040"/>
                 <TextEquiv>
                     <Unicode>Ein eleganteres Genre geben wiederum der „velo</Unicode>
                 </TextEquiv>
@@ -3358,8 +3358,8 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r22l28" primaryLanguage="German" custom="readingOrder {index:27;}">
-                <Coords points="4305,5089 3360,5078 3360,5119 4304,5127"/>
-                <Baseline points="3362,5113 4308,5122"/>
+                <Coords points="4304,5089 3360,5078 3360,5119 4303,5127"/>
+                <Baseline points="3362,5113 4300,5121"/>
                 <TextEquiv>
                     <Unicode>ab. Bei dem erſteren ſind kleine ſamtene Vier</Unicode>
                 </TextEquiv>
@@ -3374,8 +3374,8 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextLine id="r22l30" primaryLanguage="German" custom="readingOrder {index:29;}">
-                <Coords points="4307,5173 3360,5161 3361,5200 4307,5211"/>
-                <Baseline points="3362,5195 4307,5203"/>
+                <Coords points="4303,5173 3360,5161 3361,5200 4303,5211"/>
+                <Baseline points="3362,5195 4298,5203"/>
                 <TextEquiv>
                     <Unicode>Tat den Eindrücken eines Hühnerfußes im Sa</Unicode>
                 </TextEquiv>

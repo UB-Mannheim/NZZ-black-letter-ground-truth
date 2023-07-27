@@ -5,20 +5,20 @@
 prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=?1.0.1
 </Creator>
         <Created>2017-12-08T13:20:37.787+01:00</Created>
-        <LastChange>2023-07-21T10:38:05.256+02:00</LastChange>
+        <LastChange>2023-07-27T14:40:12.203+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: German
                 Language: GermanStandard
                 Producer: ABBYY FineReader Engine 11</Comments>
-        <TranskribusMetadata docId="1148848" pageId="47122043" pageNr="130" tsid="130335756" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=IZWMNKTTJCSTRJKALGQGKTDN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MUTYGJROAXVTCIRLWGALNJKZ" imageId="38489898"/>
+        <TranskribusMetadata docId="1148848" pageId="47122043" pageNr="130" tsid="131243782" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=IZWMNKTTJCSTRJKALGQGKTDN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NADNPELVFWIJVXIWKEPUYCHB" imageId="38489898"/>
     </Metadata>
     <Page imageFilename="nzz_19090430_0_0_a1_p1_1.tif" imageWidth="3839" imageHeight="5551">
         <PrintSpace>
-            <Coords points="72,-12 3911,-12 3911,5539 72,5539"/>
+            <Coords points="59,15 3837,15 3837,5427 59,5427"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1689939403168" caption="Regions reading order">
+            <OrderedGroup id="ro_1690461899057" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -2876,7 +2876,7 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
             </TextLine>
             <TextLine id="r17l25" primaryLanguage="German" custom="readingOrder {index:24;}">
                 <Coords points="3817,2096 2949,2098 2950,2137 3816,2134"/>
-                <Baseline points="2954,2133 3819,2128"/>
+                <Baseline points="2954,2133 3812,2126"/>
                 <TextEquiv>
                     <Unicode>Gleichmut den Kommandanten Giovannini, dem er</Unicode>
                 </TextEquiv>
@@ -2916,7 +2916,7 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
             </TextLine>
             <TextLine id="r17l30" primaryLanguage="German" custom="readingOrder {index:29;}">
                 <Coords points="3821,2296 2952,2301 2951,2342 3821,2332"/>
-                <Baseline points="2954,2337 3823,2327"/>
+                <Baseline points="2954,2337 3816,2328"/>
                 <TextEquiv>
                     <Unicode>liche Offizier brach in Phantaſieen aus, ſuchte ſich die</Unicode>
                 </TextEquiv>
@@ -2951,7 +2951,7 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
             </TextLine>
         </TextRegion>
         <TextRegion type="paragraph" id="r19" custom="readingOrder {index:18;}">
-            <Coords points="2941,2555 3837,2549 3839,4198 3838,5351 2948,5351 2953,4211"/>
+            <Coords points="2941,2555 3837,2549 3836,4197 3837,5350 2948,5351 2953,4211"/>
             <TextLine id="r19l1" primaryLanguage="German" custom="readingOrder {index:0;}">
                 <Coords points="3822,2551 3011,2564 3011,2604 3822,2591"/>
                 <Baseline points="3013,2598 3821,2587"/>
@@ -2969,7 +2969,7 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
             </TextLine>
             <TextLine id="r19l3" primaryLanguage="German" custom="readingOrder {index:2;}">
                 <Coords points="3823,2633 2952,2648 2952,2684 3822,2671"/>
-                <Baseline points="2957,2677 3824,2668"/>
+                <Baseline points="2957,2677 3819,2667"/>
                 <TextEquiv>
                     <Unicode>unter dem Vorſitze ſeines Präſidenten W. Amsler in</Unicode>
                 </TextEquiv>
@@ -2984,7 +2984,7 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
             </TextLine>
             <TextLine id="r19l5" primaryLanguage="German" custom="readingOrder {index:4;}">
                 <Coords points="3824,2714 2953,2722 2954,2761 3825,2753"/>
-                <Baseline points="2957,2753 3826,2745"/>
+                <Baseline points="2957,2753 3821,2743"/>
                 <TextEquiv>
                     <Unicode>zu der ſich aus allen elf Bezirken Vertreter eingefun⸗</Unicode>
                 </TextEquiv>
@@ -3174,7 +3174,7 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r19l29" primaryLanguage="German" custom="readingOrder {index:28;}">
-                <Coords points="3837,3681 2963,3685 2963,3724 3838,3716"/>
+                <Coords points="3837,3681 2963,3685 2963,3724 3837,3717"/>
                 <Baseline points="2963,3719 3834,3713"/>
                 <TextEquiv>
                     <Unicode>von 15,000 Fr. Der alte Vertrag wurde von vielen</Unicode>
@@ -3206,16 +3206,16 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r19l33" primaryLanguage="German" custom="readingOrder {index:32;}">
-                <Coords points="3838,3840 2968,3848 2967,3887 3838,3879"/>
-                <Baseline points="2970,3882 3837,3873"/>
+                <Coords points="3836,3840 2968,3848 2967,3887 3837,3879"/>
+                <Baseline points="2970,3882 3835,3873"/>
                 <TextEquiv>
                     <Unicode>Sache gütlich abgemacht werden. Die Konventional⸗</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r19l34" primaryLanguage="German" custom="readingOrder {index:33;}">
-                <Coords points="3838,3882 2969,3886 2970,3929 3838,3919"/>
-                <Baseline points="2969,3923 3839,3914"/>
+                <Coords points="3837,3882 2969,3886 2970,3929 3836,3919"/>
+                <Baseline points="2969,3923 3835,3914"/>
                 <TextEquiv>
                     <Unicode>ſtrafen, die bezahlt werden mußten, erreichten den Be⸗</Unicode>
                 </TextEquiv>
@@ -3229,8 +3229,8 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l36" primaryLanguage="German" custom="readingOrder {index:35;}">
-                <Coords points="3838,3961 2967,3971 2968,4008 3836,4000"/>
-                <Baseline points="2971,4003 3837,3993"/>
+                <Coords points="3836,3960 2967,3971 2968,4008 3836,4000"/>
+                <Baseline points="2971,4003 3833,3994"/>
                 <TextEquiv>
                     <Unicode>neuen Vertrages ſind ſchon wieder Verzeigungen vor⸗</Unicode>
                 </TextEquiv>
@@ -3276,7 +3276,7 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r19l42" primaryLanguage="German" custom="readingOrder {index:41;}">
-                <Coords points="3838,4201 3367,4204 3024,4214 3024,4250 3838,4240"/>
+                <Coords points="3836,4201 3367,4204 3024,4214 3024,4250 3837,4240"/>
                 <Baseline points="3029,4243 3836,4235"/>
                 <TextEquiv>
                     <Unicode>Das Placierungsbureau iſt nunmehr ganz an den</Unicode>
@@ -3308,8 +3308,8 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r19l46" primaryLanguage="German" custom="readingOrder {index:45;}">
-                <Coords points="3839,4363 2972,4372 2971,4415 3838,4401"/>
-                <Baseline points="2971,4407 3270,4399 3839,4396"/>
+                <Coords points="3837,4363 2972,4372 2971,4415 3837,4402"/>
+                <Baseline points="2971,4407 3270,4399 3834,4397"/>
                 <TextEquiv>
                     <Unicode>Frage der Reviſion des Wirtſchaftsgeſetzes geht die</Unicode>
                 </TextEquiv>
@@ -3325,15 +3325,15 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
             </TextLine>
             <TextLine id="r19l48" primaryLanguage="German" custom="readingOrder {index:47;}">
                 <Coords points="3838,4444 2968,4453 2968,4489 3837,4482"/>
-                <Baseline points="2970,4486 3841,4477"/>
+                <Baseline points="2970,4486 3835,4477"/>
                 <TextEquiv>
                     <Unicode>Ortes nicht gerne an eine ſolche Partialreviſion heran⸗</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r19l49" primaryLanguage="German" custom="readingOrder {index:48;}">
-                <Coords points="3839,4486 2968,4493 2968,4531 3837,4524"/>
-                <Baseline points="2970,4526 3838,4517"/>
+                <Coords points="3837,4486 2968,4493 2968,4531 3837,4524"/>
+                <Baseline points="2970,4526 3835,4517"/>
                 <TextEquiv>
                     <Unicode>tritt. Immerhin hofft man in Wirtekreiſen, die Reviſion</Unicode>
                 </TextEquiv>
@@ -3357,15 +3357,15 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
             </TextLine>
             <TextLine id="r19l52" primaryLanguage="German" custom="readingOrder {index:51;}">
                 <Coords points="3838,4607 2969,4611 2968,4650 3838,4646"/>
-                <Baseline points="2969,4647 3839,4640"/>
+                <Baseline points="2969,4647 3835,4640"/>
                 <TextEquiv>
                     <Unicode>kantonalen Wirtetages; die Durchführung iſt dem</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r19l53" primaryLanguage="German" custom="readingOrder {index:52;}">
-                <Coords points="3839,4648 2967,4654 2968,4691 3838,4682"/>
-                <Baseline points="2969,4687 3839,4679"/>
+                <Coords points="3838,4647 2967,4654 2968,4691 3838,4682"/>
+                <Baseline points="2969,4687 3837,4679"/>
                 <TextEquiv>
                     <Unicode>Verein der Wirte des Bezirkes Zürich übertragen wor⸗</Unicode>
                 </TextEquiv>
@@ -3381,45 +3381,45 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
             </TextLine>
             <TextLine id="r19l55" primaryLanguage="German" custom="readingOrder {index:54;}">
                 <Coords points="3837,4728 2968,4734 2968,4774 3838,4763"/>
-                <Baseline points="2969,4766 3839,4759"/>
+                <Baseline points="2969,4766 3834,4759"/>
                 <TextEquiv>
                     <Unicode>Wirtegenoſſenſchaft hat einen überraſchend</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l56" primaryLanguage="German" custom="readingOrder {index:55;}">
                 <Coords points="3837,4767 2967,4774 2967,4815 3836,4803"/>
-                <Baseline points="2969,4808 3838,4798"/>
+                <Baseline points="2969,4808 3834,4798"/>
                 <TextEquiv>
                     <Unicode>großen Erfolg zu verzeichnen. Sie zählt bereits 170</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r19l57" primaryLanguage="German" custom="readingOrder {index:56;}">
-                <Coords points="3839,4807 2970,4814 2971,4855 3839,4847"/>
+                <Coords points="3837,4807 2970,4814 2971,4855 3837,4847"/>
                 <Baseline points="2971,4848 3834,4835"/>
                 <TextEquiv>
                     <Unicode>Mitglieder, die an Anteilſcheinen über 120,000 Fr.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l58" primaryLanguage="German" custom="readingOrder {index:57;}">
-                <Coords points="3837,4847 2970,4855 2971,4896 3838,4884"/>
-                <Baseline points="2974,4888 3838,4878"/>
+                <Coords points="3837,4847 2970,4855 2971,4896 3837,4884"/>
+                <Baseline points="2974,4888 3835,4878"/>
                 <TextEquiv>
                     <Unicode>gezeichnet haben, von denen über 40,000 Fr. einbe⸗</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r19l59" primaryLanguage="German" custom="readingOrder {index:58;}">
-                <Coords points="3837,4884 2970,4898 2970,4934 3838,4924"/>
-                <Baseline points="2973,4929 3838,4918"/>
+                <Coords points="3837,4884 2970,4898 2970,4934 3837,4924"/>
+                <Baseline points="2973,4929 3835,4918"/>
                 <TextEquiv>
                     <Unicode>zahlt ſind. Man hofft, daß noch im Laufe dieſes</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r19l60" primaryLanguage="German" custom="readingOrder {index:59;}">
-                <Coords points="3838,4923 2973,4934 2972,4976 3837,4966"/>
-                <Baseline points="2973,4971 3395,4962 3840,4957"/>
+                <Coords points="3836,4924 2973,4934 2972,4976 3836,4965"/>
+                <Baseline points="2973,4971 3395,4962 3835,4957"/>
                 <TextEquiv>
                     <Unicode>Jahres ein Kapital von 250,000 Fr. zuſammengebracht</Unicode>
                 </TextEquiv>
@@ -3434,7 +3434,7 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r19l62" primaryLanguage="German" custom="readingOrder {index:61;}">
-                <Coords points="3838,5004 2971,5013 2971,5055 3838,5044"/>
+                <Coords points="3837,5004 2971,5013 2971,5055 3837,5044"/>
                 <Baseline points="2973,5050 3837,5038"/>
                 <TextEquiv>
                     <Unicode>den Präſidenten W. Amsler, im „Kreuz“ Erlenbach,</Unicode>
@@ -3442,8 +3442,8 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextLine id="r19l63" primaryLanguage="German" custom="readingOrder {index:62;}">
-                <Coords points="3838,5046 2971,5055 2972,5095 3839,5085"/>
-                <Baseline points="2973,5089 3838,5078"/>
+                <Coords points="3837,5045 2971,5055 2972,5095 3837,5085"/>
+                <Baseline points="2973,5089 3834,5079"/>
                 <TextEquiv>
                     <Unicode>der nun ſchon ſeit vielen Jahren den kantonalen Verein</Unicode>
                 </TextEquiv>
@@ -3451,7 +3451,7 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
             </TextLine>
             <TextLine id="r19l64" primaryLanguage="German" custom="readingOrder {index:63;}">
                 <Coords points="3836,5086 2972,5096 2972,5134 3835,5127"/>
-                <Baseline points="2975,5130 3344,5121 3840,5118"/>
+                <Baseline points="2975,5130 3344,5121 3832,5118"/>
                 <TextEquiv>
                     <Unicode>leitete und ſich um die Sache des Wirteſtandes ver⸗</Unicode>
                 </TextEquiv>
@@ -3459,7 +3459,7 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
             </TextLine>
             <TextLine id="r19l65" primaryLanguage="German" custom="readingOrder {index:64;}">
                 <Coords points="3836,5128 2972,5136 2971,5175 3834,5165"/>
-                <Baseline points="2975,5170 3343,5162 3836,5161"/>
+                <Baseline points="2975,5170 3343,5162 3830,5160"/>
                 <TextEquiv>
                     <Unicode>dient gemacht hat, zum Ehrenmitglied zu ernennen.</Unicode>
                 </TextEquiv>
@@ -3467,7 +3467,7 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
             </TextLine>
             <TextLine id="r19l66" primaryLanguage="German" custom="readingOrder {index:65;}">
                 <Coords points="3836,5167 2973,5177 2972,5216 3836,5208"/>
-                <Baseline points="2974,5210 3350,5202 3840,5200"/>
+                <Baseline points="2974,5210 3350,5202 3832,5201"/>
                 <TextEquiv>
                     <Unicode>Zum Schluſſe wurden noch die von der Stadt aufs</Unicode>
                 </TextEquiv>
@@ -3475,7 +3475,7 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
             </TextLine>
             <TextLine id="r19l67" primaryLanguage="German" custom="readingOrder {index:66;}">
                 <Coords points="3836,5210 2971,5214 2972,5256 3835,5246"/>
-                <Baseline points="2973,5248 3313,5243 3838,5241"/>
+                <Baseline points="2973,5248 3313,5243 3832,5241"/>
                 <TextEquiv>
                     <Unicode>modernſte eingerichteten Kellerräumlichkeiten im „Kaſino“</Unicode>
                 </TextEquiv>
@@ -3483,7 +3483,7 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
             </TextLine>
             <TextLine id="r19l68" primaryLanguage="German" custom="readingOrder {index:67;}">
                 <Coords points="3835,5248 2970,5254 2970,5295 3835,5289"/>
-                <Baseline points="2973,5287 3279,5283 3535,5284 3840,5280"/>
+                <Baseline points="2973,5287 3279,5283 3535,5284 3832,5279"/>
                 <TextEquiv>
                     <Unicode>Zürichhorn unter Führung des freundlichen Wirtes</Unicode>
                 </TextEquiv>
