@@ -32,6 +32,12 @@ The transcription rules are based on the [OCR-D Ground Truth Guidelines Level 2]
 ### Funding
 This revision is part of the [OCR-D project](https://ocr-d.de/en/) and predominantly funded by the [German Research Foundation (DFG)](https://www.dfg.de/foerderung/info_wissenschaft/2020/info_wissenschaft_20_15/index.html).
 
+## Later corrections
+After the release of version 2.0.0, further transcription errors were corrected by Stefan Weil
+at [Mannheim University Library](https://www.bib.uni-mannheim.de/en/) (December 2023 to November 2026).
+Most of them were found by comparing the transcriptions with the results of Tesseract OCR models.
+These corrections are not part of a release yet.
+
 # Links
 - [[Original data set] Ground truth for Neue Zürcher Zeitung black letter period](https://github.com/impresso/NZZ-black-letter-ground-truth)
 - [Mannheim University Library](https://www.bib.uni-mannheim.de/en/)
